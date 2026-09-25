@@ -352,11 +352,14 @@ https://prod-linear-media.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8?ed
 #EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet [" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-chno="429" group-title="Documentary & Wildlife",Animal Planet [Backup 2]
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp", Discovery 
-http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",Discovery
+https://prod-linear-media.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8?edge-cache-token=Expires=1790362930~Starts=1790359330~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=8YkWpeeYWvfEyXJpK0HwkzUXN8X9VFgvolQCiBbMmf3UwCBnrN8RewpjE6NfdnnV20SRSQnvWruk0PoYltYOAQ
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",National Geography HD
-http://202.70.146.135:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="Science Fiction" tvg-logo="https://assets-prod.services.toffeelive.com/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp",Discovery Science
+https://prod-linear-media.toffeelive.com/cdn/live/discovery_science/playlist.m3u8?edge-cache-token=Expires=1790362930~Starts=1790359330~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=8YkWpeeYWvfEyXJpK0HwkzUXN8X9VFgvolQCiBbMmf3UwCBnrN8RewpjE6NfdnnV20SRSQnvWruk0PoYltYOAQ
+
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://assets-prod.services.toffeelive.com/Ay6s-JQBv9knK3AHJTY1/posters/e8f65578-e82d-4e4a-a1ff-073becc5bd71.webp",Discovery Turbo
+https://prod-linear-media.toffeelive.com/cdn/live/discovery_turbo/playlist.m3u8?edge-cache-token=Expires=1790362930~Starts=1790359330~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=8YkWpeeYWvfEyXJpK0HwkzUXN8X9VFgvolQCiBbMmf3UwCBnrN8RewpjE6NfdnnV20SRSQnvWruk0PoYltYOAQ
 
 
 #EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="BBC Earth" tvg-logo="https://bbcearth.ca/wp-content/uploads/2024/02/BBCEarth_Logo-1.png" tvg-chno="431" group-title="Documentary & Wildlife",BBC Earth [Backup 1]
