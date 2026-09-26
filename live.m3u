@@ -10,6 +10,9 @@ https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.151.60.162:2122/play/a030/index.m3u8?hls
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024761/1790325177849494_athletics_live_india_in_action_landscape_thumb.jpg" group-title="Live Event", India In Action - Athletics - 25 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790379807~acl=/*~id=55461394537217499746677676737531~hmac=07a94103d52bcdc44f153342bc17d324aae1bf276cf1103bb5e8e38d8e8b08af
+
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png",Somoy TV
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1790352080:KeyName=prod_linear:Signature=5K6gbilSs2z32yQcSaZJ_ENDZF8k-kcUN8wbF0Ekj7KzPOa-0Pilyr0P-NY_WsrKliFiH-0NP0IrX3ro4HuCBA"}
@@ -20,7 +23,7 @@ https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-09-26 12:55:14 UTC
+# Auto-Updated via Actions at: 2026-09-26 13:00:26 UTC
 
 
 
