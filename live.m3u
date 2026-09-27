@@ -23,13 +23,7 @@ https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-09-27 16:45:17 UTC
-
-#EXTINF:-1 tvg-id="tapmad-17698" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900692921020x576.jpg" group-title="Sports Live", South Africa vs Australia - 2nd ODI - Australia Tour of South Africa 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-17388" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17899859771020x576.jpg" group-title="Sports Live", England vs Sri Lanka - 3rd ODI - Sri Lanka Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+# Auto-Updated via Actions at: 2026-09-27 16:50:22 UTC
 
 #EXTINF:-1 tvg-id="tapmad-17850" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904434171020x576.jpg" group-title="Sports Live", Denmark vs Wales - MATCHDAY 2 - UEFA Nations League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
