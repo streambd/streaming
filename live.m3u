@@ -23,16 +23,10 @@ https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-09-28 20:45:20 UTC
-
-#EXTINF:-1 tvg-id="tapmad-17860" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904483411020x576.jpg" group-title="Sports Live", Romania vs Bosnia and Herzegovina - MATCHDAY 2 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+# Auto-Updated via Actions at: 2026-09-28 20:50:19 UTC
 
 #EXTINF:-1 tvg-id="tapmad-17861" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904486951020x576.jpg" group-title="Sports Live", Belgium vs France - MATCHDAY 2 - UEFA Nations League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-17862" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904490751020x576.jpg" group-title="Sports Live", Northern Ireland vs Hungary - MATCHDAY 2 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-17863" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904492891020x576.jpg" group-title="Sports Live", Turkiye vs Italy - MATCHDAY 2 - UEFA Nations League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
