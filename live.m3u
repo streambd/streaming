@@ -23,10 +23,16 @@ https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-09-29 18:15:20 UTC
+# Auto-Updated via Actions at: 2026-09-29 18:20:18 UTC
 
-#EXTINF:-1 tvg-id="tapmad-17865" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17905423831020x576.jpg" group-title="Sports Live", Finland vs Belarus - MATCHDAY 2 - UEFA Nations League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17867" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17905428471020x576.jpg" group-title="Sports Live", Spain vs Croatia - MATCHDAY 2 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17869" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17905432211020x576.jpg" group-title="Sports Live", Slovakia vs Kazakhstan - MATCHDAY 2 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17870" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17905436641020x576.jpg" group-title="Sports Live", Czechia vs England - MATCHDAY 2 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 
 
