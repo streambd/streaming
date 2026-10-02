@@ -23,7 +23,7 @@ https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-10-02 09:00:24 UTC
+# Auto-Updated via Actions at: 2026-10-02 09:05:15 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18084" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907727981020x576.jpg" group-title="Sports Live", Pakistan U19 vs Bangladesh U19 - Group Stage - Pakistan Women's Under-19s T20 Tri-Series 2026
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
@@ -36,6 +36,9 @@ https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-17648" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900617131020x576.jpg" group-title="Sports Live", Chattogram City FC vs Bangladesh Police FC - Round 2 - Bangladesh Football League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17649" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900618991020x576.jpg" group-title="Sports Live", PWD Sports Club vs Brothers Union Ltd - Round 2 - Bangladesh Football League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 
 
 
