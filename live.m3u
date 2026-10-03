@@ -23,13 +23,25 @@ https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-10-03 15:45:17 UTC
+# Auto-Updated via Actions at: 2026-10-03 15:50:18 UTC
 
 #EXTINF:-1 tvg-id="tapmad-17713" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17903364351020x576.jpg" group-title="Sports Live", India vs West Indies - 3rd ODI - West Indies Tour of India 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18128" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907671141020x576.jpg" group-title="Sports Live", Lamborghini Super Trofeo - Race 1 - Race 1 - GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17894" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906863111020x576.jpg" group-title="Sports Live", Iceland vs Bulgaria - MATCHDAY 3 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17895" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906865141020x576.jpg" group-title="Sports Live", Belarus vs San Marino - MATCHDAY 3 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17896" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906867081020x576.jpg" group-title="Sports Live", Croatia vs England - MATCHDAY 3 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17897" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907518361020x576.jpg" group-title="Sports Live", Estonia vs Luxembourg - MATCHDAY 3 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 
 
