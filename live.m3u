@@ -23,7 +23,7 @@ https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-10-03 09:30:20 UTC
+# Auto-Updated via Actions at: 2026-10-03 09:35:14 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18085" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907729391020x576.jpg" group-title="Sports Live", Pakistan U19 vs Sri Lanka U19 - Group Stage - Pakistan Women's Under-19s T20 Tri-Series 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
@@ -42,6 +42,9 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-17652" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900621371020x576.jpg" group-title="Sports Live", Fortis FC Ltd vs City Club - Round 2 - Bangladesh Football League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18188" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907767021020x576.jpg" group-title="Sports Live", SRO GT CUP - Race 2 - Race 2 - GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 
 
 
