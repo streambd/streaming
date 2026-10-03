@@ -23,10 +23,16 @@ https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-10-03 05:35:14 UTC
+# Auto-Updated via Actions at: 2026-10-03 05:40:18 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18176" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907748071020x576.jpg" group-title="Sports Live", SRO GT CUP - Race 1 - Race 1 - GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17988" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907543801020x576.jpg" group-title="Sports Live", Malaka to Batu Pahat Live - Stage 7 - Le Tour de Langkawi 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18085" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907729391020x576.jpg" group-title="Sports Live", Pakistan U19 vs Sri Lanka U19 - Group Stage - Pakistan Women's Under-19s T20 Tri-Series 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 
 
