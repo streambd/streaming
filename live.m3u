@@ -23,19 +23,25 @@ https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-10-03 09:00:27 UTC
+# Auto-Updated via Actions at: 2026-10-03 09:05:14 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18085" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907729391020x576.jpg" group-title="Sports Live", Pakistan U19 vs Sri Lanka U19 - Group Stage - Pakistan Women's Under-19s T20 Tri-Series 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18098" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907591401020x576.jpg" group-title="Sports Live", GT World Challenge powered by AWS - Qualifying 1 (Group A & B) Live - Qualifying 1 - GT World Challenge EU & Asia 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18104" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907621781020x576.jpg" group-title="Sports Live", GT3 Revival Series - Qualifying 1 & 2 - Qualifying Round 1 & 2 - GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-17713" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17903364351020x576.jpg" group-title="Sports Live", India vs West Indies - 3rd ODI - West Indies Tour of India 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17650" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900619681020x576.jpg" group-title="Sports Live", Dhaka Wanderers Club vs Abahani Ltd. Dhaka - Round 2 - Bangladesh Football League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17651" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900620601020x576.jpg" group-title="Sports Live", Arambagh Krira Shangha vs Rahamatgonj MFS - Round 2 - Bangladesh Football League 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17652" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900621371020x576.jpg" group-title="Sports Live", Fortis FC Ltd vs City Club - Round 2 - Bangladesh Football League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 
 
 
