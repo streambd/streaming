@@ -23,13 +23,10 @@ https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-10-03 07:20:16 UTC
+# Auto-Updated via Actions at: 2026-10-03 07:25:14 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18176" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907748071020x576.jpg" group-title="Sports Live", SRO GT CUP - Race 1 - Race 1 - GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-17988" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907543801020x576.jpg" group-title="Sports Live", Malaka to Batu Pahat Live - Stage 7 - Le Tour de Langkawi 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18025" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906828381020x576.jpg" group-title="Sports Live", Moto 3 - Grand Prix of Shanghai China Live - Race - UIM
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
@@ -39,6 +36,9 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18037" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907537451020x576.jpg" group-title="Sports Live", Round 10 Race - Inje, South Korea Live - Race - Kumho FIA TCR World Tour Euro Series 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18182" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907759991020x576.jpg" group-title="Sports Live", GTWC ASIA - Race 1 - Race 1 - GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 
 
 
