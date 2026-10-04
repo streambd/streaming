@@ -23,10 +23,13 @@ https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-10-04 00:15:17 UTC
+# Auto-Updated via Actions at: 2026-10-04 00:20:18 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18228" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907627361020x576.jpg" group-title="Sports Live", Silva vs Wang - UFC 332 - UFC 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18194" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908517401020x576.jpg" group-title="Sports Live", SRO GT CUP - Qualifying 2 - Qualifying 2 - GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 
 
 
