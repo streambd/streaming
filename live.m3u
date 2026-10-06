@@ -23,7 +23,28 @@ https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-10-06 18:15:21 UTC
+# Auto-Updated via Actions at: 2026-10-06 18:20:17 UTC
+
+#EXTINF:-1 tvg-id="tapmad-17918" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908486111020x576.jpg" group-title="Sports Live", Croatia vs Spain - MATCHDAY 4 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17919" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908487751020x576.jpg" group-title="Sports Live", Moldova vs Slovakia - MATCHDAY 4 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17920" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908489601020x576.jpg" group-title="Sports Live", Luxembourg vs Bulgaria - MATCHDAY 4 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17921" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908491351020x576.jpg" group-title="Sports Live", Belarus vs Finland - MATCHDAY 4 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17922" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908493191020x576.jpg" group-title="Sports Live", Albania vs San Marino - MATCHDAY 4 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17923" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908496981020x576.jpg" group-title="Sports Live", Estonia vs Iceland - MATCHDAY 4 - UEFA Nations League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17924" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908498611020x576.jpg" group-title="Sports Live", England vs Czechia - MATCHDAY 4 - UEFA Nations League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 
 
 
