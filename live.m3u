@@ -23,7 +23,7 @@ https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-10-06 18:30:23 UTC
+# Auto-Updated via Actions at: 2026-10-06 18:35:16 UTC
 
 #EXTINF:-1 tvg-id="tapmad-17918" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908486111020x576.jpg" group-title="Sports Live", Croatia vs Spain - MATCHDAY 4 - UEFA Nations League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
@@ -45,6 +45,12 @@ https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-17924" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908498611020x576.jpg" group-title="Sports Live", England vs Czechia - MATCHDAY 4 - UEFA Nations League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17925" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908499891020x576.jpg" group-title="Sports Live", Switzerland vs North Macedonia - MATCHDAY 4 - UEFA Nations League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17926" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908501161020x576.jpg" group-title="Sports Live", Scotland vs Slovenia - MATCHDAY 4 - UEFA Nations League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 
 
 
