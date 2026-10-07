@@ -394,7 +394,7 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/noSf8Kv.th.jpg" group-title="Hindi Movies", Last Man in Tower (2026)
 https://ftp.ctgfun.com/Indian/Hindi%20Movies/Last%20Man%20In%20Tower%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Last%20Man%20In%20Tower%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://yghjn.b-cdn.net/upload/photos/2026/07/Dadagiri.Unlimited.jpg" group-title="Fibwatch Latest", Dadagiri Unlimited S11E27 1080P
+#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://yghjn.b-cdn.net/upload/photos/2026/07/Dadagiri.Unlimited.jpg" group-title="Hindi Movies", Dadagiri Unlimited S11E27 1080P
 https://yghjn.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dadagiri.Unlimited.S11E27.1080P.mkv|Referer=https://fibwatch.art/
 
 #EXTINF:-1 tvg-logo="http://cineplexbd.net/uploads/1789710402_MV5BZWM2MDk4Y2QtOTY5Ny00MzU0LWE5YWUtZTVlNjgyODI3MjQwXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies", Ajo Ordangini
