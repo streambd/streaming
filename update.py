@@ -10,12 +10,17 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 # 🏆 Sports LIVE
 # ==========================================
 
-#EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Star Sports 2 Hindi (720p)
-https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Star Sports 2 
+https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Star Sports 1 
+http://198.195.239.50:8095/STAR.SPORTS1.HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAACUCAMAAACp1UvlAAAA4VBMVEX///8AAACEhol8foHDw8XJyssjHyCpp6js7e2Zm56hoKCWmJqrqqv6+vqBg4aenZ3S09R0d3ri4+N8enuvsLKJjI4LAASipKYYExVQTk/Z2tu6u7z09PS+MR8TDQ67IQD+8eX6xp/+9e/4tY384cv3qn/6yqv2llLzbAD/6NY+QUX1eAAwMDH+07j1ijf7vpf/9N7///f1jkRoZmf9x3X94bn1gBX3o2v6tT782KVcWlv4r3v72MPNbGPwzsv6uU78z43epaHBPS344+G8JxDHXVTGUkfWhn+4AADQeHDltrL9kHhgAAADc0lEQVR4nO3We3ebNhgG8BdkbDBIxpSLB9jJ3DVJE7ed52brZfWauk3dfP8PNAkJm9ik13Q+Z+f5/YNACB6LF2EiAAAAAAAAAAAAAAAAAAAAAACA/43jQwe4w6/TQydo9/C3Qydo9+jkJ148732NYE+vmJ6eRM69iXZyBdZ3Ch+fPS6G7J4MnZ1ccdq948ZdyWx2mhPLOs/p9GKaCdsWRrOlNHYaHUKI1g62n8sK3RZlJmOMQp51JzpWwV0dzJqxuJw/eXrxzBWC+Z5h26bhJ0LeMDE7NrOTTQerz5ESIeqxfnsut7XwYpVCFeBMz1yHuG740e/zkz8uzk7nBRNOyfXp3PNJN7kbC5aX9U7GMr7pYKrFq/0OC81Q4r7Yz2Xp5zjjtFDbmKLZ9jlWoxJr1MjlzJ9fPjz7868nXMaKKahLTPjk63ZOww73zPG8TDKy9U5Y2qqUAhJqr6BsqDHRMl/64Yx+4fQgldsOdRoVRlSE8pzRpM6VJvTi5fHZs+PVNGM2i4mZ+9syl1cVi7zhMI9MlbGAexklpqP0VSnFlKja6vD6J9ktzzHYy6XmuRJZMtfAyojKV6nJZUWXL+av/yZ6s4xlGXmc56HS8WWuOKu45WKTS2Qkc/V0R+RWh0yuflmPTVrmqyVXzVW5+la64LICrELncl/+Q6+JlkfLQv5O4XWqS4fclbmMsjfcyVUXUlxNjc6lxjrVWIqSr8nl3HqOfaubdgsiJzTz9fYtTelq/W4VVO+9WX76fKDqS5Nl33iOfkZCH3dKu5FrM1ZG36/7/Vzu+XYNq3J1R+mgegGs7mREz+e0/PR+/EEWzebS8r0kX9WXbdIUcmp06USq7hOhjzbra7uUhdTyPm5yUZVrsthZNfp6cTiPVK7RLLo8Xl6vx+OjVSiq+5tadAvWyGWrdcJ0xKzOJWK3+i0B13W/GRt/rr5c/kCtoOmr3q111tf9k1nAC2vm0vTq/VjGuimrWySer8kl0/bsLZFsO5K6I/H1xjN7jbH7uVL9bRlZ1qRuNKXN79Aica+Pxkfv3qxyJppfGz0fdlNbh7i9aZzSMl/fovy4Xl9fraLsvr7Xd363Q39wW/9ug/xm/WlF3Ck69273f863GX/8oeE/y+oD//JJB3Bzc+gE7ZaHDgAAAAAAAAAAAAAAAAAAAAAAAPDf+RfXi1Xo+kxxHQAAAABJRU5ErkJggg==" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Ten Cricket 
+https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.151.60.162:2122/play/a030/index.m3u8?hls
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024761/1790325177849494_athletics_live_india_in_action_landscape_thumb.jpg" group-title="Live Event", India In Action - Athletics - 25 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790379807~acl=/*~id=55461394537217499746677676737531~hmac=07a94103d52bcdc44f153342bc17d324aae1bf276cf1103bb5e8e38d8e8b08af
