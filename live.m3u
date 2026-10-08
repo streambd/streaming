@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-08 10:40:17 UTC
+# Auto-Updated via Actions at: 2026-10-08 10:45:18 UTC
 
 
 
@@ -160,65 +160,61 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://alvetv.com/moviebang
 # ==========================================
 
 # --- ZEE Bangla (1 Server) ---
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CEtU2af.th.jpg", ZEE Bangla
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CEtU2af.th.jpg", ZEE Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CEtU2af.th.jpg", Colors Bangla Cenema
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CEtU2af.th.jpg", Colors Bangla Cenema
 http://51.75.127.199:3141/colorsbanglacinema/index.m3u8
 
 # --- Star Jalsa (1 Server) ---
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="", Zee Bangla Sonar
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="", Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 #EXTINF:-1 tvg-id="019de785-399f-7d6a-9f41-dc7f834b3300" tvg-name="TV9 Bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c08302f7fbe506a998e74c89fcf08ac_playmist_tv9_bangla_400x400.jpg" group-title="Indian Bangla",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/Ckk5qiv.th.jpg",ZB Cinema
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/Ckk5qiv.th.jpg",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 # --- Enter 10 (1 Server) ---
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwN1YYJ.th.jpg", Enter 10
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CwN1YYJ.th.jpg", Enter 10
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 
-# --- Jhankar Tv (1 Server) ---
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwNgw8v.th.jpg", Jhankar Tv
-https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
-
 # --- Colors Bangla (1 Server) ---
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CjpIwzb.th.jpg", COLORS Bangla
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CjpIwzb.th.jpg", COLORS Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 
 # --- Rongeen TV (1 Server) ---
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CjL1Wnj.th.png", Rongeen TV
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CjL1Wnj.th.png", Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 
 # --- Akash Ath (1 Server) ---
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CjLENsf.th.jpg", Akash Ath
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CjLENsf.th.jpg", Akash Ath
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 
 # --- Sun Bangla (1 Server) ---
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/Ce1euqu.th.jpg", Sun Bangla
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/Ce1euqu.th.jpg", Sun Bangla
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://27.124.71.27/Sun_Bangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="019de785-39a3-74dd-8ef6-fbe0295e1222" tvg-name="kolkata TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_067234e427ca902620258631b762cea8_playmist_kolkata_tv_400x400.jpg" group-title="Indian Bangla",kolkata TV
 https://tvsen6.aynaott.com/kolkatatv/index.m3u8
 
 # --- Sony Ath (1 Server) ---
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwOJwUx.th.jpg", Sony Ath
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CwOJwUx.th.jpg", Sony Ath
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 
 # --- Bangla Plus (1 Server) ---
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwN0v0g.th.jpg", Bangla Plus
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CwN0v0g.th.jpg", Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GyDcpFZ/Aaj-tak-logo.png" group-title="INDIAN CHANNELS",Aaj Tak Bangla
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/GyDcpFZ/Aaj-tak-logo.png" ",Aaj Tak Bangla
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 
 # --- ZEE Bangla Sonar (1 Server) ---
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/CwNMSCN.th.jpg", ZEE Bangla Sonar
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CwNMSCN.th.jpg", ZEE Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=562400.m3u8
 
 
