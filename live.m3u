@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-09 16:20:18 UTC
+# Auto-Updated via Actions at: 2026-10-09 16:25:15 UTC
 
 #EXTINF:-1 tvg-id="tapmad-17093" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909262331020x576.jpg" group-title="Sports Live", Al Fateh vs Al-Ahli - MATCHDAY 8 - Saudi Pro League 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
@@ -385,6 +385,9 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 # ==========================================
 # 🎬 Hindi Movies
 # ==========================================
+
+#EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/4b/4b6d2abd2f25cc6f8bf98efdd30c0253a8559288.webp" group-title="Hindi Movies", Toxic : A Fairy Tale for Grown-ups (2026)
+https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Toxic%20%282026%29%20Hindi%20Kannada%201080p%20HDRip%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20Kannada%201080p%20HDRip%20x264%20ESub%20%5BDDN%5D.mp4
 
 # --- Hindi Movies 1 (1 Server) ---
 #EXTINF:-1 tvg-logo="https://iili.io/noSf8Kv.th.jpg" group-title="Hindi Movies", Last Man in Tower (2026)
