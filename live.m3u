@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-09 19:05:14 UTC
+# Auto-Updated via Actions at: 2026-10-09 19:15:18 UTC
 
 #EXTINF:-1 tvg-id="tapmad-17094" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909263691020x576.jpg" group-title="Sports Live", Al-Nassr vs Diriyah - MATCHDAY 8 - Saudi Pro League 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
@@ -52,10 +52,13 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-name="A Sports" group-title="SPORTS",A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
 
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="Fight Network" tvg-logo="https://i.imgur.com/vlKPZHR.png" tvg-chno="552" group-title="Sports",Fight Network
+#EXTINF:-1 group-title="Sports Live" tvg-id="FightBox.nl@HD" tvg-logo="https://i.imgur.com/mRsnztA.png" ,FightBox HD
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+
+#EXTINF:-1 group-title="Sports Live" tvg-id="FightNetwork.ca" tvg-name="Fight Network" tvg-logo="https://i.imgur.com/vlKPZHR.png" tvg-chno="552",Fight Network
 https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png" group-title="Fancode-Cricket", World Championship of Legends, 2026 [English]
+#EXTINF:-1, group-title="Sports Live" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png" group-title="Fancode-Cricket", World Championship of Legends, 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4249227_english_hls_290b2baf07538_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791557925~_GO=Generated~acl=/mumbai/4249227_english_hls_290b2baf07538_1ta-di_h264/*~SessionID=cd185399e333ae9b_fc-app_sportsguruand_9458dc7a-d5c8-42~Signature=AXZsC1DSMFZBexS32o6HipeYNZ6eWKW70R_0-8ZTdMiWX7ymcXBr2bXZnT1_42sVT425D3hhfBa6q8TQgxwF1my2rIEJ
 
 
@@ -362,8 +365,11 @@ https://prod-linear-media.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8?ed
 #EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet [" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-chno="429" group-title="Documentary & Wildlife",Animal Planet [Backup 2]
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
 
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",Discovery
-https://edge.cdnlivetv.ru/secure/api/v1/us-discovery-channel/playlist.m3u8?token=25d9795daa82ce68aaaa4668f7a813b6e85031a35a7786f04bcb204d94149ebc.1779784311.18c27cf3768d78cabc21ce0592a7f7aa.ab52c6b85d2f2ec5183dc826281fd16c.280296bbb95d1bfd7b5330c986fed1e9&signature=48fd9da04d35879a20f32b7cf9aa305c9529c098bcadc28318a83f48055f7c0d
+#EXTINF:-1 group-title="Documentary & Wildlife" tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",Discovery
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 group-title="Documentary & Wildlife" tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",National Geographic Wild
+
+http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8
 
 #EXTINF:-1 group-title="Science Fiction" tvg-logo="https://assets-prod.services.toffeelive.com/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp",Discovery Science
 https://api.freeforall.dev/api/proxy?stream_id=157727
