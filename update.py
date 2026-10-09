@@ -104,10 +104,10 @@ https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://ekusheyserver.com/
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CwNc0IS.th.jpg", Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8?e=1784102570&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=78b23c868a34420397be9c985d04db9b
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SA TV
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://imgur.com/79g2kMA.png",SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bangla Tv
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://imgur.com/79g2kMA.png",Bangla Tv
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 
 # --- Deshe Bideshe TV (1 Server) ---
@@ -118,10 +118,10 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C76RVR9.png", Independent TV
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="019de785-397a-7df0-b523-b00c861be256" tvg-name="Mohona TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1c2c83a36e990c46964ce6ef25528d84_playmist_mohona_tv400x400.jpg" group-title="Bangla",Mohona TV
+#EXTINF:-1 group-title="BD TV" tvg-id="019de785-397a-7df0-b523-b00c861be256" tvg-name="Mohona TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1c2c83a36e990c46964ce6ef25528d84_playmist_mohona_tv400x400.jpg",Mohona TV
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BD TV",Ekushey TV
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 # --- Ekattor TV (1 Server) ---
@@ -133,7 +133,7 @@ https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
 https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
 
 #-------Channel 9----------
-#EXTINF:-1 tvg-logo="https://tubextra.b-cdn.net/channel9.png",Channel 9 HD
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://tubextra.b-cdn.net/channel9.png",Channel 9 HD
 https://playztv-apps.pages.dev/channel-9/index.m3u8
 
 # --- Deepto TV (1 Server) ---
@@ -141,23 +141,23 @@ https://playztv-apps.pages.dev/channel-9/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #-------Thikana TV---------
-#EXTINF:-1 tvg-logo="https://tubextra.b-cdn.net/thikana.jpg",Thikana Tv
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://tubextra.b-cdn.net/thikana.jpg",Thikana Tv
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VWL70Dvx/logo.png" group-title="BANGLADESHI CHANNELS",Me IPTV BD
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co/VWL70Dvx/logo.png" ,Me IPTV BD
 https://iptvbd.live/metv1080/1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" group-title="BANGLADESHI CHANNELS",Star News
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" ,Star News
 https://akash.sm-monirul.top/star_news.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" group-title="BANGLADESHI CHANNELS",Sanonda TV
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" ,Sanonda TV
 https://live.sanandatelevision.in/sananda/index.m3u8
 
 # --- Bangla Natok (1 Server) ---
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/ClcgnwX.th.jpg", Bangla Natok
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/B1Dn0E5UKs.png", Movie Bangla
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://imglink.cc/cdn/B1Dn0E5UKs.png", Movie Bangla
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 # ==========================================
@@ -227,43 +227,43 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=562
 # 📺 MUSIC TV 
 # ==========================================
 
-#EXTINF:-1 tvg-logo="",8xm
+#EXTINF:-1 group-title="Indian Music" tvg-logo="",8xm
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tubextra.b-cdn.net/images.png",YRF Music HD
+#EXTINF:-1 group-title="Indian Music" tvg-logo="https://tubextra.b-cdn.net/images.png",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa" tvg-logo="https://i.imgur.com/qubgOi5.png" tvg-chno="236" group-title="Indian Music",9X Jalwa
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/70fca4d1-156e-4c03-baa4-9a4b602e33d5/0.m3u8
 
 
-#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name="9X Jhakaas" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" tvg-chno="239" group-title="Indian Music",9X Jhakaas
+#EXTINF:-1 group-title="Indian Music" tvg-id="9XJhakaas.in" tvg-name="9X Jhakaas" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" tvg-chno="239",9X Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" tvg-chno="241" group-title="Indian Music",9XM
 https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8
 
 
-#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Hindi Music",Hindi Hits HD
+#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Indian Music",Hindi Hits HD
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 tvg-name="Joo Music" group-title="Hindi Movies",Joo Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Baallee" group-title="MUSIC",Music India
+#EXTINF:-1 group-title="Indian Music" tvg-name="Baallee" ,Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Music Masti
+#EXTINF:-1 group-title="Indian Music" tvg-logo="https://imgur.com/79g2kMA.png",Music Masti
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/Ck8EfSa.th.jpg" group-title="MUSIC",B4U Music
+#EXTINF:-1 group-title="Indian Music" tvg-logo="https://iili.io/Ck8EfSa.th.jpg" ,B4U Music
 https://cdn-2.pishow.tv/live/415/master.m3u8
 
-#EXTINF:-1 tvg-name="B4U Movies" group-title="MUSIC",Zoom
+#EXTINF:-1 group-title="Indian Music" tvg-name="B4U Movies",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 # --- Sangeet Bangla (1 Server) ---
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://tubextra.b-cdn.net/download%20(14).jpg", Sangeet Bangla
+#EXTINF:-1 group-title="Indian Music" tvg-logo="https://tubextra.b-cdn.net/download%20(14).jpg", Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://66.102.126.10:8000/play/a076/66165879.m3u8
 
@@ -286,7 +286,7 @@ https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Hindi Movies 3
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyEntertainmentTelevision" tvg-name="Sony Entertainment TV [Backup 3]" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp" tvg-chno="307" group-title="Indian Entertainment",Sony Entertainment TV [Backup 3]
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision" tvg-name="Sony Entertainment TV" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp" tvg-chno="307" group-title="Indian Entertainment",Sony Entertainment TV [Backup 3]
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee Tv" tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png" tvg-chno="315" group-title="Indian Entertainment",Zee Tv
