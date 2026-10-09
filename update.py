@@ -382,6 +382,9 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 # 🎬 Hindi Movies
 # ==========================================
 
+#EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/4b/4b6d2abd2f25cc6f8bf98efdd30c0253a8559288.webp" group-title="Hindi Movies", Toxic : A Fairy Tale for Grown-ups (2026)
+https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Toxic%20%282026%29%20Hindi%20Kannada%201080p%20HDRip%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20Kannada%201080p%20HDRip%20x264%20ESub%20%5BDDN%5D.mp4
+
 # --- Hindi Movies 1 (1 Server) ---
 #EXTINF:-1 tvg-logo="https://iili.io/noSf8Kv.th.jpg" group-title="Hindi Movies", Last Man in Tower (2026)
 https://ftp.ctgfun.com/Indian/Hindi%20Movies/Last%20Man%20In%20Tower%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Last%20Man%20In%20Tower%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
