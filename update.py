@@ -51,6 +51,13 @@ https://playztv-apps.pages.dev/a-sports/index.m3u8
 #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="Fight Network" tvg-logo="https://i.imgur.com/vlKPZHR.png" tvg-chno="552" group-title="Sports",Fight Network
 https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
 
+#EXTINF:-1 tvg-id="set-hd.sonyliv" tvg-name="SET HD" group-title="SonyLIV Entertainment",SET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-cookie=hdnea=exp=1791582559~acl=/*~id=30841197678905370064465201031201~hmac=5379ea5f11e314fa4c69c1bfdfe37f5f6a3d47d3ddace6830d01d4119c0ca6a9
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1791582559~acl=/*~id=30841197678905370064465201031201~hmac=5379ea5f11e314fa4c69c1bfdfe37f5f6a3d47d3ddace6830d01d4119c0ca6a9"}
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1791582559~acl=/*~id=30841197678905370064465201031201~hmac=5379ea5f11e314fa4c69c1bfdfe37f5f6a3d47d3ddace6830d01d4119c0ca6a9
+
 
 # ==========================================
 # 📺 BD TV
