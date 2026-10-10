@@ -308,9 +308,6 @@ https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" tvg-chno="176" ,B4U Movies
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Movies" tvg-logo="",  group-title="Hindi",Z Bollywood
-https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
-
 #EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV [Backup 1]" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/%26TV_Transparent_c5cc189b-8493-48d2-b07c-3fa4f92d754a.png" tvg-chno="287" group-title="Indian Entertainment",&TV [Backup 1]
 https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 
@@ -407,17 +404,6 @@ http://cineplexbd.net/v/m/Indian%20Bangla/2026/Aajo%20Ardhangini%20%282026%29/Aa
 
 #EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/78/78d8c25996765722a1d53b836d81370191eed42e.webp" group-title="Hindi Movies", Sardar 2 (2026)
 https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Sardar-2%20(2026)%20Tamil%20Telugu%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Sardar-2%20%282026%29%20Tamil%20Telugu%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://gretyn.b-cdn.net/upload/photos/2026/09/A-Great-Awakening-Hindi-Dubbed.jpg" group-title="Latest Movie", A Great Awakening 2026 Dual 720p
-#EXTVLCOPT:http-referrer=https://fibwatch.art/
-https://gretyn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]A.Great.Awakening.2026.Dual.720p.mkv
-#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://gretyn.b-cdn.net/upload/photos/2026/08/The.End.of.Oak.Street.(2026).Hindi.Dubbed.jpg" group-title="Latest Movie", The End of Oak Street (2026) Hindi LiNE-English 1080P
-#EXTVLCOPT:http-referrer=https://fibwatch.art/
-https://gretyn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]The.End.of.Oak.Street.(2026).Hindi.LiNE-English.1080P.mkv
-#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://gretyn.b-cdn.net/upload/photos/2026/08/Sultan.Salahuddin.Ayyubi.jpg" group-title="Latest Movie", Sultan Salahuddin Ayyubi S01E33 1080p
-#EXTVLCOPT:http-referrer=https://fibwatch.art/
-https://gretyn.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E33.1080p.mkv
-#EXTINF:-1 tvg-logo="https://image.sm-iptv-monirul-islam.workers.dev/?url=https://gretyn.b-cdn.net/upload/photos/2026/06/Indias.Got.Latent.jpeg" group-title="Latest Movie", Indias Got Latent S02 Bonus E03 1080p
 
 
 # ==========================================
