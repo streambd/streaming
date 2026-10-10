@@ -12,21 +12,6 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 
 {DYNAMIC_CHANNELS}
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20Champions%20vs%20South%20Africa%20Champions.png" group-title="World Championship of Legends 2026", India Champions vs South Africa Champions - Willow Cricket
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://playerso.top/embed2.php?id=willow
-
-#EXTINF:-1 tvg-id="B0H4ZX1SX9" tvg-name="Spain vs. Italy" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.55af9836-fb0c-4f37-8815-4f220da543d0/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Spain vs. Italy
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249220_53069_IAC_SAC_FC-Web_1790764440585.png" group-title="Fancode-Cricket", World Championship of Legends, 2026 [Hindi]
-https://in-mc-flive.fancode.com/mumbai/4249220_hindi_hls_072755b3e692016_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791644365~_GO=Generated~acl=/mumbai/4249220_hindi_hls_072755b3e692016_1ta-di_h264/*~SessionID=272945aef9969c92_fc-app_sportsguruand_e6e06606-1c35-46~Signature=AXZsC1DvUuZ2nyUJ0ReOzSoHHcVhnRW2MoGBltEqoVFaTqhQO2xFF-GF8mSpJax_eo4ROwS4oYlB3JHKA8sSDe7JwgcF
-
 #EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Star Sports 2 
 https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8
 
