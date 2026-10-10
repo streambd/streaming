@@ -12,6 +12,11 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 
 {DYNAMIC_CHANNELS}
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20Champions%20vs%20South%20Africa%20Champions.png" group-title="World Championship of Legends 2026", India Champions vs South Africa Champions - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://playerso.top/embed2.php?id=willow
+
 #EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Star Sports 2 
 https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8
 
