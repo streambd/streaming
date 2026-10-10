@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-10 18:00:26 UTC
+# Auto-Updated via Actions at: 2026-10-10 18:05:15 UTC
 
 #EXTINF:-1 tvg-id="tapmad-17095" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909272181020x576.jpg" group-title="Sports Live", Al-Hilal vs Al-Ittihad - MATCHDAY 8 - Saudi Pro League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
@@ -11,7 +11,13 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18268" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909262581020x576.jpg" group-title="Sports Live", Barcelona vs Getafe - MATCHDAY 8 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 
+#EXTINF:-1 tvg-id="tapmad-18618" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912759031020x576.jpg" group-title="Sports Live", Abdoulaye Kane vs Badr Medkouri - PFL Africa - PFL 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 
+
+
+#EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Willow Live" tvg-logo="https://imgur.com/pk0drbW" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Willow Live
+https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Star Sports 2 
 https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8
@@ -26,6 +32,7 @@ https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/index.m3u8
 http://103.114.11.37:8081/WWE-24/7/index.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
+http://103.151.60.188:12345/hls/tab_08kbjwd/index.m3u8?t=1791653248149
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.151.60.162:2122/play/a030/index.m3u8?hls
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png",Sony Ten Sports 2 HD
@@ -46,7 +53,7 @@ https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://postimg.cc/G8Tyk3dc", Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
-#EXTINF:-1 group-title="Sports Live" tvg-name="A Sports",A Sports
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" tvg-name="A Sports",A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
 
 #EXTINF:-1 tvg-id="DDSports.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",DD Sports (720p)
@@ -178,8 +185,11 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://alvetv.com/moviebang
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CEtU2af.th.jpg", ZEE Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/lLhY3yS.jpeg", Jolsha Movies
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CEtU2af.th.jpg", Colors Bangla Cenema
-http://51.75.127.199:3141/colorsbanglacinema/index.m3u8
+https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 
 # --- Star Jalsa (1 Server) ---
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
@@ -353,10 +363,10 @@ https://prod-linear-media.toffeelive.com/cdn/live/zee_action/playlist.m3u8?edge-
 https://prod-linear-media.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8?edge-cache-token=Expires=1790362929~Starts=1790359329~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=j9FSHJP6tIAK8_8fpH3J-IlERXQe1bty79Nu0imb1CFRJC1FpH013CJH-Aunfad0cBCDfX6GaW6vmnDakwgXCg
 
 #EXTINF:-1 group-title="Drama" tvg-logo="https://assets-prod.services.toffeelive.com/5cwRnZUBtpl-Sbt7wWrN/posters/5779ade3-e9ba-4107-b3da-bae6f891500a.png",&TV HD
-https://prod-linear-media.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8?edge-cache-token=Expires=1790362930~Starts=1790359330~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=8YkWpeeYWvfEyXJpK0HwkzUXN8X9VFgvolQCiBbMmf3UwCBnrN8RewpjE6NfdnnV20SRSQnvWruk0PoYltYOAQ
+https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/live/and_tv_hd_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.services.toffeelive.com/QMwWnZUBtpl-Sbt7S2sx/posters/8cad9a82-842a-47bf-a060-f17011f11c07.png",& Pictures HD
-https://prod-linear-media.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8?edge-cache-token=Expires=1790362931~Starts=1790359331~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=RuyK31MY-UlIvhZZy8UN432JVGUecmINJBCeD-Il7utw_-pcvFsc3_OrvOCHAtD5yeeZ26gVt-N4jrT_m1t4Dg
+https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
 
 # ==========================================
 # 🏆 Infotainment
@@ -372,7 +382,7 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8
 
 #EXTINF:-1 group-title="Science Fiction" tvg-logo="https://assets-prod.services.toffeelive.com/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp",Discovery Science
-https://api.freeforall.dev/api/proxy?stream_id=157727
+http://103.151.60.188:12345/hls/tab_l9gqwqb/index.m3u8?t=1791653473234
 
 #EXTINF:-1 group-title="Adventure" tvg-logo="https://assets-prod.services.toffeelive.com/Ay6s-JQBv9knK3AHJTY1/posters/e8f65578-e82d-4e4a-a1ff-073becc5bd71.webp",Discovery Turbo
 https://prod-linear-media.toffeelive.com/cdn/live/discovery_turbo/playlist.m3u8?edge-cache-token=Expires=1790362930~Starts=1790359330~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=8YkWpeeYWvfEyXJpK0HwkzUXN8X9VFgvolQCiBbMmf3UwCBnrN8RewpjE6NfdnnV20SRSQnvWruk0PoYltYOAQ
