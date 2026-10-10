@@ -24,6 +24,9 @@ https://playerso.top/embed2.php?id=willow
 #KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249220_53069_IAC_SAC_FC-Web_1790764440585.png" group-title="Fancode-Cricket", World Championship of Legends, 2026 [Hindi]
+https://in-mc-flive.fancode.com/mumbai/4249220_hindi_hls_072755b3e692016_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791644365~_GO=Generated~acl=/mumbai/4249220_hindi_hls_072755b3e692016_1ta-di_h264/*~SessionID=272945aef9969c92_fc-app_sportsguruand_e6e06606-1c35-46~Signature=AXZsC1DvUuZ2nyUJ0ReOzSoHHcVhnRW2MoGBltEqoVFaTqhQO2xFF-GF8mSpJax_eo4ROwS4oYlB3JHKA8sSDe7JwgcF
+
 #EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Star Sports 2 
 https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8
 
