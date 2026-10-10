@@ -401,6 +401,9 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 # 🎬 Hindi Movies
 # ==========================================
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u12uWdDqpN64oLyM7ylcBhzpo1c.jpg" group-title="Hindi Movies",Vishwanath & Sons
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Vishwanath%20and%20Sons%20(2026)%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Vishwanath%20and%20Sons%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+
 #EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/4b/4b6d2abd2f25cc6f8bf98efdd30c0253a8559288.webp" group-title="Hindi Movies", Toxic : A Fairy Tale for Grown-ups (2026)
 https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Toxic%20%282026%29%20Hindi%20Kannada%201080p%20HDRip%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20Kannada%201080p%20HDRip%20x264%20ESub%20%5BDDN%5D.mp4
 
