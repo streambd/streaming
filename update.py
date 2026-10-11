@@ -30,9 +30,6 @@ http://103.114.11.37:8081/WWE-24/7/index.m3u8
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.151.60.162:2122/play/a030/index.m3u8?hls
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png",Sony Ten Sports 2 HD
-https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8?edge-cache-token=Expires=1790269247~Starts=1790265647~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=yJOqUrYiufuDhrK7vl33A68m8IjIY9By7x2kiSn2HUuhh5sGeXPKdiZmMw9mWZz-G6JMb_AkOWNs2Eumum02DQ
-
 #EXTINF:-1 tvg-id="019efa45-e8e5-7353-a606-b361cf5f42ce" tvg-name="Cricket Gold" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg" group-title="Cricket, Sports",Cricket Gold
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
 
@@ -59,10 +56,6 @@ https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-id="FightNetwork.ca" tvg-name="Fight Network" tvg-logo="https://i.imgur.com/vlKPZHR.png" tvg-chno="552",Fight Network
 https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
-
-#EXTINF:-1, group-title="Sports Live" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png" group-title="Fancode-Cricket", World Championship of Legends, 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249227_english_hls_290b2baf07538_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791557925~_GO=Generated~acl=/mumbai/4249227_english_hls_290b2baf07538_1ta-di_h264/*~SessionID=cd185399e333ae9b_fc-app_sportsguruand_9458dc7a-d5c8-42~Signature=AXZsC1DSMFZBexS32o6HipeYNZ6eWKW70R_0-8ZTdMiWX7ymcXBr2bXZnT1_42sVT425D3hhfBa6q8TQgxwF1my2rIEJ
-
 
 # ==========================================
 # 📺 BD TV
@@ -101,7 +94,7 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8?e=1784102535&u=ee5437
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C5XhmFV.png", NTV
 https://playztv-apps.pages.dev/ntv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/CeM6ooG.th.jpg" group-title="BD TV",RTV (720p)
+#EXTINF:-1 tvg-logo="https://iili.io/CeM6ooG.th.jpg" group-title="BD TV",RTV 
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://tvsen5.aynascope.net/RtvHD/index.m3u8
 
 # ---Channel I (1 Server) ---
@@ -145,8 +138,8 @@ https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
 https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
 
 #-------Channel 9----------
-#EXTINF:-1 group-title="BD TV" tvg-logo="https://tubextra.b-cdn.net/channel9.png",Channel 9 HD
-https://playztv-apps.pages.dev/channel-9/index.m3u8
+#EXTINF:-1 group-title="BD TV" tvg-logo="src="https://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg",Channel 9 HD
+https://akash-go.sm-monirul-islam-rs.workers.dev/channel_9_hd/1729-audio_113592_eng=113200-video=2202800.m3u8
 
 # --- Deepto TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/Cj4Bjol.th.jpg", Deepto TV
@@ -158,9 +151,6 @@ https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
 
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co/VWL70Dvx/logo.png" ,Me IPTV BD
 https://iptvbd.live/metv1080/1080.m3u8
-
-#EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" ,Star News
-https://akash.sm-monirul.top/star_news.m3u8
 
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" ,Sanonda TV
 https://live.sanandatelevision.in/sananda/index.m3u8
@@ -190,8 +180,9 @@ https://tv.moviemasti.net:8443/COLORS.BANGLA.CINEMA/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="", Zee Bangla Sonar
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+# --- ZEE Bangla Sonar (1 Server) ---
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CwNMSCN.th.jpg", ZEE Bangla Sonar
+https://drk6xq0vhn.gpcdn.net/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="019de785-399f-7d6a-9f41-dc7f834b3300" tvg-name="TV9 Bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c08302f7fbe506a998e74c89fcf08ac_playmist_tv9_bangla_400x400.jpg" group-title="Indian Bangla",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
@@ -232,11 +223,6 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/GyDcpFZ/Aaj-tak-logo.png" ",Aaj Tak Bangla
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
-
-# --- ZEE Bangla Sonar (1 Server) ---
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CwNMSCN.th.jpg", ZEE Bangla Sonar
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=562400.m3u8
-
 
 # ==========================================
 # 📺 MUSIC TV 
