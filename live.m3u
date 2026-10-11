@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-11 11:50:16 UTC
+# Auto-Updated via Actions at: 2026-10-11 11:55:13 UTC
 
 #EXTINF:-1 tvg-id="tapmad-17700" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915260821020x576.jpg" group-title="Sports Live", South Africa vs Australia - 1st Test - 1st Test - Australia Tour of South Africa 2026
 https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
@@ -343,8 +343,8 @@ https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
 
 #EXTINF:-1 group-title="Documentary & Wildlife" tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",Discovery
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-#EXTINF:-1 group-title="Documentary & Wildlife" tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",National Geographic Wild
 
+#EXTINF:-1 group-title="Documentary & Wildlife" tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",National Geographic Wild
 http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8
 
 #EXTINF:-1 group-title="Science Fiction" tvg-logo="https://assets-prod.services.toffeelive.com/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp",Discovery Science
@@ -363,10 +363,6 @@ https://stream.ottplus.live/live/id_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="local.bc3ae4d983e661a3" tvg-name="Love Nature" tvg-logo="https://i.postimg.cc/MZR248Yw/20240823-024104.png" tvg-chno="440" group-title="Documentary & Wildlife",Love Nature
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 
-
-
-
-
 # ==========================================
 # 🎬 Hindi Movies
 # ==========================================
@@ -383,7 +379,6 @@ https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Vishwanath%20and%20Sons%20
 #EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/4b/4b6d2abd2f25cc6f8bf98efdd30c0253a8559288.webp" group-title="Hindi Movies", Toxic : A Fairy Tale for Grown-ups (2026)
 https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Toxic%20%282026%29%20Hindi%20Kannada%201080p%20HDRip%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20Kannada%201080p%20HDRip%20x264%20ESub%20%5BDDN%5D.mp4
 
-# --- Hindi Movies 1 (1 Server) ---
 #EXTINF:-1 tvg-logo="https://iili.io/noSf8Kv.th.jpg" group-title="Hindi Movies", Last Man in Tower (2026)
 https://ftp.ctgfun.com/Indian/Hindi%20Movies/Last%20Man%20In%20Tower%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Last%20Man%20In%20Tower%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
 
@@ -394,7 +389,8 @@ https://yghjn.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dadagiri.Unlimite
 http://cineplexbd.net/v/m/Indian%20Bangla/2026/Aajo%20Ardhangini%20%282026%29/Aajo%20Ardhangini%20%5BBengali%5D-1080P.mp4?md5=keoBRLjL-APijb9yNhSAqQ&expires=1790215342
 
 #EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/78/78d8c25996765722a1d53b836d81370191eed42e.webp" group-title="Hindi Movies", Sardar 2 (2026)
-https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Sardar-2%20(2026)%20Tamil%20Telugu%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Sardar-2%20%282026%29%20Tamil%20Telugu%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Sardar-2%20(2026)%20Tamil%20Telugu%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Sardar-2%20%282026%29%20Tamil%20Telugu%20720p%20HDTS%20x264%20ESub%20%5BDDN
+
 
 
 # ==========================================
@@ -421,4 +417,3 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://imglink.cc/cdn/cZxNWhHkaZ.jpg", Oggy and the Cockroaches
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
-
