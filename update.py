@@ -8,6 +8,7 @@ M3U_FILE = "live.m3u"
 # External Playlist URLs
 SPORTS_URL = "https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u"
 HINDI_MOVIES_URL = "https://raw.githubusercontent.com/streambd/streaming/refs/heads/main/hindimovies.m3u"
+BENGALI_MOVIES_URL = "https://raw.githubusercontent.com/streambd/streaming/refs/heads/main/banglamovies"
 
 # --- Template ---
 PLAYLIST_TEMPLATE = """#EXTM3U
@@ -374,6 +375,8 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 # 🎬 Bengali Movies
 # ==========================================
 
+{DYNAMIC_BENGALI_MOVIES}
+
 # ==========================================
 # 📺 CARTOON TV
 # ==========================================
@@ -444,6 +447,9 @@ def generate_m3u():
     print("Fetching Hindi Movies...")
     movies_data = fetch_and_parse_m3u(HINDI_MOVIES_URL, "Hindi Movies")
 
+    print("Fetching Bengali Movies...")
+    bengali_movies_data = fetch_and_parse_m3u(BENGALI_MOVIES_URL, "Bengali Movies")
+
     timestamp = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
     timestamp_header = f"# Auto-Updated via Actions at: {timestamp} UTC\n\n"
     
@@ -452,6 +458,7 @@ def generate_m3u():
 
     final_m3u = PLAYLIST_TEMPLATE.replace("{DYNAMIC_CHANNELS}", sports_data)
     final_m3u = final_m3u.replace("{DYNAMIC_HINDI_MOVIES}", movies_data)
+    final_m3u = final_m3u.replace("{DYNAMIC_BENGALI_MOVIES}", bengali_movies_data)
 
     with open(M3U_FILE, 'w', encoding='utf-8') as f:
         f.write(final_m3u)
