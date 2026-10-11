@@ -2,9 +2,14 @@ import urllib.request
 import re
 from datetime import datetime
 
-M3U_URL = "https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u"
+# --- Configuration ---
 M3U_FILE = "live.m3u"
 
+# External Playlist URLs
+SPORTS_URL = "https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u"
+HINDI_MOVIES_URL = "https://raw.githubusercontent.com/streambd/streaming/refs/heads/main/hindimovies.m3u"
+
+# --- Template ---
 PLAYLIST_TEMPLATE = """#EXTM3U
 # ==========================================
 # 🏆 Sports LIVE
@@ -339,8 +344,8 @@ https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
 
 #EXTINF:-1 group-title="Documentary & Wildlife" tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",Discovery
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-#EXTINF:-1 group-title="Documentary & Wildlife" tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",National Geographic Wild
 
+#EXTINF:-1 group-title="Documentary & Wildlife" tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",National Geographic Wild
 http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8
 
 #EXTINF:-1 group-title="Science Fiction" tvg-logo="https://assets-prod.services.toffeelive.com/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp",Discovery Science
@@ -359,39 +364,11 @@ https://stream.ottplus.live/live/id_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="local.bc3ae4d983e661a3" tvg-name="Love Nature" tvg-logo="https://i.postimg.cc/MZR248Yw/20240823-024104.png" tvg-chno="440" group-title="Documentary & Wildlife",Love Nature
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 
-
-
-
-
 # ==========================================
 # 🎬 Hindi Movies
 # ==========================================
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg" group-title="Hindi Movies",Awarapan 2 (2026)
-https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Awarapan-2%20(2026)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Awarapan-2%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://www.ftpbd.net/wp-content/uploads/2026/10/3fRSYc87x4y85Qmt5yDXFVGTPMc.webp" group-title="Hindi Movies",Aajo Ardhangini (2026)
-https://www.ftpbd.net/wp-content/hls-file/Aajo-Ardhangini-2026-1080p-Bengali-WEBDL_reencoded/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u12uWdDqpN64oLyM7ylcBhzpo1c.jpg" group-title="Hindi Movies",Vishwanath & Sons
-https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Vishwanath%20and%20Sons%20(2026)%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Vishwanath%20and%20Sons%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/4b/4b6d2abd2f25cc6f8bf98efdd30c0253a8559288.webp" group-title="Hindi Movies", Toxic : A Fairy Tale for Grown-ups (2026)
-https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Toxic%20%282026%29%20Hindi%20Kannada%201080p%20HDRip%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20Kannada%201080p%20HDRip%20x264%20ESub%20%5BDDN%5D.mp4
-
-# --- Hindi Movies 1 (1 Server) ---
-#EXTINF:-1 tvg-logo="https://iili.io/noSf8Kv.th.jpg" group-title="Hindi Movies", Last Man in Tower (2026)
-https://ftp.ctgfun.com/Indian/Hindi%20Movies/Last%20Man%20In%20Tower%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Last%20Man%20In%20Tower%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://yghjn.b-cdn.net/upload/photos/2026/07/Dadagiri.Unlimited.jpg" group-title="Hindi Movies", Dadagiri Unlimited S11E27 1080P
-https://yghjn.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dadagiri.Unlimited.S11E27.1080P.mkv|Referer=https://fibwatch.art/
-
-#EXTINF:-1 tvg-logo="http://cineplexbd.net/uploads/1789710402_MV5BZWM2MDk4Y2QtOTY5Ny00MzU0LWE5YWUtZTVlNjgyODI3MjQwXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies", Ajo Ordangini
-http://cineplexbd.net/v/m/Indian%20Bangla/2026/Aajo%20Ardhangini%20%282026%29/Aajo%20Ardhangini%20%5BBengali%5D-1080P.mp4?md5=keoBRLjL-APijb9yNhSAqQ&expires=1790215342
-
-#EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/78/78d8c25996765722a1d53b836d81370191eed42e.webp" group-title="Hindi Movies", Sardar 2 (2026)
-https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Sardar-2%20(2026)%20Tamil%20Telugu%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Sardar-2%20%282026%29%20Tamil%20Telugu%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
-
+{DYNAMIC_HINDI_MOVIES}
 
 # ==========================================
 # 📺 CARTOON TV
@@ -417,22 +394,18 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://imglink.cc/cdn/cZxNWhHkaZ.jpg", Oggy and the Cockroaches
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
-
 """
 
-def generate_m3u():
-    req = urllib.request.Request(M3U_URL, headers={'User-Agent': 'Mozilla/5.0'})
+def fetch_and_parse_m3u(url, target_group_title):
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     try:
         with urllib.request.urlopen(req) as response:
             lines = response.read().decode('utf-8').splitlines()
     except Exception as e:
-        print(f"Error fetching external M3U: {e}")
-        return
+        print(f"Error fetching external M3U ({url}): {e}")
+        return ""
 
-    # Add a dynamic timestamp comment so Git registers a change on every run
-    timestamp = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
-    dynamic_m3u = f"# Auto-Updated via Actions at: {timestamp} UTC\n\n"
-    
+    dynamic_m3u = ""
     current_channel_block = []
 
     for line in lines:
@@ -441,32 +414,44 @@ def generate_m3u():
             continue
         
         if line.startswith("#EXTINF"):
-            # Force the group-title to "Sports Live"
             if 'group-title="' in line:
-                line = re.sub(r'group-title="[^"]*"', 'group-title="Sports Live"', line)
+                line = re.sub(r'group-title="[^"]*"', f'group-title="{target_group_title}"', line)
             else:
-                line = line.replace('#EXTINF:-1', '#EXTINF:-1 group-title="Sports Live"')
+                line = line.replace('#EXTINF:-1', f'#EXTINF:-1 group-title="{target_group_title}"')
             
-            # Start a new channel block
             current_channel_block = [line]
             
         elif line.startswith("#EXTVLCOPT") or line.startswith("#KODIPROP"):
-            # Append options to the current channel block
             if current_channel_block:
                 current_channel_block.append(line)
                 
         elif line.startswith("http"):
-            # Append URL and commit the block to the dynamic string
             if current_channel_block:
                 current_channel_block.append(line)
                 dynamic_m3u += "\n".join(current_channel_block) + "\n\n"
-                current_channel_block = [] # Reset for the next channel
+                current_channel_block = []
 
-    final_m3u = PLAYLIST_TEMPLATE.replace("{DYNAMIC_CHANNELS}", dynamic_m3u)
+    return dynamic_m3u
+
+def generate_m3u():
+    print("Fetching Sports channels...")
+    sports_data = fetch_and_parse_m3u(SPORTS_URL, "Sports Live")
+    
+    print("Fetching Hindi Movies...")
+    movies_data = fetch_and_parse_m3u(HINDI_MOVIES_URL, "Hindi Movies")
+
+    timestamp = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
+    timestamp_header = f"# Auto-Updated via Actions at: {timestamp} UTC\n\n"
+    
+    if sports_data:
+        sports_data = timestamp_header + sports_data
+
+    final_m3u = PLAYLIST_TEMPLATE.replace("{DYNAMIC_CHANNELS}", sports_data)
+    final_m3u = final_m3u.replace("{DYNAMIC_HINDI_MOVIES}", movies_data)
 
     with open(M3U_FILE, 'w', encoding='utf-8') as f:
         f.write(final_m3u)
-        print("Successfully updated live.m3u")
+        print(f"Successfully updated {M3U_FILE}")
 
 if __name__ == "__main__":
     generate_m3u()
