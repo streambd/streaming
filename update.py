@@ -382,6 +382,9 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 # 🎬 Hindi Movies
 # ==========================================
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg" group-title="Hindi Movies",Awarapan 2 (2026)
+https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Awarapan-2%20(2026)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Awarapan-2%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+
 #EXTINF:-1 tvg-logo="https://www.ftpbd.net/wp-content/uploads/2026/10/3fRSYc87x4y85Qmt5yDXFVGTPMc.webp" group-title="Hindi Movies",Aajo Ardhangini (2026)
 https://www.ftpbd.net/wp-content/hls-file/Aajo-Ardhangini-2026-1080p-Bengali-WEBDL_reencoded/index.m3u8
 
