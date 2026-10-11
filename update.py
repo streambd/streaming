@@ -28,7 +28,6 @@ https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/index.m3u8
 http://103.114.11.37:8081/WWE-24/7/index.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
-http://103.151.60.188:12345/hls/tab_08kbjwd/index.m3u8?t=1791653248149
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://103.151.60.162:2122/play/a030/index.m3u8?hls
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png",Sony Ten Sports 2 HD
@@ -185,7 +184,7 @@ https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CEtU2af.th.jpg", Colors Bangla Cenema
-https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
+https://tv.moviemasti.net:8443/COLORS.BANGLA.CINEMA/tracks-v1a1/mono.m3u8?token=e0899382142a13e61ba6d8a83ea8274bff6188c9-6656f28f90766cbd9894d35eb4df6cc9-1791741201-1791697701
 
 # --- Star Jalsa (1 Server) ---
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
