@@ -3,10 +3,10 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-11 17:40:17 UTC
+# Auto-Updated via Actions at: 2026-10-11 17:50:17 UTC
 
-#EXTINF:-1 tvg-id="tapmad-17716" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913544721020x576.jpg" group-title="Sports Live", India vs West Indies - 3rd T20I - West Indies Tour of India 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17096" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909273721020x576.jpg" group-title="Sports Live", Al-Shabab vs Al-Taawoun - MATCHDAY 8 - Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18272" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909269851020x576.jpg" group-title="Sports Live", Betis vs Osasuna - MATCHDAY 8 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
@@ -411,6 +411,9 @@ https://server3.ftpbd.net/FTP-3/Hindi%20Movies/2004/Main-Hoon-Na-2004/Main-Hoon-
 
 #EXTINF:-1 tvg-logo="https://www.ftpbd.net/wp-content/uploads/2026/10/3fRSYc87x4y85Qmt5yDXFVGTPMc.webp" group-title="Bengali Movies",Aajo Ardhangini (2026)
 https://www.ftpbd.net/wp-content/hls-file/Aajo-Ardhangini-2026-1080p-Bengali-WEBDL_reencoded/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFTyRMUMHv8cQTYdFQcCqaCOUvznmKlWOr7CEBqSHsJw&s=10" group-title="Bengali Movies",Abar Hawa Bodol (2026)
+https://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282026%29/Abar-Hawa-Bodol-2026/Abar-Hawa-Bodol-2026-1080p-Bengali-WEBDL_reencoded.mp4
 
 
 
