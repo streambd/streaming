@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-11 11:35:14 UTC
+# Auto-Updated via Actions at: 2026-10-11 11:40:17 UTC
 
 #EXTINF:-1 tvg-id="tapmad-17700" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915260821020x576.jpg" group-title="Sports Live", South Africa vs Australia - 1st Test - 1st Test - Australia Tour of South Africa 2026
 https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
@@ -263,8 +263,7 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 # --- Sangeet Bangla (1 Server) ---
 #EXTINF:-1 group-title="Indian Music" tvg-logo="https://tubextra.b-cdn.net/download%20(14).jpg", Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://66.102.126.10:8000/play/a076/66165879.m3u8
+https://cdn.pishow.tv/ott/live/1143/1143_1.m3u8
 
 # ==========================================
 # 📺 Entertainment
