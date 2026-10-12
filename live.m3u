@@ -3,7 +3,10 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-12 19:00:28 UTC
+# Auto-Updated via Actions at: 2026-10-12 19:05:15 UTC
+
+#EXTINF:-1 tvg-id="tapmad-18274" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909275201020x576.jpg" group-title="Sports Live", Levante vs Sevilla - MATCHDAY 8 - LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18638" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912777401020x576.jpg" group-title="Sports Live", Air Force SC (IRQ) vs Al Ain FC (UAE) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
@@ -16,7 +19,7 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/
 
 
 
-#EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Willow Live" tvg-logo="https://imgur.com/pk0drbW" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Willow Live
+#EXTINF:-1 tvg-id="abfabaee-3898-4279-8645-3da5b0232867" tvg-name="Willow TV" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow TV
 https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Star Sports 2 
@@ -97,6 +100,9 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8?e=1784102535&u=ee5437
 # --- NTV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C5XhmFV.png", NTV
 https://playztv-apps.pages.dev/ntv/index.m3u8
+
+#EXTINF:-1,Doyel TV
+https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/CeM6ooG.th.jpg" group-title="BD TV",RTV 
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://tvsen5.aynascope.net/RtvHD/index.m3u8
@@ -281,8 +287,14 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg",  group-title="Hindi",Colors Cineplex
 http://51.75.127.199:3141/colorscineplexhd/index.m3u8
 
+#EXTINF:-1, tvg-name="Hindi The Movie Club
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Goldmines Bollywood
 https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1,Goldmines Action
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Hindi Movies 3
 https://vods2.aynaott.com/hindimovies/index.m3u8
@@ -309,7 +321,7 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="HUM TV" tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png" tvg-chno="298" group-title="Indian Entertainment",HUM TV
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="HUM TV" tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png" tvg-chno="298" group-title="Entertainment",HUM TV
 https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="HumTV.pk" tvg-name="HUM TV" tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png" tvg-chno="298" group-title="Indian Entertainment",HUM TV
