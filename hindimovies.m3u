@@ -40,10 +40,19 @@ https://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991--2000/1999/Hum-Dil-De-Chuke-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwknTty0Jpl5V4wQmKnVNuuwZgdrcH5nfoxlrn2zp5g&s=10" group-title="Hindi Movies", 3 idiots
 https://server3.ftpbd.net/FTP-3/Hindi%20Movies/2009/3-Idiots-2009/3-Idiots-2009-4K-BluRay_reencoded.mp4
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFyLHJT8lyQBiNupyMyOGNj83cFowiqJiGjDgv-syc7nPXGRidjdYEp2H7d4UPVMRG6u76hMBmiE5S3FEUpPgh-QNmAFP17ea0TnXGNFgKA&s=10" group-title="Hindi Movies",PK
+https://flixhub.net/stream/movie/pk
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bPtZ7Zr6o6ERGAkbLdFo8Yu5cx1XAkRPNCiD5srHuQ&s=10" group-title="Hindi Movies",Swades
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/2004/Swades-2004/Swades.2004.REPACK.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D_reencoded.mp4
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7E4Xbp-lAPpKPAo6Skg78Vsrj2zIVe2CgurT7ZbmtXw&s=10" group-title="Hindi Movies", Main Hoon Na
 https://server3.ftpbd.net/FTP-3/Hindi%20Movies/2004/Main-Hoon-Na-2004/Main-Hoon-Na-2004-1080p-Hindi-BluRay_reencoded.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7E4Xbp-lAPpKPAo6Skg78Vsrj2zIVe2CgurT7ZbmtXw&s=10" group-title="Hindi Movies", Animal 2023
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5FmtHHDGPofW5Zjns1EM1D8503c.jpg" group-title="Hindi Movies", kuch kuch hota hai
+https://flixhub.net/stream/movie/kuch-kuch-hota-hai
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQANAZkIaaAmnr589rWcsUHKcbKQb-qRNpgNmAtY1t6LA&s=10" group-title="Hindi Movies", Animal 2023
 https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Animal-2023/Animal%20%282023%29%20Hindi%20NF%20WEB-DL%202160p_h264_reencoded.mp4
 
 
