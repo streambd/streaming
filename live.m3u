@@ -3,10 +3,13 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-12 18:15:16 UTC
+# Auto-Updated via Actions at: 2026-10-12 18:20:17 UTC
 
-#EXTINF:-1 tvg-id="tapmad-18633" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912774171020x576.jpg" group-title="Sports Live", Al Wasl FC (UAE) vs Al Ahli Saudi FC (KSA) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
+#EXTINF:-1 tvg-id="tapmad-18638" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912777401020x576.jpg" group-title="Sports Live", Air Force SC (IRQ) vs Al Ain FC (UAE) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18643" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912780831020x576.jpg" group-title="Sports Live", Al Gharafa SC (QAT) vs Esteghlal FC (IRN) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18648" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913605241020x576.jpg" group-title="Sports Live", Al Nassr Club (KSA) vs PFC Neftchi (UZB) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
