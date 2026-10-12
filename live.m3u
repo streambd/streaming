@@ -3,13 +3,16 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-12 15:45:17 UTC
-
-#EXTINF:-1 tvg-id="tapmad-17700" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915260821020x576.jpg" group-title="Sports Live", South Africa vs Australia - 1st Test - Australia Tour of South Africa 2026
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+# Auto-Updated via Actions at: 2026-10-12 15:50:17 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18623" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912763311020x576.jpg" group-title="Sports Live", Pakhtakor (UZB) vs Al Qadsiah Club (KSA) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18628" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912767411020x576.jpg" group-title="Sports Live", Tractor FC (IRN) vs Al Shamal SC (QAT) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18633" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912774171020x576.jpg" group-title="Sports Live", Al Wasl FC (UAE) vs Al Ahli Saudi FC (KSA) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 
 
 
