@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-13 21:05:14 UTC
+# Auto-Updated via Actions at: 2026-10-13 21:10:18 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18343" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914407791020x576.jpg" group-title="Sports Live", Galatasaray vs Barcelona - MATCHDAY 2 - UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
@@ -11,14 +11,8 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18344" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919037161020.jpg" group-title="Sports Live", RB Leipzig vs PSV Eindhoven - MATCHDAY 2 - UEFA Champions League 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-18345" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914403301020x576.jpg" group-title="Sports Live", Arsenal vs Lille - MATCHDAY 2 - UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
-
 #EXTINF:-1 tvg-id="tapmad-18346" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914405031020x576.jpg" group-title="Sports Live", Atletico Madrid vs Manchester United - MATCHDAY 2 - UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18347" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914430791020x576.jpg" group-title="Sports Live", Villarreal vs Napoli - MATCHDAY 2 - UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18348" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914412471020x576.jpg" group-title="Sports Live", Viking vs Bayern Munchen - MATCHDAY 2 - UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
