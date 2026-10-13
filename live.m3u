@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-13 18:15:17 UTC
+# Auto-Updated via Actions at: 2026-10-13 18:20:18 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18341" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911892301020x576.jpg" group-title="Sports Live", Lens vs Sporting CP - MATCHDAY 2 - UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
@@ -11,11 +11,8 @@ https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18342" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911893921020x576.jpg" group-title="Sports Live", Sabah vs Slavia Praha - MATCHDAY 2 - UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-18463" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913596451020x576.jpg" group-title="Sports Live", Al Seeb Club (OMA) vs Al Hussein (JOR) Live - MATCHDAY 2 - AFC Champions League Two 2026/27
+#EXTINF:-1 tvg-id="tapmad-18688" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913668141020x576.jpg" group-title="Sports Live", Al Ittihad Club (KSA) vs Shabab Al Ahli (UAE) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18683" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913663741020x576.jpg" group-title="Sports Live", Al Sadd SC (QAT) vs Al Hilal SFC (KSA) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 
 
 
