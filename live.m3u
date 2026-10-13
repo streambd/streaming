@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-13 20:30:22 UTC
+# Auto-Updated via Actions at: 2026-10-13 20:35:16 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18343" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914407791020x576.jpg" group-title="Sports Live", Galatasaray vs Barcelona - MATCHDAY 2 - UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
@@ -25,9 +25,6 @@ https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18349" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914406391020x576.jpg" group-title="Sports Live", Inter vs Club Brugge - MATCHDAY 2 - UEFA Champions League 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18688" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913668141020x576.jpg" group-title="Sports Live", Al Ittihad Club (KSA) vs Shabab Al Ahli (UAE) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 
 
 
