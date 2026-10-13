@@ -3,16 +3,10 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-13 11:00:27 UTC
+# Auto-Updated via Actions at: 2026-10-13 11:05:14 UTC
 
 #EXTINF:-1 tvg-id="tapmad-17700" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915260821020x576.jpg" group-title="Sports Live", South Africa vs Australia - 1st Test - Australia Tour of South Africa 2026
 https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18260" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909365271020x576.jpg" group-title="Sports Live", Brothers Union Ltd vs Fakirerpool Young Mens Club - MATCHDAY 3 - Federation Cup 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18261" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909366421020x576.jpg" group-title="Sports Live", Rahamatgonj MFS vs Chattogram City FC - MATCHDAY 3 - Federation Cup 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18658" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913614211020x576.jpg" group-title="Sports Live", Shanghai Port FC (CHN) vs Daejeon Hana Citizen FC (KOR) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
