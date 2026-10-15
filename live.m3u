@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-15 16:45:19 UTC
+# Auto-Updated via Actions at: 2026-10-15 16:50:19 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18941" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916600391020x576.jpg" group-title="Sports Live", RB Salzburg vs Milan - MATCHDAY 2 - UEFA Europa League 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
@@ -34,10 +34,13 @@ https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="abfabaee-3898-4279-8645-3da5b0232867" tvg-name="Willow TV" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow TV
 https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Star Sports 2 
-https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="UEFA Europa & Conference League" tvg-name="UEFA Europa-Conference League Simulcast" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",UEFA Europa-Conference League Simulcast
+http://193.47.62.41/hls/VBVBVB.m3u8
 
-#EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Star Sports 1 
+#EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Star Sports 2 
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAACUCAMAAACp1UvlAAAA4VBMVEX///8AAACEhol8foHDw8XJyssjHyCpp6js7e2Zm56hoKCWmJqrqqv6+vqBg4aenZ3S09R0d3ri4+N8enuvsLKJjI4LAASipKYYExVQTk/Z2tu6u7z09PS+MR8TDQ67IQD+8eX6xp/+9e/4tY384cv3qn/6yqv2llLzbAD/6NY+QUX1eAAwMDH+07j1ijf7vpf/9N7///f1jkRoZmf9x3X94bn1gBX3o2v6tT782KVcWlv4r3v72MPNbGPwzsv6uU78z43epaHBPS344+G8JxDHXVTGUkfWhn+4AADQeHDltrL9kHhgAAADc0lEQVR4nO3We3ebNhgG8BdkbDBIxpSLB9jJ3DVJE7ed52brZfWauk3dfP8PNAkJm9ik13Q+Z+f5/YNACB6LF2EiAAAAAAAAAAAAAAAAAAAAAACA/43jQwe4w6/TQydo9/C3Qydo9+jkJ148732NYE+vmJ6eRM69iXZyBdZ3Ch+fPS6G7J4MnZ1ccdq948ZdyWx2mhPLOs/p9GKaCdsWRrOlNHYaHUKI1g62n8sK3RZlJmOMQp51JzpWwV0dzJqxuJw/eXrxzBWC+Z5h26bhJ0LeMDE7NrOTTQerz5ESIeqxfnsut7XwYpVCFeBMz1yHuG740e/zkz8uzk7nBRNOyfXp3PNJN7kbC5aX9U7GMr7pYKrFq/0OC81Q4r7Yz2Xp5zjjtFDbmKLZ9jlWoxJr1MjlzJ9fPjz7868nXMaKKahLTPjk63ZOww73zPG8TDKy9U5Y2qqUAhJqr6BsqDHRMl/64Yx+4fQgldsOdRoVRlSE8pzRpM6VJvTi5fHZs+PVNGM2i4mZ+9syl1cVi7zhMI9MlbGAexklpqP0VSnFlKja6vD6J9ktzzHYy6XmuRJZMtfAyojKV6nJZUWXL+av/yZ6s4xlGXmc56HS8WWuOKu45WKTS2Qkc/V0R+RWh0yuflmPTVrmqyVXzVW5+la64LICrELncl/+Q6+JlkfLQv5O4XWqS4fclbmMsjfcyVUXUlxNjc6lxjrVWIqSr8nl3HqOfaubdgsiJzTz9fYtTelq/W4VVO+9WX76fKDqS5Nl33iOfkZCH3dKu5FrM1ZG36/7/Vzu+XYNq3J1R+mgegGs7mREz+e0/PR+/EEWzebS8r0kX9WXbdIUcmp06USq7hOhjzbra7uUhdTyPm5yUZVrsthZNfp6cTiPVK7RLLo8Xl6vx+OjVSiq+5tadAvWyGWrdcJ0xKzOJWK3+i0B13W/GRt/rr5c/kCtoOmr3q111tf9k1nAC2vm0vTq/VjGuimrWySer8kl0/bsLZFsO5K6I/H1xjN7jbH7uVL9bRlZ1qRuNKXN79Aica+Pxkfv3qxyJppfGz0fdlNbh7i9aZzSMl/fovy4Xl9fraLsvr7Xd363Q39wW/9ug/xm/WlF3Ck69273f863GX/8oeE/y+oD//JJB3Bzc+gE7ZaHDgAAAAAAAAAAAAAAAAAAAAAAAPDf+RfXi1Xo+kxxHQAAAABJRU5ErkJggg==" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",WWE 
