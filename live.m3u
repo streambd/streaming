@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-15 21:00:26 UTC
+# Auto-Updated via Actions at: 2026-10-15 21:05:15 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18949" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916620641020x576.jpg" group-title="Sports Live", Ferencvaros vs Viktoria Plzen - MATCHDAY 2 - UEFA Europa League 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
@@ -19,21 +19,6 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18953" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916631991020x576.jpg" group-title="Sports Live", Celta vs Juventus - MATCHDAY 2 - UEFA Europa League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18954" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916634951020x576.jpg" group-title="Sports Live", Hoffenheim vs Besiktas - MATCHDAY 2 - UEFA Europa League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18955" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916638121020x576.jpg" group-title="Sports Live", Jagiellonia Bialystok vs Ararat-Armenia - MATCHDAY 2 - UEFA Europa League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18956" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916641721020x576.jpg" group-title="Sports Live", Bournemouth vs Sturm Graz - MATCHDAY 2 - UEFA Europa League 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18957" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916646121020x576.jpg" group-title="Sports Live", Benfica vs Celtic - MATCHDAY 2 - UEFA Europa League 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18958" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916648631020x576.jpg" group-title="Sports Live", Marseille vs Olympiacos - MATCHDAY 2 - UEFA Europa League 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 
 
 
