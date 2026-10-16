@@ -3,7 +3,10 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-16 19:05:16 UTC
+# Auto-Updated via Actions at: 2026-10-16 19:10:17 UTC
+
+#EXTINF:-1 tvg-id="tapmad-18275" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909326981020x576.jpg" group-title="Sports Live", Deportivo vs Levante - MATCHDAY 9 - LaLiga 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18422" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921541901020x576.jpg" group-title="Sports Live", Le Mans vs Toulouse - MATCHDAY 7 - French Ligue 1 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
