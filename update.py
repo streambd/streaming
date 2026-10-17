@@ -6,6 +6,7 @@ from datetime import datetime
 M3U_FILE = "live.m3u"
 
 # External Playlist URLs
+BDXTV_URL = "https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/playlist_s.m3u" # New URL
 SPORTS_URL = "https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u"
 HINDI_MOVIES_URL = "https://raw.githubusercontent.com/streambd/streaming/refs/heads/main/hindimovies.m3u"
 BENGALI_MOVIES_URL = "https://raw.githubusercontent.com/streambd/streaming/refs/heads/main/banglamovies"
@@ -16,6 +17,7 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 # 🏆 Sports LIVE
 # ==========================================
 
+{DYNAMIC_BDXTV}
 {DYNAMIC_CHANNELS}
 
 #EXTINF:-1 tvg-id="abfabaee-3898-4279-8645-3da5b0232867" tvg-name="Willow TV" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow TV
@@ -409,7 +411,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 """
 
-def fetch_and_parse_m3u(url, target_group_title):
+def fetch_and_parse_m3u(url, target_group_title, skip_first=False):
     req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     try:
         with urllib.request.urlopen(req) as response:
@@ -420,6 +422,7 @@ def fetch_and_parse_m3u(url, target_group_title):
 
     dynamic_m3u = ""
     current_channel_block = []
+    first_skipped = False # Tracker for the skipped promo
 
     for line in lines:
         line = line.strip()
@@ -430,7 +433,7 @@ def fetch_and_parse_m3u(url, target_group_title):
             if 'group-title="' in line:
                 line = re.sub(r'group-title="[^"]*"', f'group-title="{target_group_title}"', line)
             else:
-                line = line.replace('#EXTINF:-1', f'#EXTINF:-1 group-title="{target_group_title}"')
+                line = re.sub(r'(#EXTINF:[^,]+)', fr'\1 group-title="{target_group_title}"', line, count=1)
             
             current_channel_block = [line]
             
@@ -438,10 +441,16 @@ def fetch_and_parse_m3u(url, target_group_title):
             if current_channel_block:
                 current_channel_block.append(line)
                 
-        elif line.startswith("http"):
+        elif not line.startswith("#"): # This is the stream URL line
             if current_channel_block:
                 current_channel_block.append(line)
-                dynamic_m3u += "\n".join(current_channel_block) + "\n\n"
+                
+                # Check if we need to skip this first block
+                if skip_first and not first_skipped:
+                    first_skipped = True
+                else:
+                    dynamic_m3u += "\n".join(current_channel_block) + "\n\n"
+                
                 current_channel_block = []
 
     return dynamic_m3u
@@ -456,19 +465,23 @@ def generate_m3u():
     print("Fetching Bengali Movies...")
     bengali_movies_data = fetch_and_parse_m3u(BENGALI_MOVIES_URL, "Bengali Movies")
 
-    timestamp = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
+    print("Fetching BDxTV Channels...")
+    # Add skip_first=True to remove the Plaz TV promo
+    bdxtv_data = fetch_and_parse_m3u(BDXTV_URL, "BDxTV Channels", skip_first=True) 
+
+    from datetime import datetime, timezone
+    timestamp = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
     timestamp_header = f"# Auto-Updated via Actions at: {timestamp} UTC\n\n"
     
     if sports_data:
         sports_data = timestamp_header + sports_data
 
+    # Replace all placeholders
     final_m3u = PLAYLIST_TEMPLATE.replace("{DYNAMIC_CHANNELS}", sports_data)
     final_m3u = final_m3u.replace("{DYNAMIC_HINDI_MOVIES}", movies_data)
     final_m3u = final_m3u.replace("{DYNAMIC_BENGALI_MOVIES}", bengali_movies_data)
+    final_m3u = final_m3u.replace("{DYNAMIC_BDXTV}", bdxtv_data)
 
     with open(M3U_FILE, 'w', encoding='utf-8') as f:
         f.write(final_m3u)
         print(f"Successfully updated {M3U_FILE}")
-
-if __name__ == "__main__":
-    generate_m3u()
