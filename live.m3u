@@ -114,7 +114,7 @@ http://193.47.62.55/hls/FVVVQQQQQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Bulls Stade vs Francais Paris" tvg-logo="https://pbs.twimg.com/profile_images/1697181182796935168/vcSAuYKk_400x400.jpg",Bulls Stade vs Francais Paris
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Bulls vs Stade Francais Paris" tvg-logo="https://pbs.twimg.com/profile_images/1697181182796935168/vcSAuYKk_400x400.jpg",Bulls vs Stade Francais Paris
 http://193.47.62.55/hls/FVVVQQQQQQQ.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -128,12 +128,6 @@ http://193.47.62.55/hls/FVVVQQQQQQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Black Lion vs Ospreys" tvg-logo="https://pbs.twimg.com/profile_images/1697181182796935168/vcSAuYKk_400x400.jpg",Black Lion vs Ospreys
 http://193.47.62.55/hls/FVVVQQQQQ.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="AEK Athens vs Mykonos" tvg-logo="https://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",AEK Athens vs Mykonos
-http://193.47.62.55/hls/FVVVQQQQ.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -406,7 +400,7 @@ http://193.47.62.55/hls/NUUUQQ.m3u8
 http://193.47.62.59/hls/KNNNA.m3u8
 
 
-# Auto-Updated via Actions at: 2026-10-17 12:10:17 UTC
+# Auto-Updated via Actions at: 2026-10-17 12:15:19 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18276" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909328641020x576.jpg" group-title="Sports Live", Espanyol vs Atletico Madrid - MATCHDAY 9 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
