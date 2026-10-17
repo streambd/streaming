@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-17 19:25:14 UTC
+# Auto-Updated via Actions at: 2026-10-17 19:30:22 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18279" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909333031020x576.jpg" group-title="Sports Live", Valencia vs Athletic - MATCHDAY 9 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
@@ -59,6 +59,72 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/435f9b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Ceara vs Juventude" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",Ceara vs Juventude
 http://193.47.62.44/hls/DDDDV.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Wyoming vs Northern Illinois" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Wyoming vs Northern Illinois
+http://193.47.62.59/hls/KCCCQQQQ.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Virginia Tech vs Georgia Tech" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Virginia Tech vs Georgia Tech
+http://193.47.62.59/hls/KCCCQQQ.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Texas Tech vs Arizona State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Texas Tech vs Arizona State
+http://193.47.62.59/hls/KCCCQQ.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Tennessee vs Alabama" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Tennessee vs Alabama
+http://193.47.62.59/hls/KCCCQ.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Ole Miss vs Missouri" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Ole Miss vs Missouri
+http://193.47.62.59/hls/KCCC.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Michigan vs Penn State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Michigan vs Penn State
+http://193.47.62.59/hls/Y888QQQQQ.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Miami OH vs Akron" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Miami OH vs Akron
+http://193.47.62.59/hls/Y888QQQQ.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Georgia vs Auburn" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Georgia vs Auburn
+http://193.47.62.59/hls/Y888QQQ.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Eastern Michigan vs Toledo" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Eastern Michigan vs Toledo
+http://193.47.62.59/hls/Y888QQ.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Duke vs North Carolina" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Duke vs North Carolina
+http://193.47.62.59/hls/Y888Q.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Air Force vs UNLV Rebels" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Air Force vs UNLV Rebels
+http://193.47.62.59/hls/Y888.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
