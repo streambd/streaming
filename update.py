@@ -1,12 +1,12 @@
 import urllib.request
 import re
-from datetime import datetime
+from datetime import datetime, timezone
 
 # --- Configuration ---
 M3U_FILE = "live.m3u"
 
 # External Playlist URLs
-BDXTV_URL = "https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/playlist_s.m3u" # New URL
+BDXTV_URL = "https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/playlist_s.m3u"
 SPORTS_URL = "https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u"
 HINDI_MOVIES_URL = "https://raw.githubusercontent.com/streambd/streaming/refs/heads/main/hindimovies.m3u"
 BENGALI_MOVIES_URL = "https://raw.githubusercontent.com/streambd/streaming/refs/heads/main/banglamovies"
@@ -469,7 +469,6 @@ def generate_m3u():
     # Add skip_first=True to remove the Plaz TV promo
     bdxtv_data = fetch_and_parse_m3u(BDXTV_URL, "BDxTV Channels", skip_first=True) 
 
-    from datetime import datetime, timezone
     timestamp = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
     timestamp_header = f"# Auto-Updated via Actions at: {timestamp} UTC\n\n"
     
@@ -485,3 +484,7 @@ def generate_m3u():
     with open(M3U_FILE, 'w', encoding='utf-8') as f:
         f.write(final_m3u)
         print(f"Successfully updated {M3U_FILE}")
+
+# The execution block was missing in your pasted code
+if __name__ == "__main__":
+    generate_m3u()
