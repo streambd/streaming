@@ -250,10 +250,13 @@ http://193.47.62.55/hls/NUUUQQ.m3u8
 http://193.47.62.59/hls/KNNNA.m3u8
 
 
-# Auto-Updated via Actions at: 2026-10-17 11:30:20 UTC
+# Auto-Updated via Actions at: 2026-10-17 11:35:15 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18901" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921307571020x576.jpg" group-title="Sports Live", Bangladesh vs Zimbabwe - 1st ODI - UAE ODI Tri-Series 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19096" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17922316751020x576.jpg" group-title="Sports Live", Nikoloz Abramishvili vs Aaron McKenzie - PFL vs RKENA - PFL 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 
 
 
