@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-17 19:40:16 UTC
+# Auto-Updated via Actions at: 2026-10-17 19:45:17 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18279" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909333031020x576.jpg" group-title="Sports Live", Valencia vs Athletic - MATCHDAY 9 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
@@ -44,6 +44,12 @@ http://193.47.62.50/hls/B1111.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Golden State Valkyries W vs Atlanta Dream W --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",Golden State Valkyries W vs Atlanta Dream W --- CH 1
 http://193.47.62.44/hls/DDDDVA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Golden State Valkyries W vs Atlanta Dream W --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",Golden State Valkyries W vs Atlanta Dream W --- CH 2
+https://www.rtmpcdn.com/live/f67048a2-75f1-47e8-9c2d-1497bcdf4e13.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
