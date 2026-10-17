@@ -3,10 +3,13 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-17 16:30:21 UTC
+# Auto-Updated via Actions at: 2026-10-17 16:35:13 UTC
 
 #EXTINF:-1 tvg-id="tapmad-17718" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913546781020x576.jpg" group-title="Sports Live", India vs West Indies - 5th T20I - West Indies Tour of India 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18278" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909331651020x576.jpg" group-title="Sports Live", Betis vs Barcelona - MATCHDAY 9 - LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18423" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918811121020x576.jpg" group-title="Sports Live", Strasbourg vs PSG - MATCHDAY 7 - French Ligue 1 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
