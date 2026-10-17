@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-17 08:50:18 UTC
+# Auto-Updated via Actions at: 2026-10-17 08:55:16 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18251" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921558781020x576.jpg" group-title="Sports Live", Rahamatgonj MFS vs Brothers Union Ltd - Round 4 - Bangladesh Football League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
@@ -13,6 +13,9 @@ https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18253" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921560181020x576.jpg" group-title="Sports Live", Bangladesh Police FC vs Arambagh Krira Shangha - Round 4 - Bangladesh Football League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18992" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919634761020x576.jpg" group-title="Sports Live", Moto 1 - Olbia, Italy - Race 1 - UIM - ABP Aquabike World Championship 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 
 
 
