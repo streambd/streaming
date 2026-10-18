@@ -3,10 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-18 16:15:19 UTC
-
-#EXTINF:-1 tvg-id="tapmad-18281" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909335741020x576.jpg" group-title="Sports Live", Celta vs Alaves - MATCHDAY 9 - LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
+# Auto-Updated via Actions at: 2026-10-18 16:20:16 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18427" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918817101020x576.jpg" group-title="Sports Live", Le Havre vs Auxerre - MATCHDAY 7 - French Ligue 1 2026/27
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
@@ -74,6 +71,12 @@ http://193.47.62.44/hls/HCCCQQQQQQAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="JKT Tanzania vs Mbeya City" tvg-logo="https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",JKT Tanzania vs Mbeya City
 http://193.47.62.44/hls/HCCCQQQQQQA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Beerschot VA vs Anderlecht" tvg-logo="https://pbs.twimg.com/profile_images/2082438090145091584/D3dYErOV_400x400.jpg",Beerschot VA vs Anderlecht
+http://193.47.62.44/hls/HCCCQQQQ.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
