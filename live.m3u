@@ -3,13 +3,22 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-18 15:05:14 UTC
+# Auto-Updated via Actions at: 2026-10-18 15:10:18 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18281" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909335741020x576.jpg" group-title="Sports Live", Celta vs Alaves - MATCHDAY 9 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18426" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918815661020x576.jpg" group-title="Sports Live", Angers vs Marseille - MATCHDAY 7 - French Ligue 1 2026/27
 https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18427" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918817101020x576.jpg" group-title="Sports Live", Le Havre vs Auxerre - MATCHDAY 7 - French Ligue 1 2026/27
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18428" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918818331020x576.jpg" group-title="Sports Live", Lorient vs Monaco - MATCHDAY 7 - French Ligue 1 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18429" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918819751020x576.jpg" group-title="Sports Live", Paris FC vs Rennes - MATCHDAY 7 - French Ligue 1 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18880" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919823391020x576.jpg" group-title="Sports Live", Pakistan vs Sri Lanka - 1st ODI - Pakistan ODI Tri-Series 2026
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
