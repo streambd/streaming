@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-18 19:00:25 UTC
+# Auto-Updated via Actions at: 2026-10-18 19:05:13 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18283" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909363211020x576.jpg" group-title="Sports Live", Real Madrid vs Sevilla - MATCHDAY 9 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
@@ -53,6 +53,12 @@ http://193.47.62.44/hls/T777AX.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Kifisia vs Aris" tvg-logo="https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",Kifisia vs Aris
 http://193.47.62.44/hls/T333AAAAQQQX.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Nascar Cup Series Freeway Insurance 500" tvg-logo="https://pbs.twimg.com/profile_images/2111887675573567488/RkuebJKu_400x400.jpg",Nascar Cup Series Freeway Insurance 500
+http://193.47.62.44/hls/fiii.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
