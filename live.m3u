@@ -3,13 +3,10 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-18 15:20:17 UTC
+# Auto-Updated via Actions at: 2026-10-18 15:25:13 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18281" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909335741020x576.jpg" group-title="Sports Live", Celta vs Alaves - MATCHDAY 9 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18426" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918815661020x576.jpg" group-title="Sports Live", Angers vs Marseille - MATCHDAY 7 - French Ligue 1 2026/27
-https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18427" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918817101020x576.jpg" group-title="Sports Live", Le Havre vs Auxerre - MATCHDAY 7 - French Ligue 1 2026/27
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
@@ -22,9 +19,6 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18880" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919823391020x576.jpg" group-title="Sports Live", Pakistan vs Sri Lanka - 1st ODI - Pakistan ODI Tri-Series 2026
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-19004" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919643121020x576.jpg" group-title="Sports Live", Moto 3 - Olbia, Italy - Race 3 - UIM - ABP Aquabike World Championship 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
