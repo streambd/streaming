@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-18 00:55:15 UTC
+# Auto-Updated via Actions at: 2026-10-18 01:00:25 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18232" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17917963751020x576.jpg" group-title="Sports Live", Buckley vs Malott - Fight Night - UFC 2026
 https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
@@ -72,6 +72,12 @@ https://admin.formaturamaxi.com.br/mlb.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Fiji vs Cook Islands" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",Fiji vs Cook Islands
+http://193.47.62.44/hls/HTTTAA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Cruz Azul vs Juarez" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",Cruz Azul vs Juarez
 http://193.47.62.41/hls/TPPPAAA.m3u8
 
@@ -80,6 +86,18 @@ http://193.47.62.41/hls/TPPPAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Oregon vs Nebraska" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Oregon vs Nebraska
 http://193.47.62.50/hls/V555AQ.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="New Zealand W vs Fiji W" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",New Zealand W vs Fiji W
+http://193.47.62.44/hls/HTTTA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="NoCanterbury vs Taranakiago" tvg-logo="https://pbs.twimg.com/profile_images/1605720616560009218/P4LuoDhq_400x400.jpg",NoCanterbury vs Taranakiago
+http://193.47.62.44/hls/HTTT.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
