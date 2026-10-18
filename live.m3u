@@ -3,10 +3,13 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-18 18:15:17 UTC
+# Auto-Updated via Actions at: 2026-10-18 18:20:17 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18282" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909337051020x576.jpg" group-title="Sports Live", Malaga vs Real Sociedad - MATCHDAY 9 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18430" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918821151020x576.jpg" group-title="Sports Live", OL vs Nice - MATCHDAY 7 - French Ligue 1 2026/27
+https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
 
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -19,7 +22,7 @@ https://www.rtmpcdn.com/live/a85f23ac-2373-40db-8835-fe5d45251ea6.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="PAOK vs Iraklis 1908" tvg-logo="https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",PAOK vs Iraklis 1908
-http://193.47.62.44/hls/T777A.m3u8
+http://193.47.62.44/hls/T777AX.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -62,6 +65,18 @@ http://193.47.62.44/hls/FYYYAAAAQQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="NEC Nijmegen vs Fortuna Sittard" tvg-logo="https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg",NEC Nijmegen vs Fortuna Sittard
 http://193.47.62.44/hls/FYYYAAAAQ.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Snooker Northern Ireland Open --- Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",Snooker Northern Ireland Open --- Table 1
+http://193.47.62.44/hls/PTTTA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Snooker Northern Ireland Open --- Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",Snooker Northern Ireland Open --- Table 2
+http://193.47.62.44/hls/PTTTAA.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
