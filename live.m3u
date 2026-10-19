@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-19 15:05:15 UTC
+# Auto-Updated via Actions at: 2026-10-19 15:10:21 UTC
 
 #EXTINF:-1 tvg-id="tapmad-17104" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921483431020x576.jpg" group-title="Sports Live", Al-Fayha vs Al-Ahli - MATCHDAY 10 - Saudi Pro League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
@@ -18,14 +18,14 @@ https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115f
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Omonia vs Ol Nicosia" tvg-logo="https://1.bp.blogspot.com/-byTkUREuv60/X0bfuLzFPPI/AAAAAAAABUU/7Itgj_8JQRo3LCXpT2AHdZXSKw7Tjxw7ACLcBGAsYHQ/s474/OIP.jpg",Omonia vs Ol Nicosia
-http://193.47.62.550/hls/TBBBA.m3u8
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Pafos vs APOEL" tvg-logo="https://1.bp.blogspot.com/-byTkUREuv60/X0bfuLzFPPI/AAAAAAAABUU/7Itgj_8JQRo3LCXpT2AHdZXSKw7Tjxw7ACLcBGAsYHQ/s474/OIP.jpg",Pafos vs APOEL
+http://193.47.62.50/hls/TBBB.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Pafos vs APOEL" tvg-logo="https://1.bp.blogspot.com/-byTkUREuv60/X0bfuLzFPPI/AAAAAAAABUU/7Itgj_8JQRo3LCXpT2AHdZXSKw7Tjxw7ACLcBGAsYHQ/s474/OIP.jpg",Pafos vs APOEL
-http://193.47.62.50/hls/TBBB.m3u8
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Omonia vs Ol Nicosia" tvg-logo="https://1.bp.blogspot.com/-byTkUREuv60/X0bfuLzFPPI/AAAAAAAABUU/7Itgj_8JQRo3LCXpT2AHdZXSKw7Tjxw7ACLcBGAsYHQ/s474/OIP.jpg",Omonia vs Ol Nicosia
+http://193.47.62.550/hls/TBBBA.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -62,12 +62,6 @@ http://193.47.62.59/hls/ZNNNAAAAQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="BFC Daugavpils vs Auda" tvg-logo="https://pbs.twimg.com/profile_images/2028501406919876608/9vKL_LMT_400x400.jpg",BFC Daugavpils vs Auda
 http://193.47.62.59/hls/ZNNNAAAA.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Dobrudzha vs Montana" tvg-logo="https://pbs.twimg.com/profile_images/961918078715154432/nvSl0qsf_400x400.jpg",Dobrudzha vs Montana
-http://193.47.62.59/hls/ZNNNAAA.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
