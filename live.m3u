@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-19 18:45:19 UTC
+# Auto-Updated via Actions at: 2026-10-19 18:50:17 UTC
 
 #EXTINF:-1 tvg-id="tapmad-17105" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17924116441020x576.jpg" group-title="Sports Live", Al-Hilal vs Al-Hazem - MATCHDAY 10 - Saudi Pro League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
@@ -236,24 +236,6 @@ http://193.47.62.41/hls/FRRRRQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Dinamo Minsk vs Arsenal Dzerzhinsk" tvg-logo="https://pbs.twimg.com/profile_images/1469076834/125px-Flag_of_Belarus_400x400.png",Dinamo Minsk vs Arsenal Dzerzhinsk
 http://193.47.62.41/hls/FRRRR.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Monza vs Cagliari --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",Monza vs Cagliari --- CH 1
-http://193.47.62.41/hls/LFFFAAAAA.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Monza vs Cagliari --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",Monza vs Cagliari --- CH 2
-https://www.rtmpcdn.com/live/85ffc4c7-4ad0-4257-a568-74bf0ca78791.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Rodina Moscow vs Orenburg" tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg",Rodina Moscow vs Orenburg
-http://193.47.62.41/hls/LFFFAAAA.m3u8
 
 
 
