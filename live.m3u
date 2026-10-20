@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-20 18:45:20 UTC
+# Auto-Updated via Actions at: 2026-10-20 18:50:17 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18361" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920499071020x576.jpg" group-title="Sports Live", Paris Saint-Germain vs Barcelona - MATCHDAY 3 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
@@ -38,18 +38,6 @@ https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea
 #EXTINF:-1 tvg-id="tapmad-18367" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920501931020x576.jpg" group-title="Sports Live", Stuttgart vs Atletico Madrid - MATCHDAY 3 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
 
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Sabah Baku vs Borussia Dortmund --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",Sabah Baku vs Borussia Dortmund --- CH 2
-https://www.rtmpcdn.com/live/c30f3a10-da23-4343-85d0-74148fd68066.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Fenerbahce vs Slavia Prague --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",Fenerbahce vs Slavia Prague --- CH 2
-https://www.rtmpcdn.com/live/80dd1765-1354-4b54-8d0b-b9357bb91ab9.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
