@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-21 20:30:24 UTC
+# Auto-Updated via Actions at: 2026-10-21 20:35:16 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18376" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920512241020x576.jpg" group-title="Sports Live", Real Madrid vs RB Leipzig - MATCHDAY 3 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
@@ -138,6 +138,24 @@ https://hls.bsp5.cc/live/hd-en-6Mxj4xYAzNw6Lg6MmZ.m3u8?txSecret=21d862af03c51611
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Sporting Lisbon vs LASK --- CH 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",Sporting Lisbon vs LASK --- CH 2 HD
 https://www.rtmpcdn.com/live/57b72cdd-df04-41d3-ab01-f40f876c31b9.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Real Potosi vs Bolivar" tvg-logo="https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",Real Potosi vs Bolivar
+http://193.47.62.55/hls/F555qqq.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Montevideo City vs Atletico-MG" tvg-logo="https://pbs.twimg.com/profile_images/1611126003237011458/6LAfWG6L_400x400.jpg",Montevideo City vs Atletico-MG
+http://193.47.62.55/hls/F555qq.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="U De Chile vs Antofagasta" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg",U De Chile vs Antofagasta
+http://193.47.62.55/hls/F555q.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
