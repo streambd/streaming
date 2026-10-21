@@ -102,7 +102,7 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8?e=1784102535&u=ee5437
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C5XhmFV.png", NTV
 https://playztv-apps.pages.dev/ntv/index.m3u8
 
-#EXTINF:-1,Doyel TV
+#EXTINF:-1  group-title="BD TV",Doyel TV
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/CeM6ooG.th.jpg" group-title="BD TV",RTV 
