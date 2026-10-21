@@ -52,7 +52,7 @@ https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" tvg-name="A Sports",A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
 
-#EXTINF:-1 tvg-id="DDSports.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",DD Sports (720p)
+#EXTINF:-1 group-title="Sports Live" tvg-id="DDSports.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",DD Sports (720p)
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-id="FightBox.nl@HD" tvg-logo="https://i.imgur.com/mRsnztA.png" ,FightBox HD
