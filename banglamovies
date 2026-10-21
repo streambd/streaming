@@ -6,6 +6,9 @@
 #EXTINF:-1 tvg-logo="https://www.ftpbd.net/wp-content/uploads/2026/10/3fRSYc87x4y85Qmt5yDXFVGTPMc.webp" group-title="bengali Movies",Aajo Ardhangini (2026)
 https://www.ftpbd.net/wp-content/hls-file/Aajo-Ardhangini-2026-1080p-Bengali-WEBDL_reencoded/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7UkHJogQ1QOihEwmK67-zQz9Pk3ie1408anxnX7aekiaWq9VhpJV1MiW2&s=10" group-title="bengali Movies" , Surongo (2023)
+https://pixeldrain.dev/api/file/XLydnsWL?download
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gasVnEUAFByENiAMUOdiI5CyH4Z.jpg" group-title="bengali Movies",Vijaynagar'er Hirey
 https://flixhub.net/stream/movie/vijaynagarer-hirey
 
