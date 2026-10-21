@@ -10,7 +10,7 @@
 #KODIPROP:inputstream.adaptive.license_key=39d6fd72bc7b22ab03ea3d81cb8c739a:91a9302b488dc76b61b9ab7c4e158aa2
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd
 
-# Auto-Updated via Actions at: 2026-10-21 13:35:18 UTC
+# Auto-Updated via Actions at: 2026-10-21 13:40:20 UTC
 
 #EXTINF:-1 tvg-id="tapmad-17701" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918899001020x576.jpg" group-title="Sports Live", South Africa vs Australia - 2nd Test - Australia Tour of South Africa 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
@@ -510,7 +510,10 @@ https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Sardar-2%20(2026)%20Tamil%
 https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Dhurandhar%20the%20Revenge%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Dhurandhar%20the%20Revenge%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv
 
 #EXTINF:-1 tvg-logo="https://www.ftpbd.net/wp-content/uploads/2024/12/uYQxDrMGPjn7nicdgkwGUQBioLF.webp" group-title="Hindi Movies", Jailer (2023) Hindi Dubbed
-https://www.ftpbd.net/wp-content/hls-file/Jailer-2023-1080p-WEBDL-Hindi_reencoded/index.m3u8
+https://flixhub.net/stream/movie/jailer-2
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ngDEH7YqVaMCAD4LpNxRl6ScJnw.jpg" group-title="Hindi Movies", Meiyazhagan
+https://flixhub.net/stream/movie/meiyazhagan
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1_T0UL_6Se2RavH3ulleUD8E3Ubwr6yzzw7-x3wbQuw&s=10" group-title="Hindi Movies", Kabhi Khushi Kabhie Gham
 https://server3.ftpbd.net/FTP-3/Hindi%20Movies/2001/Kabhi-Khushi-Kabhie-Gham--%282001%29-1080p-BluRay/Kabhi.Khushi.Kabhie.Gham....2001.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D_reencoded.mp4
@@ -519,7 +522,7 @@ https://server3.ftpbd.net/FTP-3/Hindi%20Movies/2001/Kabhi-Khushi-Kabhie-Gham--%2
 https://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991--2000/1999/Hum-Dil-De-Chuke-Sanam-%281999%29-Hindi-1080p-WEBRip/Hum%20Dil%20De%20Chuke%20Sanam%201999%20WebRip%20Hindi%201080p%20x264%20AAC%202.0_reencoded.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwknTty0Jpl5V4wQmKnVNuuwZgdrcH5nfoxlrn2zp5g&s=10" group-title="Hindi Movies", 3 idiots
-https://server3.ftpbd.net/FTP-3/Hindi%20Movies/2009/3-Idiots-2009/3-Idiots-2009-4K-BluRay_reencoded.mp4
+https://flixhub.net/stream/movie/3-idiots
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAxp7zi6TKNvrY48-HC8I4ggfEk5BDRvb7EA0XLbXpuw&s=10" group-title="Hindi Movies", Dangal
 https://media.ctgfun.com/disk3/Hindi%20Movies/2016/Dangal.2017.Hindi.1080p.BRRiP.6CH.ShAaNiG/Dangal.2017.Hindi.1080p.BRRiP.6CH.ShAaNiG.mkv
@@ -531,7 +534,7 @@ https://flixhub.net/stream/movie/pk
 https://server3.ftpbd.net/FTP-3/Hindi%20Movies/2004/Swades-2004/Swades.2004.REPACK.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D_reencoded.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7E4Xbp-lAPpKPAo6Skg78Vsrj2zIVe2CgurT7ZbmtXw&s=10" group-title="Hindi Movies", Main Hoon Na
-https://server3.ftpbd.net/FTP-3/Hindi%20Movies/2004/Main-Hoon-Na-2004/Main-Hoon-Na-2004-1080p-Hindi-BluRay_reencoded.mp4
+https://flixhub.net/stream/movie/main-hoon-na
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5FmtHHDGPofW5Zjns1EM1D8503c.jpg" group-title="Hindi Movies", kuch kuch hota hai
 https://flixhub.net/stream/movie/kuch-kuch-hota-hai
