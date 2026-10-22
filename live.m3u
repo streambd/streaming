@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-22 17:25:18 UTC
+# Auto-Updated via Actions at: 2026-10-22 17:30:28 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18966" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916672801020x576.jpg" group-title="Sports Live", Juventus vs Rennes - MATCHDAY 3 - UEFA Europa League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
@@ -95,7 +95,7 @@ http://193.47.62.59/hls/J666AAAAA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Lech Poznan vs Sunderland --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",Lech Poznan vs Sunderland --- CH 2
-https://tedesco.formaturamaxi.com.br/prem.m3u8
+https://www.rtmpcdn.com/live/f1032863-e872-4ddf-93a0-43fea91ab623.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -107,7 +107,7 @@ http://193.47.62.59/hls/J666AAAA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Juventus vs Rennes --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",Juventus vs Rennes --- CH 2
-https://tedesco.formaturamaxi.com.br/cbssn.m3u8
+https://www.rtmpcdn.com/live/78c75eee-7df9-4ad0-b115-7a2b90f7ba08.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -125,7 +125,7 @@ http://193.47.62.50/hls/J666AA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Sturm Graz vs Marseille --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",Sturm Graz vs Marseille --- CH 2
-https://admin2.formaturamaxi.com.br/marseille.m3u8
+https://www.rtmpcdn.com/live/7ff62cbf-6fb3-49b3-a0e0-155461bfb88e.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
