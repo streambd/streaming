@@ -3,6 +3,32 @@
 # 🏆 Sports LIVE
 # ==========================================
 
+# Auto-Updated via Actions at: 2026-10-22 17:10:25 UTC
+
+#EXTINF:-1 tvg-id="tapmad-18966" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916672801020x576.jpg" group-title="Sports Live", Juventus vs Rennes - MATCHDAY 3 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18965" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916670071020x576.jpg" group-title="Sports Live", Ararat-Armenia vs AZ Alkmaar - MATCHDAY 3 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18964" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916665741020x576.jpg" group-title="Sports Live", Union vs H. Beer-Sheva - MATCHDAY 3 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18963" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916663301020x576.jpg" group-title="Sports Live", Dinamo Zagreb vs NEC - MATCHDAY 3 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18962" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916660451020x576.jpg" group-title="Sports Live", Sturm Graz vs Marseille - MATCHDAY 3 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18961" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916657681020x576.jpg" group-title="Sports Live", Ferencvaros vs Torreense - MATCHDAY 3 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18960" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916654441020x576.jpg" group-title="Sports Live", OFI vs Leverkusen - MATCHDAY 3 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18959" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916651941020x576.jpg" group-title="Sports Live", Lech Poznan vs Sunderland - MATCHDAY 3 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+
 
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -22,6 +48,12 @@ http://193.47.62.41/hls/J666AAAAAAQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Trabzonspor vs Hearts --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",Trabzonspor vs Hearts --- CH 2
 https://www.rtmpcdn.com/live/ee690341-591c-4189-860f-d94b0b4e657b.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Trabzonspor vs Hearts --- CH 3" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",Trabzonspor vs Hearts --- CH 3
+https://admin2.formaturamaxi.com.br/tnt3.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -62,8 +94,20 @@ http://193.47.62.59/hls/J666AAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Lech Poznan vs Sunderland --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",Lech Poznan vs Sunderland --- CH 2
+https://tedesco.formaturamaxi.com.br/prem.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Juventus vs Rennes --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",Juventus vs Rennes --- CH 1
 http://193.47.62.59/hls/J666AAAA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Juventus vs Rennes --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",Juventus vs Rennes --- CH 2
+https://tedesco.formaturamaxi.com.br/cbssn.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -76,6 +120,12 @@ http://193.47.62.50/hls/J666AAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Sturm Graz vs Marseille --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",Sturm Graz vs Marseille --- CH 1
 http://193.47.62.50/hls/J666AA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Sturm Graz vs Marseille --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",Sturm Graz vs Marseille --- CH 2
+https://admin2.formaturamaxi.com.br/marseille.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -106,6 +156,12 @@ http://193.47.62.55/hls/EEEEAAAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Crvena Zvezda vs FC Copenhagen --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",Crvena Zvezda vs FC Copenhagen --- CH 2
 https://www.rtmpcdn.com/live/a8771898-704e-4862-aae5-59dd39884c18.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Crvena Zvezda vs FC Copenhagen --- CH 3" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",Crvena Zvezda vs FC Copenhagen --- CH 3
+https://admin2.formaturamaxi.com.br/cope.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -164,8 +220,14 @@ http://193.47.62.55/hls/EEEE.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Golf PGA Butterfield Bermuda Championship" tvg-logo="https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",Golf PGA Butterfield Bermuda Championship
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Darts European Championship" tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg",Darts European Championship
 http://193.47.62.44/hls/F555AA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Golf PGA Butterfield Bermuda Championship" tvg-logo="https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",Golf PGA Butterfield Bermuda Championship
+http://193.47.62.44/hls/F555A.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
