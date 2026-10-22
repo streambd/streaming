@@ -3,17 +3,6 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-22 17:00:30 UTC
-
-#EXTINF:-1 tvg-id="tapmad-18882" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17924108661020x576.jpg" group-title="Sports Live", England vs Sri Lanka - 3rd ODI - Pakistan ODI Tri-Series 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18882" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17924108661020x576.jpg" group-title="Sports Live", England vs Sri Lanka - 3rd ODI - Pakistan ODI Tri-Series 2026 - Server 2
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-17106" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925841881020x576.jpg" group-title="Sports Live", Al Fateh vs Al-Shabab - MATCHDAY 11 - Saudi Pro League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-
 
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
