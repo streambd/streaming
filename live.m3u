@@ -3,13 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-22 12:00:30 UTC
-
-#EXTINF:-1 tvg-id="tapmad-19055" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921532811020x576.jpg" group-title="Sports Live", New Zealand vs India - 1st T20I - India Tour of New Zealand 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-19055" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921532811020x576.jpg" group-title="Sports Live", New Zealand vs India - 1st T20I - India Tour of New Zealand 2026 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+# Auto-Updated via Actions at: 2026-10-22 12:05:15 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18882" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17924108661020x576.jpg" group-title="Sports Live", England vs Sri Lanka - 3rd ODI - Pakistan ODI Tri-Series 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
