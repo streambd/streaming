@@ -3,10 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-24 14:35:14 UTC
-
-#EXTINF:-1 tvg-id="tapmad-18287" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926493471020x576.jpg" group-title="Sports Live", Rayo Vallecano vs Elche - MATCHDAY 10 - LaLiga 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
+# Auto-Updated via Actions at: 2026-10-24 14:40:18 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18288" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926494311020x576.jpg" group-title="Sports Live", Racing Santander vs Espanyol - MATCHDAY 10 - LaLiga 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
@@ -341,12 +338,6 @@ http://193.47.62.55/hls/Y777QQQQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Partick Thistle vs Stenhousemuir" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Scottish_Championship.svg",Partick Thistle vs Stenhousemuir
 http://193.47.62.55/hls/Y777QQQ.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Morton vs Ayr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Scottish_Championship.svg",Morton vs Ayr
-http://193.47.62.55/hls/Y777QQ.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
