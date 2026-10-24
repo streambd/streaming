@@ -1,1 +1,13 @@
-mov
+#EXTM3U
+# ==========================================
+# 🎬 English Movies
+# ==========================================
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg" group-title="english Movies", Matchbox the Movie
+https://flixhub.net/stream/movie/matchbox-the-movie
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg" group-title="english Movies", Runner
+https://flixhub.net/stream/movie/runner
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg" group-title="english Movies", Runner
+https://ftp.ctgfun.com/English/Runner%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Runner%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
