@@ -9,7 +9,7 @@ M3U_FILE = "live.m3u"
 BDXTV_URL = "https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/playlist_s.m3u"
 SPORTS_URL = "https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u"
 HINDI_MOVIES_URL = "https://raw.githubusercontent.com/streambd/streaming/refs/heads/main/hindimovies.m3u"
-BENGALI_MOVIES_URL = "https://raw.githubusercontent.com/streambd/streaming/refs/heads/main/banglamovies"
+BENGALI_MOVIES_URL = "https://raw.githubusercontent.com/streambd/streaming/refs/heads/main/banglamovies.m3u"
 
 # --- Template ---
 PLAYLIST_TEMPLATE = """#EXTM3U
