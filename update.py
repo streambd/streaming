@@ -6,8 +6,9 @@ from datetime import datetime, timezone
 M3U_FILE = "live.m3u"
 
 # External Playlist URLs
-BDXTV_URL = "https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/playlist_s.m3u"
 SPORTS_URL = "https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u"
+SONYLIV_URL = "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u"
+BDXTV_URL = "https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/playlist_s.m3u"
 HINDI_MOVIES_URL = "https://raw.githubusercontent.com/streambd/streaming/refs/heads/main/hindimovies.m3u"
 BENGALI_MOVIES_URL = "https://raw.githubusercontent.com/streambd/streaming/refs/heads/main/banglamovies.m3u"
 ENGLISH_MOVIES_URL = "https://raw.githubusercontent.com/streambd/streaming/refs/heads/main/englishmovies.m3u"
@@ -18,10 +19,9 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 # 🏆 Sports LIVE
 # ==========================================
 
-#EXTINF:-1 tvg-id="sonyliv-1090550221" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Football", Odisha FC vs NorthEast United FC | MG Indian Super League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTc4a7prod-PlaybackConfig/2018457/Footlive2410/ENG/master.m3u8?hdnea=exp=1792891253~acl=/*~id=52337549659131826064865916043669~hmac=f1f37db7ec2e718dfe5268ef39b80bb998b981d0372cedee11ec469a7f495a5d
-
 {DYNAMIC_CHANNELS}
+
+{DYNAMIC_SONYLIV}
 
 {DYNAMIC_BDXTV}
 
@@ -387,16 +387,16 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 {DYNAMIC_HINDI_MOVIES}
 
 # ==========================================
-# 🎬 English Movies
-# ==========================================
-
-{DYNAMIC_ENGLISH_MOVIES}
-
-# ==========================================
 # 🎬 Bengali Movies
 # ==========================================
 
 {DYNAMIC_BENGALI_MOVIES}
+
+# ==========================================
+# 🎬 English Movies
+# ==========================================
+
+{DYNAMIC_ENGLISH_MOVIES}
 
 # ==========================================
 # 📺 CARTOON TV
@@ -471,6 +471,9 @@ def generate_m3u():
     print("Fetching Sports channels...")
     sports_data = fetch_and_parse_m3u(SPORTS_URL, "Sports Live")
     
+    print("Fetching SonyLiv channels...")
+    sonyliv_data = fetch_and_parse_m3u(SONYLIV_URL, "Sports Live")
+    
     print("Fetching Hindi Movies...")
     movies_data = fetch_and_parse_m3u(HINDI_MOVIES_URL, "Hindi Movies")
 
@@ -490,6 +493,7 @@ def generate_m3u():
         sports_data = timestamp_header + sports_data
 
     final_m3u = PLAYLIST_TEMPLATE.replace("{DYNAMIC_CHANNELS}", sports_data)
+    final_m3u = final_m3u.replace("{DYNAMIC_SONYLIV}", sonyliv_data)
     final_m3u = final_m3u.replace("{DYNAMIC_HINDI_MOVIES}", movies_data)
     final_m3u = final_m3u.replace("{DYNAMIC_BENGALI_MOVIES}", bengali_movies_data)
     final_m3u = final_m3u.replace("{DYNAMIC_ENGLISH_MOVIES}", english_movies_data)
