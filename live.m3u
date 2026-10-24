@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-24 13:55:13 UTC
+# Auto-Updated via Actions at: 2026-10-24 14:00:27 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18287" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926493471020x576.jpg" group-title="Sports Live", Rayo Vallecano vs Elche - MATCHDAY 10 - LaLiga 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
@@ -20,18 +20,6 @@ https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT604fprod-PlaybackConfig/2120308/criclive2410/HIN/master.m3u8?hdnea=exp=1792891253~acl=/*~id=52337549659131826064865916043669~hmac=f1f37db7ec2e718dfe5268ef39b80bb998b981d0372cedee11ec469a7f495a5d
 
 
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Bulls vs Ulster" tvg-logo="https://pbs.twimg.com/profile_images/2109995782245879808/FR4qezIe_400x400.png",Bulls vs Ulster
-http://193.47.62.50/hls/YYYYYAAAQQQQQ.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Tottenham W vs Arsenal W" tvg-logo="https://pbs.twimg.com/profile_images/2095475297214758912/FzYuFMEr_400x400.jpg",Tottenham W vs Arsenal W
-http://193.47.62.50/hls/YYYYYAAAQQQQ.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
