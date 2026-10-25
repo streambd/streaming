@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-25 12:45:18 UTC
+# Auto-Updated via Actions at: 2026-10-25 12:50:18 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18883" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17928758801020x576.jpg" group-title="Sports Live", Pakistan vs England - 4th ODI - Pakistan ODI Tri-Series 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
@@ -101,12 +101,6 @@ http://193.47.62.50/hls/U666AA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="CSKA Moscow vs Spartak Moscow" tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg",CSKA Moscow vs Spartak Moscow
 http://193.47.62.50/hls/U666A.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Ameliano Ameliano vs Olimpia Asuncion" tvg-logo="https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",Ameliano Ameliano vs Olimpia Asuncion
-http://193.47.62.50/hls/U666.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
