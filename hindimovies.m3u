@@ -37,6 +37,9 @@ https://flixhub.net/stream/movie/gunjan-saxena-the-kargil-girl
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yHKCsn5FteTI4UyHPvFE64ua6BT.jpg" group-title="Hindi Movies",Main Ladega
 https://flixhub.net/stream/movie/main-ladega
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/riEnSoGJ1WubamfrNpj4N0wVdoW.jpg" group-title="Hindi Movies", Ittefaq
+https://flixhub.net/stream/movie/ittefaq
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vhlliI7HZZlWfo5d6CiyfBAGLrW.jpg" group-title="Hindi Movies",Bajrangi Bhaijaan
 https://flixhub.net/stream/movie/bajrangi-bhaijaan
 
