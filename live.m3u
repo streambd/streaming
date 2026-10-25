@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-25 19:30:24 UTC
+# Auto-Updated via Actions at: 2026-10-25 19:35:13 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18293" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926499641020x576.jpg" group-title="Sports Live", Real Sociedad vs Levante - MATCHDAY 10 - LaLiga 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
@@ -27,12 +27,6 @@ http://193.47.62.55/hls/JNNNAAAAAAQQQq.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Messi Cup : Ajax vs Inter" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",Messi Cup : Ajax vs Inter
-http://193.47.62.55/hls/tttt.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Independiente vs Boca Juniors" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",Independiente vs Boca Juniors
 http://193.47.62.55/hls/JNNNAAAAAAQQQ.m3u8
 
@@ -41,6 +35,12 @@ http://193.47.62.55/hls/JNNNAAAAAAQQQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Udinese vs AC Milan" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",Udinese vs AC Milan
 http://193.47.62.55/hls/JNNNAAAAAAQQ.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Messi Cup : Ajax vs Inter" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",Messi Cup : Ajax vs Inter
+http://193.47.62.55/hls/tttt.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
