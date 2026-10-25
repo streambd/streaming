@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-25 17:15:16 UTC
+# Auto-Updated via Actions at: 2026-10-25 17:20:20 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18292" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926498901020x576.jpg" group-title="Sports Live", Celta vs Betis - MATCHDAY 10 - LaLiga 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
@@ -22,6 +22,9 @@ https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea
 
 #EXTINF:-1 tvg-id="tapmad-18432" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17923909011020x576.jpg" group-title="Sports Live", Toulouse vs Troyes - MATCHDAY 8 - French Ligue 1 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18293" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926499641020x576.jpg" group-title="Sports Live", Real Sociedad vs Levante - MATCHDAY 10 - LaLiga 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 
 
 
