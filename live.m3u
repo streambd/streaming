@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-25 11:00:28 UTC
+# Auto-Updated via Actions at: 2026-10-25 11:05:17 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18883" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17928758801020x576.jpg" group-title="Sports Live", Pakistan vs England - 4th ODI - Pakistan ODI Tri-Series 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
@@ -38,6 +38,12 @@ http://193.47.62.50/hls/A555AAAAAQQQA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Norrby vs Norrkoping" tvg-logo="https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg",Norrby vs Norrkoping
 http://193.47.62.50/hls/A555AAAAAQQQ.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Exeter W vs Hashtag W" tvg-logo="https://pbs.twimg.com/profile_images/1189843340629626883/_6KAqGwl_400x400.jpg",Exeter W vs Hashtag W
+http://193.47.62.50/hls/Q6666.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -236,18 +242,6 @@ http://193.47.62.50/hls/ZZZZa.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Pakistan vs England" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",Pakistan vs England
 http://193.47.62.50/hls/ZZZZ.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Kawasaki Frontale vs Okayama" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",Kawasaki Frontale vs Okayama
-http://193.47.62.50/hls/TOOOAAAAQQQQ.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="FC Tokyo vs Mito" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",FC Tokyo vs Mito
-http://193.47.62.50/hls/TOOOAAAAQQQ.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
