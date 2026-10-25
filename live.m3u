@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-25 12:10:18 UTC
+# Auto-Updated via Actions at: 2026-10-25 12:15:16 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18883" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17928758801020x576.jpg" group-title="Sports Live", Pakistan vs England - 4th ODI - Pakistan ODI Tri-Series 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
@@ -308,8 +308,8 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8?e=1784102535&u=ee5437
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C5XhmFV.png", NTV
 https://playztv-apps.pages.dev/ntv/index.m3u8
 
-#EXTINF:-1  group-title="BD TV",Doyel TV
-https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
+#EXTINF:-1  group-title="BD TV" tvg-logo="https://i.ibb.co.com/TxDnNNC9/1000109104.png",Ayna TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/CeM6ooG.th.jpg" group-title="BD TV",RTV 
 https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://tvsen5.aynascope.net/RtvHD/index.m3u8
@@ -354,13 +354,9 @@ https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C74OoNa.th.png", Jamuna TV
 https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
 
-#-------Channel 9----------
-#EXTINF:-1 group-title="BD TV" tvg-logo="src="https://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg",Channel 9 HD
-https://akash-go.sm-monirul-islam-rs.workers.dev/channel_9_hd/1729-audio_113592_eng=113200-video=2202800.m3u8
-
-# --- Deepto TV (1 Server) ---
-#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/Cj4Bjol.th.jpg", Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+# --- Channel One (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co.com/VpJYNV3t/download.png", Channel One
+https://stream.ottplus.live/live/channel_1_hd_abr/live/channel_1_hd_720/chunks.m3u8
 
 #-------Thikana TV---------
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://tubextra.b-cdn.net/thikana.jpg",Thikana Tv
