@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-25 12:25:14 UTC
+# Auto-Updated via Actions at: 2026-10-25 12:30:21 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18883" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17928758801020x576.jpg" group-title="Sports Live", Pakistan vs England - 4th ODI - Pakistan ODI Tri-Series 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
@@ -746,6 +746,9 @@ https://flixhub.net/stream/movie/gunjan-saxena-the-kargil-girl
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yHKCsn5FteTI4UyHPvFE64ua6BT.jpg" group-title="Hindi Movies",Main Ladega
 https://flixhub.net/stream/movie/main-ladega
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/riEnSoGJ1WubamfrNpj4N0wVdoW.jpg" group-title="Hindi Movies", Ittefaq
+https://flixhub.net/stream/movie/ittefaq
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vhlliI7HZZlWfo5d6CiyfBAGLrW.jpg" group-title="Hindi Movies",Bajrangi Bhaijaan
 https://flixhub.net/stream/movie/bajrangi-bhaijaan
