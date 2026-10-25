@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-25 02:35:14 UTC
+# Auto-Updated via Actions at: 2026-10-25 02:40:18 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19126" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925868731020x576.jpg" group-title="Sports Live", FEI NAL - MD Upper Marlboro, USA - Race - Longines FEI Jumping World Cup 2026
 https://d1xisgujqundny.cloudfront.net/live/multiregion-1/master.m3u8
@@ -23,6 +23,12 @@ https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Phoenix Suns vs Golden State Warriors --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",Phoenix Suns vs Golden State Warriors --- CH 1
 http://193.47.62.55/hls/I666AA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Phoenix Suns vs Golden State Warriors --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",Phoenix Suns vs Golden State Warriors --- CH 2
+https://www.rtmpcdn.com/live/558b4b61-49c6-4ea0-a9d2-64cffdfdea02.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
