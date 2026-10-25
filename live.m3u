@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-25 12:20:18 UTC
+# Auto-Updated via Actions at: 2026-10-25 12:25:14 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18883" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17928758801020x576.jpg" group-title="Sports Live", Pakistan vs England - 4th ODI - Pakistan ODI Tri-Series 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
@@ -740,6 +740,15 @@ https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Sardar-2%20(2026)%20Tamil%
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ptTwQES14pr5c3aZvJg56YlYgb1.jpg" group-title="Hindi Movies", Dhurandhar: The Revenge (2026)
 https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Dhurandhar%20the%20Revenge%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Dhurandhar%20the%20Revenge%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/llWz6LbVpGPChnNnhAiGJyPMDwP.jpg" group-title="Hindi Movies",Gunjan Saxena: The Kargil Girl
+https://flixhub.net/stream/movie/gunjan-saxena-the-kargil-girl
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yHKCsn5FteTI4UyHPvFE64ua6BT.jpg" group-title="Hindi Movies",Main Ladega
+https://flixhub.net/stream/movie/main-ladega
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vhlliI7HZZlWfo5d6CiyfBAGLrW.jpg" group-title="Hindi Movies",Bajrangi Bhaijaan
+https://flixhub.net/stream/movie/bajrangi-bhaijaan
 
 #EXTINF:-1 tvg-logo="https://www.ftpbd.net/wp-content/uploads/2024/12/uYQxDrMGPjn7nicdgkwGUQBioLF.webp" group-title="Hindi Movies", Jailer (2023) Hindi Dubbed
 https://flixhub.net/stream/movie/jailer-2
