@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-27 10:05:14 UTC
+# Auto-Updated via Actions at: 2026-10-27 10:10:18 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19057" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17923949181020x576.jpg" group-title="Sports Live", New Zealand vs India - 3rd T20I - India Tour of New Zealand 2026 - Server 1
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
@@ -22,6 +22,18 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-17702" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918900981020x576.jpg" group-title="Sports Live", South Africa vs Australia - 3rd Test - Australia Tour of South Africa 2026 - Server 2
 https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18763" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925671681020x576.jpg" group-title="Sports Live", Johor Darul Ta'zim FC (MAS) vs Port FC (THA) - MATCHDAY 3 - AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18758" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925668601020x576.jpg" group-title="Sports Live", Daejeon Hana Citizen (KOR) vs Vissel Kobe (JPN) - MATCHDAY 3 - AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18753" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925665721020x576.jpg" group-title="Sports Live", Shanghai Port FC (CHN) vs Cong An Hai Noi FC (VIE) - MATCHDAY 3 - AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18748" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925651611020x576.jpg" group-title="Sports Live", Kyoto Sanga FC (IRN) vs Newcastle Jets FC (AUS) - MATCHDAY 3 - AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 
 
 
@@ -120,26 +132,50 @@ http://193.47.62.59/hls/O555AAAAQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Shanghai Port vs Cong An Ha Noi" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Shanghai Port vs Cong An Ha Noi
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Shanghai Port vs Cong An Ha Noi --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Shanghai Port vs Cong An Ha Noi --- CH 1
 http://193.47.62.59/hls/O555AAAA.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Kyoto vs Newcastle Jets" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Kyoto vs Newcastle Jets
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Shanghai Port vs Cong An Ha Noi --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Shanghai Port vs Cong An Ha Noi --- CH 2
+https://www.rtmpcdn.com/live/c2d67731-3d41-47cf-b2f7-4fcb58b94a88.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Kyoto vs Newcastle Jets --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Kyoto vs Newcastle Jets --- CH 1
 http://193.47.62.59/hls/O555AAA.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Johor DT vs Port MTI FC" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Johor DT vs Port MTI FC
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Kyoto vs Newcastle Jets --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Kyoto vs Newcastle Jets --- CH 2
+https://www.rtmpcdn.com/live/20e1a5db-9be0-4d7b-af4d-e4f7631b0880.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Johor DT vs Port MTI FC --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Johor DT vs Port MTI FC --- CH 1
 http://193.47.62.59/hls/O555AA.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Daejeon vs Vissel Kobe" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Daejeon vs Vissel Kobe
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Johor DT vs Port MTI FC --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Johor DT vs Port MTI FC --- CH 2
+https://www.rtmpcdn.com/live/c5ca93f3-4d89-43b0-858c-af4b3e1ef3f6.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Daejeon vs Vissel Kobe --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Daejeon vs Vissel Kobe --- CH 1
 http://193.47.62.59/hls/O555A.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Daejeon vs Vissel Kobe --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Daejeon vs Vissel Kobe --- CH 2
+https://www.rtmpcdn.com/live/0da418d9-1da7-41e0-a54c-31c6b4779fb5.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
