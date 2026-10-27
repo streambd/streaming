@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-27 12:15:22 UTC
+# Auto-Updated via Actions at: 2026-10-27 12:20:19 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18884" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925776481020x576.jpg" group-title="Sports Live", Pakistan vs Sri Lanka - 5th ODI - Pakistan ODI Tri-Series 2026 - Server 1
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
@@ -17,17 +17,11 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17702" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918900981020x576.jpg" group-title="Sports Live", South Africa vs Australia - 3rd Test - Australia Tour of South Africa 2026 - Server 2
 https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-18763" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925671681020x576.jpg" group-title="Sports Live", Johor Darul Ta'zim FC (MAS) vs Port FC (THA) - MATCHDAY 3 - AFC Champions League Elite 2026/27
+#EXTINF:-1 tvg-id="tapmad-18783" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925678091020x576.jpg" group-title="Sports Live", Beijing FC (CHN) vs Jeonbuk Hyundai Motors FC (KOR) - MATCHDAY 3 - AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-18758" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925668601020x576.jpg" group-title="Sports Live", Daejeon Hana Citizen (KOR) vs Vissel Kobe (JPN) - MATCHDAY 3 - AFC Champions League Elite 2026/27
+#EXTINF:-1 tvg-id="tapmad-18778" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925674741020x576.jpg" group-title="Sports Live", Ratchaburi FC (THA) vs Kashiwa Reysol (JPN) - MATCHDAY 3 - AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18753" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925665721020x576.jpg" group-title="Sports Live", Shanghai Port FC (CHN) vs Cong An Hai Noi FC (VIE) - MATCHDAY 3 - AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18748" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925651611020x576.jpg" group-title="Sports Live", Kyoto Sanga FC (IRN) vs Newcastle Jets FC (AUS) - MATCHDAY 3 - AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 
 
 
