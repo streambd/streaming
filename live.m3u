@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-27 20:10:19 UTC
+# Auto-Updated via Actions at: 2026-10-27 20:15:19 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18793" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925685401020x576.jpg" group-title="Sports Live", Al Shamal SC (QAT) vs Al-Hilal SFC (KSA) - MATCHDAY 3 - AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
@@ -18,8 +18,14 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Fleetwood vs Arsenal --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Fleetwood vs Arsenal --- CH 2
+https://www.rtmpcdn.com/live/00322d73-6436-46aa-84c6-d48e0723d82b.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Bradford City vs Peterborough --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Bradford City vs Peterborough --- CH 2
-http://193.47.62.59/hls/5762bb65-17c1-4288-9f1a-d72a18a05cc1.m3u8
+https://www.rtmpcdn.com/live/5762bb65-17c1-4288-9f1a-d72a18a05cc1.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -60,8 +66,8 @@ http://193.47.62.41/hls/B111AAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Stenhousemuir vs Dunfermline" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Scottish_Championship.svg",Stenhousemuir vs Dunfermline
-http://193.47.62.59/hls/JBBBBAA.m3u8
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Baskonia vs Real Madrid --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Baskonia vs Real Madrid --- CH 2
+https://www.rtmpcdn.com/live/5dfc6d87-e328-4279-926c-f8fc616db3aa.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -73,7 +79,7 @@ http://193.47.62.59/hls/JBBBBA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Torino vs Como --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",Torino vs Como --- CH 2
-http://193.47.62.59/hls/309df2ef-cff7-439e-8f27-dee9b20d2409.m3u8
+https://www.rtmpcdn.com/live/309df2ef-cff7-439e-8f27-dee9b20d2409.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -85,7 +91,7 @@ http://193.47.62.59/hls/JBBBB.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="AS Roma vs Cagliari --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",AS Roma vs Cagliari --- CH 2
-http://193.47.62.59/hls/024bb2f4-194e-4a38-a3a1-cf90b8e3c744.m3u8
+https://www.rtmpcdn.com/live/024bb2f4-194e-4a38-a3a1-cf90b8e3c744.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -97,7 +103,7 @@ http://193.47.62.59/hls/J777AAA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="FC Koln vs Union Berlin --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1755197625861623808/cRJBmFWR_400x400.jpg",FC Koln vs Union Berlin --- CH 2
-http://193.47.62.59/hls/cd533f8b-1ada-40e4-a77c-47588e2ee15e.m3u8
+https://www.rtmpcdn.com/live/cd533f8b-1ada-40e4-a77c-47588e2ee15e.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -109,7 +115,7 @@ http://193.47.62.59/hls/J777AA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Elversberg vs Darmstadt --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1755197625861623808/cRJBmFWR_400x400.jpg",Elversberg vs Darmstadt --- CH 2
-http://193.47.62.59/hls/3b3d54a7-7b78-42af-b58d-afb16b685d4a.m3u8
+https://www.rtmpcdn.com/live/3b3d54a7-7b78-42af-b58d-afb16b685d4a.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -121,7 +127,7 @@ http://193.47.62.59/hls/J777A.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Borussia Dortmund vs Werder Bremen --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1755197625861623808/cRJBmFWR_400x400.jpg",Borussia Dortmund vs Werder Bremen --- CH 2
-http://193.47.62.59/hls/c87c40e9-5b7d-4120-8060-c3b6bff84fd0.m3u8
+https://www.rtmpcdn.com/live/c87c40e9-5b7d-4120-8060-c3b6bff84fd0.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -133,7 +139,19 @@ http://193.47.62.59/hls/J777.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Monchengladbach vs Karlsruher SC --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1755197625861623808/cRJBmFWR_400x400.jpg",Monchengladbach vs Karlsruher SC --- CH 2
-http://193.47.62.59/hls/8ac64648-a3b1-4f14-880e-b5b9dd314e32.m3u8
+https://www.rtmpcdn.com/live/8ac64648-a3b1-4f14-880e-b5b9dd314e32.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Leicester City vs Wigan --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png",Leicester City vs Wigan --- CH 1
+http://193.47.62.59/hls/ajjj.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Leicester City vs Wigan --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png",Leicester City vs Wigan --- CH 2
+https://www.rtmpcdn.com/live/89688239-2eab-4fc0-a90d-50401e990628.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -162,14 +180,14 @@ http://193.47.62.59/hls/ajjja.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Leicester City vs Wigan" tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png",Leicester City vs Wigan
-http://193.47.62.59/hls/ajjj.m3u8
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Barnet vs York City" tvg-logo="https://pbs.twimg.com/profile_images/2066809302329757696/8JzdRXMH_400x400.png",Barnet vs York City
+http://193.47.62.59/hls/J666AA.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Barnet vs York City" tvg-logo="https://pbs.twimg.com/profile_images/2066809302329757696/8JzdRXMH_400x400.png",Barnet vs York City
-http://193.47.62.59/hls/J666AA.m3u8
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Stenhousemuir vs Dunfermline" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Scottish_Championship.svg",Stenhousemuir vs Dunfermline
+http://193.47.62.59/hls/JBBBBAA.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
