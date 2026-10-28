@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-28 17:20:43 UTC
+# Auto-Updated via Actions at: 2026-10-28 17:25:20 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18568" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926592861020x576.jpg" group-title="Sports Live", Al Nahda Club (OMA) vs Al Rayyan SC (QAT) - MATCHDAY 3 - AFC Champions League Two 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
@@ -13,10 +13,13 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="sonyliv-1090551064" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027599/1793181428437269_STCL26_final_Haryana_Lions_vs_UP_Dhurandhar_landscape_thumb.jpg" group-title="Sports Live", Haryana Lions vs UP Dhurandhar - Final | Salute Tiranga Cricket League (STCL) 2026 [Hindi]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2120299/criclive2810/HIN/master.m3u8?hdnea=exp=1793233252~acl=/*~id=74226180586525656493550808381961~hmac=1c68fc219546453d1ea3b2492c8ef0ba7854e6b6544f54514a4088d0a10644cf
 
 
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Besiktas vs Olympiacos --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Besiktas vs Olympiacos --- CH 1
+http://193.47.62.41/hls/HHHH4QQQ.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -28,7 +31,7 @@ http://193.47.62.41/hls/HHHH4QQQQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Venezia vs Inter Milan" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",Venezia vs Inter Milan
-http://193.47.62.41/hls/HHHH4QQQ.m3u8
+http://193.47.62.41/hls/HHHH4QQ.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
