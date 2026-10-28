@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-28 11:15:19 UTC
+# Auto-Updated via Actions at: 2026-10-28 11:20:20 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19120" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17929999181020x576.jpg" group-title="Sports Live", Bangladesh vs West Indies - 1st Test - West indies Tour of Bangladesh 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
@@ -30,6 +30,30 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="CAF Champions League Draw" tvg-logo="https://pbs.twimg.com/profile_images/1986380387874926592/BupvxFYG_400x400.jpg",CAF Champions League Draw
+http://193.47.62.50/hls/abbbaaaA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Siarka Tarnobrzeg vs Lech Poznan" tvg-logo="https://pbs.twimg.com/profile_images/2072189899344613376/DeGLZ4Il_400x400.jpg",Siarka Tarnobrzeg vs Lech Poznan
+http://193.47.62.41/hls/YUUUAA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Kleczew vs Podhale Nowy Targ" tvg-logo="https://pbs.twimg.com/profile_images/2072189899344613376/DeGLZ4Il_400x400.jpg",Kleczew vs Podhale Nowy Targ
+http://193.47.62.41/hls/YUUUA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Bicskei vs Ferencvaros" tvg-logo="https://pbs.twimg.com/profile_images/1619022597298995203/iCFS2Ka1_400x400.jpg",Bicskei vs Ferencvaros
+http://193.47.62.41/hls/YUUU.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Kakamega Homeboyz vs Gor Mahia" tvg-logo="https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",Kakamega Homeboyz vs Gor Mahia
 http://193.47.62.55/hls/abbbaaa.m3u8
 
@@ -50,12 +74,6 @@ http://193.47.62.55/hls/abbba.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Perth vs Sydney" tvg-logo="https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",Perth vs Sydney
 http://193.47.62.50/hls/abbbaaaAA.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="CAF Champions League Draw" tvg-logo="https://pbs.twimg.com/profile_images/1986380387874926592/BupvxFYG_400x400.jpg",CAF Champions League Draw
-http://193.47.62.50/hls/abbbaaaA.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
