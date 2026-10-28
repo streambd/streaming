@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-28 09:30:24 UTC
+# Auto-Updated via Actions at: 2026-10-28 09:35:16 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19120" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17929999181020x576.jpg" group-title="Sports Live", Bangladesh vs West Indies - 1st Test - West indies Tour of Bangladesh 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
@@ -20,6 +20,18 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 
 
 
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Kashima Antlers vs Pohang" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Kashima Antlers vs Pohang
+http://193.47.62.55/hls/AQQQAAAAQQ.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Gamba Osaka vs Buriram" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Gamba Osaka vs Buriram
+http://193.47.62.55/hls/AQQQAAAAQ.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
