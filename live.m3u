@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-28 19:55:17 UTC
+# Auto-Updated via Actions at: 2026-10-28 20:00:31 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18578" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17927364781020x576.jpg" group-title="Sports Live", Al Khaldiya SC (BHR) vs Al Wahda FC (UAE) - MATCHDAY 3 - AFC Champions League Two 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
@@ -20,6 +20,24 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Manchester City vs Brighton --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Manchester City vs Brighton --- CH 2
 https://www.rtmpcdn.com/live/0b699221-cc80-40d5-b8e0-a20370c5915c.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Sunderland vs Brentford --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Sunderland vs Brentford --- CH 2
+https://www.rtmpcdn.com/live/f15d19dd-029b-4b31-b9bb-a2b506a2c0d5.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Fulham vs Crystal Palace --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Fulham vs Crystal Palace --- CH 2
+https://www.rtmpcdn.com/live/885cf9c9-5cd5-4f01-bf28-d63554d069cd.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Bournemouth vs Aston Villa --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Bournemouth vs Aston Villa --- CH 2
+https://www.rtmpcdn.com/live/f68ef32b-ab13-4506-9a5c-76923a575a0f.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -60,8 +78,20 @@ http://193.47.62.59/hls/77IIIAAAAQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Monza vs Napoli --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",Monza vs Napoli --- CH 2
+https://www.rtmpcdn.com/live/2694a52d-472d-46a1-a6db-b80f7af1e36f.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Genoa vs Juventus --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",Genoa vs Juventus --- CH 1
 http://193.47.62.59/hls/77IIIAAAA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Genoa vs Juventus --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",Genoa vs Juventus --- CH 2
+https://www.rtmpcdn.com/live/90395230-9fa9-4930-b159-e067b1fd7daf.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -72,8 +102,20 @@ http://193.47.62.59/hls/77IIIAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Holstein Kiel vs Hoffenheim --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1755197625861623808/cRJBmFWR_400x400.jpg",Holstein Kiel vs Hoffenheim --- CH 2
+https://www.rtmpcdn.com/live/263ebf22-fac1-4b45-97bd-4c0f61adfc45.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Hannover vs FC Kaiserslautern --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1755197625861623808/cRJBmFWR_400x400.jpg",Hannover vs FC Kaiserslautern --- CH 1
 http://193.47.62.59/hls/77IIIAA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Hannover vs FC Kaiserslautern --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1755197625861623808/cRJBmFWR_400x400.jpg",Hannover vs FC Kaiserslautern --- CH 2
+https://www.rtmpcdn.com/live/85c2bdc4-f19f-4cb7-b1f7-81dab18b6f7c.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -84,8 +126,20 @@ http://193.47.62.59/hls/77IIIA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Bayern Munchen vs Magdeburg --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1755197625861623808/cRJBmFWR_400x400.jpg",Bayern Munchen vs Magdeburg --- CH 2
+https://www.rtmpcdn.com/live/dec93ea9-7c72-424b-bc9f-ea1f3ee27030.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Bayer Leverkusen vs Nurnberg --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1755197625861623808/cRJBmFWR_400x400.jpg",Bayer Leverkusen vs Nurnberg --- CH 1
 http://193.47.62.59/hls/77III.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Bayer Leverkusen vs Nurnberg --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1755197625861623808/cRJBmFWR_400x400.jpg",Bayer Leverkusen vs Nurnberg --- CH 2
+https://www.rtmpcdn.com/live/fac95417-38cd-4196-8dbb-ade9d660fe79.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
