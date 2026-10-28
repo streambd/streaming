@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-28 13:20:22 UTC
+# Auto-Updated via Actions at: 2026-10-28 13:25:17 UTC
 
 #EXTINF:-1 tvg-id="tapmad-17702" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918900981020x576.jpg" group-title="Sports Live", South Africa vs Australia - 3rd Test - Australia Tour of South Africa 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
@@ -18,6 +18,12 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 
 
+
+#EXTINF:-1 tvg-id="sonyliv-1090551075" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792353470120172_ISL26_FCGoa_vs_SportingClub_Delhi_live_landscape_thumb.jpg" group-title="Sports Live", FC Goa vs Sporting Club Delhi | MG Indian Super League 2026-27 [English]
+https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2119931/cricodi_2810/ENG/master.m3u8?hdnea=exp=1793236857~acl=/*~id=96181214760550814358411741514230~hmac=6e656f0dece6bdbe78917dc4c5e72acb9b5597583c4c796a3b9e99a12245be80
+
+#EXTINF:-1 tvg-id="sonyliv-1090551075" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792353470120172_ISL26_FCGoa_vs_SportingClub_Delhi_live_landscape_thumb.jpg" group-title="Sports Live", FC Goa vs Sporting Club Delhi | MG Indian Super League 2026-27 [Hindi]
+https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2119921/cricodi_2810/HIN/master.m3u8?hdnea=exp=1793236857~acl=/*~id=96181214760550814358411741514230~hmac=6e656f0dece6bdbe78917dc4c5e72acb9b5597583c4c796a3b9e99a12245be80
 
 #EXTINF:-1 tvg-id="sonyliv-1090551064" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027599/1793181428437269_STCL26_final_Haryana_Lions_vs_UP_Dhurandhar_landscape_thumb.jpg" group-title="Sports Live", Haryana Lions vs UP Dhurandhar - Final | Salute Tiranga Cricket League (STCL) 2026 [Hindi]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2120299/criclive2810/HIN/master.m3u8?hdnea=exp=1793233252~acl=/*~id=74226180586525656493550808381961~hmac=1c68fc219546453d1ea3b2492c8ef0ba7854e6b6544f54514a4088d0a10644cf
@@ -71,12 +77,6 @@ http://193.47.62.55/hls/abbbaaa.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Marko vs Olympiacos" tvg-logo="https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",Marko vs Olympiacos
 http://193.47.62.44/hls/I000AAAA.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Chrisoupolis vs Kalamata" tvg-logo="https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",Chrisoupolis vs Kalamata
-http://193.47.62.44/hls/I000AAA.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
