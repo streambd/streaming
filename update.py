@@ -285,11 +285,20 @@ https://cdn.pishow.tv/ott/live/1143/1143_1.m3u8
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg",  group-title="Hindi",Sony Max
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8#skym3u.dev
 
-#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg",  group-title="Hindi", Sony Max 2
+#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg",  group-title="Hindi", Sony Max 2
 https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
 
+#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg",  group-title="Hindi", Sony Movies
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
+
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg",  group-title="Hindi",Colors Cineplex
-http://51.75.127.199:3141/colorscineplexhd/index.m3u8
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ifTLakAWb_c-aYoitnlp6bbNTONu71IirscM7ByLeA&s=10",  group-title="Hindi", Star Movies
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98842.ts
+
+#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://img.favpng.com/14/9/13/sony-sab-logo-sony-sab-logo-in-orange-and-black-Fhr0xfHf_t.jpg",  group-title="Hindi",Sony SAB
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 
 #EXTINF:-1, tvg-name="Hindi", Hindi Movie Club
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
