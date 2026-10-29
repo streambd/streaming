@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-29 16:35:17 UTC
+# Auto-Updated via Actions at: 2026-10-29 16:40:22 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18885" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925780221020x576.jpg" group-title="Sports Live", England vs Sri Lanka - 6th ODI - Pakistan ODI Tri-Series 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
@@ -597,6 +597,9 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 # 🎬 Hindi Movies
 # ==========================================
 
+#EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/9e/9e9de1112c6a9068067be2c51ec9476f8cd41003.webp" group-title="Hindi Movies", Little Thomas
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Little%20Thomas%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Little%20Thomas%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg" group-title="Hindi Movies",Awarapan 2 (2026)
 https://flixhub.net/stream/movie/awarapan-2
 
@@ -605,6 +608,12 @@ https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Vishwanath%20and%20Sons%20
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yyWYi1VDg15mk9JlWldmmR7yf9C.jpg" group-title="Hindi Movies",Drishyam: The Conclusion (2026)
 https://ftp.ctgfun.com/Indian/Hindi%20Movies/Drishyam%20The%20Conclusion%20(2026)%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Drishyam%20The%20Conclusion%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zqFuriKJ6pYDvf72kXNLONnuE8k.jpg" group-title="Hindi Movies",Fighter
+https://flixhub.net/stream/movie/fighter
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gIClWRv5OSe8rl5Koi0AeUcCZ9Z.jpg" group-title="Hindi Movies",Drishyam
+https://flixhub.net/stream/movie/drishyam
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg" group-title="Hindi Movies",Cocktail 2 (2026)
 https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Cocktail-2%20(2026)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Cocktail-2%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
@@ -620,6 +629,9 @@ https://ftp.ctgfun.com/Indian/Hindi%20Movies/Last%20Man%20In%20Tower%20(2026)%20
 
 #EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/78/78d8c25996765722a1d53b836d81370191eed42e.webp" group-title="Hindi Movies", Sardar 2 (2026)
 https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Sardar-2%20(2026)%20Tamil%20Telugu%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Sardar-2%20%282026%29%20Tamil%20Telugu%20720p%20HDTS%20x264%20ESub%20%5BDDN
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2mLyHeWwU0Ocv9Jvk72IDqZqT7G.jpg" group-title="Hindi Movies", The Family Star
+https://flixhub.net/stream/movie/the-family-star
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ptTwQES14pr5c3aZvJg56YlYgb1.jpg" group-title="Hindi Movies", Dhurandhar: The Revenge (2026)
 https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Dhurandhar%20the%20Revenge%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Dhurandhar%20the%20Revenge%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv
