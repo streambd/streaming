@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-29 16:25:18 UTC
+# Auto-Updated via Actions at: 2026-10-29 16:30:26 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18885" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925780221020x576.jpg" group-title="Sports Live", England vs Sri Lanka - 6th ODI - Pakistan ODI Tri-Series 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
@@ -704,6 +704,9 @@ https://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies
 # ==========================================
 # 🎬 English Movies
 # ==========================================
+
+#EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/d5/d5ca16e71db1eabd68d3198e527dbda554a0c321.webp" group-title="English Movies", SpiderMan-Brand New Day (2026)
+https://ftp.ctgfun.com/English/Spider-Man%20Brand%20New%20Day%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Spider-Man%20Brand%20New%20Day%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg" group-title="English Movies", Matchbox the Movie
 https://flixhub.net/stream/movie/matchbox-the-movie
