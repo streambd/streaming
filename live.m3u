@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-29 17:05:16 UTC
+# Auto-Updated via Actions at: 2026-10-29 17:10:19 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18885" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925780221020x576.jpg" group-title="Sports Live", England vs Sri Lanka - 6th ODI - Pakistan ODI Tri-Series 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
@@ -259,7 +259,7 @@ http://103.114.11.37:8081/WWE-24/7/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
-http://103.151.60.162:2122/play/a030/index.m3u8?hls
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8?nocache=1783826412104
 
 #EXTINF:-1 tvg-id="019efa45-e8e5-7353-a606-b361cf5f42ce" tvg-name="Cricket Gold" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg" group-title="Cricket, Sports",Cricket Gold
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
@@ -326,7 +326,7 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8?e=1784102535&u=ee5437
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C5XhmFV.png", NTV
 https://playztv-apps.pages.dev/ntv/index.m3u8
 
-#EXTINF:-1 group-title="BD TV tvg-name="Deepto" tvg-logo="https://i.postimg.cc/bYSFJHG9/20240822-230812.png?ref=skym3u.dev?ref=skym3u.dev",Deepto
+#EXTINF:-1 group-title="BD TV" tvg-name="Deepto" tvg-logo="https://i.postimg.cc/bYSFJHG9/20240822-230812.png?ref=skym3u.dev?ref=skym3u.dev",Deepto
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF:-1  group-title="BD TV" tvg-logo="https://i.ibb.co.com/TxDnNNC9/1000109104.png",Ayna TV
