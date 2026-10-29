@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-29 16:40:22 UTC
+# Auto-Updated via Actions at: 2026-10-29 16:50:20 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18885" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925780221020x576.jpg" group-title="Sports Live", England vs Sri Lanka - 6th ODI - Pakistan ODI Tri-Series 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
@@ -66,8 +66,14 @@ http://193.47.62.44/hls/FIII.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Atlanta Dream W vs Golden State Valkyries W" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",Atlanta Dream W vs Golden State Valkyries W
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Atlanta Dream W vs Golden State Valkyries W --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",Atlanta Dream W vs Golden State Valkyries W --- CH 1
 http://193.47.62.50/hls/GGGGA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Atlanta Dream W vs Golden State Valkyries W --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",Atlanta Dream W vs Golden State Valkyries W --- CH 2
+https://www.rtmpcdn.com/live/779b86a9-d4e8-4b28-8905-e26682fd1940.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -688,7 +694,7 @@ https://flixhub.net/stream/movie/animal
 # ==========================================
 
 #EXTINF:-1 tvg-logo="https://www.ftpbd.net/wp-content/uploads/2026/10/3fRSYc87x4y85Qmt5yDXFVGTPMc.webp" group-title="Bengali Movies",Aajo Ardhangini (2026)
-https://www.ftpbd.net/wp-content/hls-file/Aajo-Ardhangini-2026-1080p-Bengali-WEBDL_reencoded/index.m3u8
+https://fsldownload.com/p/xwtXmhpEFLklpivp._3KJ10jGLjz7oVaNKyIu_RwUqVKk59Ze-F3Nimo9VWLjbbtdOY_7bV7Si5Xf2fNQm_Db4FM-HbK7Qaekfgpyi7v4vDEpPhrFo64sqVVv6aO1xWKTwoDOHBxp98C5U8jmKS8FqEmn1Z1taeoVt1I2UNKqsJ9KxHajKqksozMUi_OlLFrNinT1jtxB3gCITKf-wbZDWUoYgAWQMc0E4hdIWihUFaqfUoCPxcPcO0hZdpsEsT4TxdOYxlLU6dZb6pLpV4wCY_EoDAO1fPPybRjPysWwFrum7ERv.vZ9C-7KxiFFvylb6y2OX2Q
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7UkHJogQ1QOihEwmK67-zQz9Pk3ie1408anxnX7aekiaWq9VhpJV1MiW2&s=10" group-title="Bengali Movies" , Surongo (2023)
 https://pixeldrain.dev/api/file/XLydnsWL?download
@@ -696,14 +702,11 @@ https://pixeldrain.dev/api/file/XLydnsWL?download
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gasVnEUAFByENiAMUOdiI5CyH4Z.jpg" group-title="Bengali Movies",Vijaynagar'er Hirey
 https://flixhub.net/stream/movie/vijaynagarer-hirey
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFTyRMUMHv8cQTYdFQcCqaCOUvznmKlWOr7CEBqSHsJw&s=10" group-title="Bengali Movies",Abar Hawa Bodol (2026)
-https://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282026%29/Abar-Hawa-Bodol-2026/Abar-Hawa-Bodol-2026-1080p-Bengali-WEBDL_reencoded.mp4
-
 #EXTINF:-1 tvg-logo="https://www.ftpbd.net/wp-content/uploads/2026/07/l3lcofmg6YoDOPCR0peenvJbPVO-scaled-288x400.jpg" group-title="Bengali Movies",Nari Choritro Bejay Jotil (2026) Bengali I WEBDL
-https://www.ftpbd.net/wp-content/hls-file/Nari-Choritro-Bejay-Jotil-2026-1080p-Bengali-WEBDL_reencoded/index.m3u8
+https://fsldownload.com/p/dEnbqJf8moOk44sV.oq3kp5JRcAumidMFPxvdki2peeRYXX5gMV0VhzIao2--qrQtQHtfh0kOM1jeHyA2Fm9Uldfgo68Vh55tOtFXD2tiaH3DabY1EQ1By80TpEFy2Bnk0DPl8cCSMJ9OthLeJ2UZAPVxRBvwaF2tdnaVG27cTl4lsOJcI7syAavMYvOKjLH-Nr24v9k-FHdAQVwSYabTsA22Y_WYIFYh34RMHwHProl96oWnTGMc4Q9THiDOXc3zCvXQZ7G9gJAkrin5BeiAfCDVyxvH0sp7EFaALy2CWqUdS6go4ZjY8LT6SXe6DA.xMImr_522OD8Cex9FYWYSg
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpQDACR0UmRo_doQhWSND9HJ-g9XrKULEOXqLwrLy84g&s=10" group-title="Bengali Movies",Projapoti
-https://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282025%29/Projapati-2-2025/Projapati-2-2025-Bengali-1080p-WEBDL_reencoded.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpQDACR0UmRo_doQhWSND9HJ-g9XrKULEOXqLwrLy84g&s=10" group-title="Bengali Movies",Projapoti 2
+https://flixhub.net/stream/movie/projapati-2
 
 
 
