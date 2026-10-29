@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-29 12:05:15 UTC
+# Auto-Updated via Actions at: 2026-10-29 12:10:20 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18885" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925780221020x576.jpg" group-title="Sports Live", England vs Sri Lanka - 6th ODI - Pakistan ODI Tri-Series 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
@@ -25,6 +25,15 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18593" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17927402051020x576.jpg" group-title="Sports Live", Gangwon FC (KOR) vs Kuching City FC (MAS) - MATCHDAY 3 - AFC Champions League Two 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18613" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17927414671020x576.jpg" group-title="Sports Live", Phnom Penh Crown FC (CAM) vs Kitchee SC (HKG) - MATCHDAY 3 - AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18608" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17927411761020x576.jpg" group-title="Sports Live", Tai Po FC (HKG) vs BG Pathum United (THA) - MATCHDAY 3 - AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18603" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17927408311020x576.jpg" group-title="Sports Live", Shanghai Shenhua FC (CHN) vs FC Machida Zelvia (JPN) - MATCHDAY 3 - AFC Champions League Two 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 
 
 
