@@ -3,13 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-29 19:45:27 UTC
-
-#EXTINF:-1 tvg-id="tapmad-19112" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930916861020x576.jpg" group-title="Sports Live", Afghanistan vs Zimbabwe - 2nd T20I - Afghanistan vs Zimbabwe 2026 - Server 1
-https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-19112" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930916861020x576.jpg" group-title="Sports Live", Afghanistan vs Zimbabwe - 2nd T20I - Afghanistan vs Zimbabwe 2026 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8
+# Auto-Updated via Actions at: 2026-10-29 19:50:22 UTC
 
 #EXTINF:-1 tvg-id="tapmad-17113" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932613891020x576.jpg" group-title="Sports Live", Al-Riyadh vs Al Qadsiah - MATCHDAY 12 - Saudi Pro League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
@@ -20,6 +14,12 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 
 
 
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Everton vs Newcastle United --- CH 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM6HeaL1QPJpRduBPmie6vK3QXGQl9rljcltMdDsGwmKeyAzzZQNapT18B5wIxcxogqehcNP-2Myk7oaHY21SLfqGLmJKjWfg87aDJLCjs7-Qa6uDJJ_PW8lo2Hgxty2NbNBAKP_gHBvq-2jfWPZWZF8wyHWZs-VHgQPX_v5WqAqMCYEIjYvwXK-mA2Pw/s1600/5uvtuoM-_400x400.jpg",Everton vs Newcastle United --- CH 2
+https://www.rtmpcdn.com/live/12db43c0-0b67-4d23-942c-627c90241dd1.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -96,7 +96,7 @@ http://193.47.62.44/hls/3333AA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Fiorentina vs Atalanta" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghKMcvZ3ZQ9jSz6p8xuc_QcHpZsScBpX5v9yf_8NpMkvY1uYElVH96EHUl4Wd3n68w0KQiUyYP6S1LDT8vbE5OW1jhOadK29yFOee8611WniwgRZVYBmu618XLNJ6ACbbpQs_fw7tbj9Wo0GKMvnDfful3XY9zCTSAcR5G25R7SAp03FoRU-Ni-Mo1nG8/s1600/UPqGyGOt_400x400.jpg",Fiorentina vs Atalanta
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Fiorentina vs Atalanta --- CH 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghKMcvZ3ZQ9jSz6p8xuc_QcHpZsScBpX5v9yf_8NpMkvY1uYElVH96EHUl4Wd3n68w0KQiUyYP6S1LDT8vbE5OW1jhOadK29yFOee8611WniwgRZVYBmu618XLNJ6ACbbpQs_fw7tbj9Wo0GKMvnDfful3XY9zCTSAcR5G25R7SAp03FoRU-Ni-Mo1nG8/s1600/UPqGyGOt_400x400.jpg",Fiorentina vs Atalanta --- CH 1
 http://193.47.62.44/hls/3333A.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
