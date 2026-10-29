@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-29 17:35:17 UTC
+# Auto-Updated via Actions at: 2026-10-29 17:40:24 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18885" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925780221020x576.jpg" group-title="Sports Live", England vs Sri Lanka - 6th ODI - Pakistan ODI Tri-Series 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
@@ -24,8 +24,14 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Hammarby vs Sirius" tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",Hammarby vs Sirius
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Hammarby vs Sirius --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",Hammarby vs Sirius --- CH 1
 http://193.47.62.55/hls/GGGG.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Hammarby vs Sirius --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",Hammarby vs Sirius --- CH 2
+https://www.rtmpcdn.com/live/25c55277-2824-48b7-8e1d-c473007899ae.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -150,8 +156,14 @@ http://193.47.62.41/hls/jmmmA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Frosinone vs Lecce" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",Frosinone vs Lecce
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Frosinone vs Lecce --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",Frosinone vs Lecce --- CH 1
 http://193.47.62.41/hls/jmmm.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Frosinone vs Lecce --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",Frosinone vs Lecce --- CH 2
+https://www.rtmpcdn.com/live/4edf1c22-e417-4051-9259-67489b986575.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -643,6 +655,9 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chun
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ifTLakAWb_c-aYoitnlp6bbNTONu71IirscM7ByLeA&s=10",  group-title="Hindi", Star Movies
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98842.ts
 
+#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://imgur.com/79g2kMA.png",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://img.favpng.com/14/9/13/sony-sab-logo-sony-sab-logo-in-orange-and-black-Fhr0xfHf_t.jpg",  group-title="Hindi",Sony SAB
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 
@@ -709,14 +724,17 @@ https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_abr/live/and_picture_hd_720/chu
 # 🏆 Infotainment
 # ==========================================
 
-#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet [" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-chno="429" group-title="Documentary & Wildlife",Animal Planet [Backup 2]
+#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-chno="429" group-title="Documentary & Wildlife",Animal Planet 
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
 
 #EXTINF:-1 group-title="Documentary & Wildlife" tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",Discovery
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentary & Wildlife" tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",National Geographic Wild
-http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8
+#EXTINF:-1 group-title="Documentary & Wildlife" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYi8fTRD2JvQusZi21I6hvtmjCEoRKlDx2APFYaWgrWg&s=10",Love Nature
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary & Wildlife" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZQWcPxt5kC7VHUHvcGN5is8XySLDC5RFpVKcctUgHw&s=10",Real Wild
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
 #EXTINF:-1 group-title="Science Fiction" tvg-logo="https://assets-prod.services.toffeelive.com/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp",Discovery Science
 http://103.151.60.188:12345/hls/tab_l9gqwqb/index.m3u8?t=1791653473234
