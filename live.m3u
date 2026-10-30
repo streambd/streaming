@@ -3,6 +3,17 @@
 # 🏆 Sports LIVE
 # ==========================================
 
+# Auto-Updated via Actions at: 2026-10-30 18:05:20 UTC
+
+#EXTINF:-1 tvg-id="tapmad-18442" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931021461020x576.jpg" group-title="Sports Live", Nice vs Rennes - MATCHDAY 9 - French Ligue 1 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18440" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931018881020x576.jpg" group-title="Sports Live", Le Havre vs PSG - MATCHDAY 9 - French Ligue 1 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17115" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932627191020x576.jpg" group-title="Sports Live", Al Shabab vs Al Ahli - MATCHDAY 12 - Saudi Pro League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
 
 
 
@@ -48,6 +59,12 @@ http://193.47.62.41/hls/KYYYAAAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Le Havre vs PSG --- CH 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAJphxU6EDT15fFKJDhQgzp7ID0XeJV_fN1_We3dzvJ2wumXlzmv6oOhh69BVK1Rd-fYknL6bukqoHEx7qeJAvojzfc10LjvuMfC4tm8xf_kkCMZrPe7b7YG2jOxxkBEI7CWHuWts70icelMHUA4yDkfTDFxOjui-anCa_1-_mT5Pi7KQBmBUWaHrMnh4/s1600/FgxuEE_k_400x400.jpg",Le Havre vs PSG --- CH 1
 http://193.47.62.59/hls/IFFFAAAA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Le Havre vs PSG --- CH 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAJphxU6EDT15fFKJDhQgzp7ID0XeJV_fN1_We3dzvJ2wumXlzmv6oOhh69BVK1Rd-fYknL6bukqoHEx7qeJAvojzfc10LjvuMfC4tm8xf_kkCMZrPe7b7YG2jOxxkBEI7CWHuWts70icelMHUA4yDkfTDFxOjui-anCa_1-_mT5Pi7KQBmBUWaHrMnh4/s1600/FgxuEE_k_400x400.jpg",Le Havre vs PSG --- CH 2
+https://www.rtmpcdn.com/live/e3f90627-3e35-4d26-9e2a-d3ad01a9159c.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -106,20 +123,20 @@ http://193.47.62.59/hls/IFFFAAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Nice vs Rennes --- CH 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAJphxU6EDT15fFKJDhQgzp7ID0XeJV_fN1_We3dzvJ2wumXlzmv6oOhh69BVK1Rd-fYknL6bukqoHEx7qeJAvojzfc10LjvuMfC4tm8xf_kkCMZrPe7b7YG2jOxxkBEI7CWHuWts70icelMHUA4yDkfTDFxOjui-anCa_1-_mT5Pi7KQBmBUWaHrMnh4/s1600/FgxuEE_k_400x400.jpg",Nice vs Rennes --- CH 2
+https://www.rtmpcdn.com/live/d4ebd275-fb37-4a7a-a131-007c38760496.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Al Shabab vs Al Ahli SC --- CH 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpjZrkCzAxctwG8cix3QUbwULstTs2CMFYeof5tO62LEpCtMoc-y6obr8cuyBAExqsvEfLoFCxEzwWxA46rLlXbWGZOtVju8_u29SK19cQ-A_r31p-13HjddbVs0qXh70KTmHU-FFAB1n8HRym64Hh9CaV0K5lIq-KwAQ6EYmHQ7RT3Q7jDl3sJ_vnGb4/s1600/BSt_D74t_400x400.jpg",Al Shabab vs Al Ahli SC --- CH 1
 http://193.47.62.44/hls/IFFFAAA.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Oddevold vs Brage" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3S0Gc2Nuf07SpKV6k49QhswNnXrgQrK2uLkgGEGdNoipvdBy69eS51-HFI7TQStYrYw1b-kiTOF4wlgKnMC-3ElUF70zSXbvHpt2eAW_D7IIXKrVNIqmNNX4tB9-q9RPubpfgKSykO6qE7CQc4z0tUodN_0hyphenhyphenYy64OQ18rlh2rndb6IKZA0r61m5DegA/s1600/dWVpwG1u_400x400.jpg",Oddevold vs Brage
-http://193.47.62.44/hls/IFFFAA.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Olympic vs Hassleholms IF" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOlQRwys-gsA8P_2xtSrI-J35hAm8Yhl80SLzo_dLp43-aMZok-szxi3x4ilfVFQKa1T0m1lyh3wNDGx-omAeZwX_KJh-5KdJFfTrx9kKRU3TeKnMjH_hhFWwX60ECp6Mq065It5Fp_cJ9Lf3MbnpOyzFaepAY-OrUIEhojr1lG4vkvpK1Oz1CR5p77hQ/s1600/yp9ldpSd_400x400.jpg",Olympic vs Hassleholms IF
-http://193.47.62.44/hls/IFFFA.m3u8
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Al Shabab vs Al Ahli SC --- CH 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpjZrkCzAxctwG8cix3QUbwULstTs2CMFYeof5tO62LEpCtMoc-y6obr8cuyBAExqsvEfLoFCxEzwWxA46rLlXbWGZOtVju8_u29SK19cQ-A_r31p-13HjddbVs0qXh70KTmHU-FFAB1n8HRym64Hh9CaV0K5lIq-KwAQ6EYmHQ7RT3Q7jDl3sJ_vnGb4/s1600/BSt_D74t_400x400.jpg",Al Shabab vs Al Ahli SC --- CH 2
+https://www.rtmpcdn.com/live/e3f90627-3e35-4d26-9e2a-d3ad01a9159c.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -136,8 +153,26 @@ http://193.47.62.41/hls/H8888A.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Zalgiris Kaunas vs Partizan" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIBHqFk2HYttXFhIa7_7U2WPfdErokTy97L_DXvs-61zJcvJB00yKSSTLNpfO31ylETSSB2Cn1eajE0-5cuRdnLt4dcxVi7x1hV7xiWS8P3Nqtkb6Lzf2sNZxmp1AV4lo4vBPdmohTw2V-3WQOmiWwL9AuGLFbN4MQwb6CGYs3Eh1w9wd6i_KXX_kGGeI/s1600/wNoYio2o_400x400.jpg",Zalgiris Kaunas vs Partizan
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Zalgiris Kaunas vs Partizan --- CH 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIBHqFk2HYttXFhIa7_7U2WPfdErokTy97L_DXvs-61zJcvJB00yKSSTLNpfO31ylETSSB2Cn1eajE0-5cuRdnLt4dcxVi7x1hV7xiWS8P3Nqtkb6Lzf2sNZxmp1AV4lo4vBPdmohTw2V-3WQOmiWwL9AuGLFbN4MQwb6CGYs3Eh1w9wd6i_KXX_kGGeI/s1600/wNoYio2o_400x400.jpg",Zalgiris Kaunas vs Partizan --- CH 1
 http://193.47.62.55/hls/E999.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Zalgiris Kaunas vs Partizan --- CH 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIBHqFk2HYttXFhIa7_7U2WPfdErokTy97L_DXvs-61zJcvJB00yKSSTLNpfO31ylETSSB2Cn1eajE0-5cuRdnLt4dcxVi7x1hV7xiWS8P3Nqtkb6Lzf2sNZxmp1AV4lo4vBPdmohTw2V-3WQOmiWwL9AuGLFbN4MQwb6CGYs3Eh1w9wd6i_KXX_kGGeI/s1600/wNoYio2o_400x400.jpg",Zalgiris Kaunas vs Partizan --- CH 2
+https://www.rtmpcdn.com/live/2dd64100-17e1-46b4-b641-fce8cf66eccb.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Oddevold vs Brage" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3S0Gc2Nuf07SpKV6k49QhswNnXrgQrK2uLkgGEGdNoipvdBy69eS51-HFI7TQStYrYw1b-kiTOF4wlgKnMC-3ElUF70zSXbvHpt2eAW_D7IIXKrVNIqmNNX4tB9-q9RPubpfgKSykO6qE7CQc4z0tUodN_0hyphenhyphenYy64OQ18rlh2rndb6IKZA0r61m5DegA/s1600/dWVpwG1u_400x400.jpg",Oddevold vs Brage
+http://193.47.62.44/hls/IFFFAA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Olympic vs Hassleholms IF" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOlQRwys-gsA8P_2xtSrI-J35hAm8Yhl80SLzo_dLp43-aMZok-szxi3x4ilfVFQKa1T0m1lyh3wNDGx-omAeZwX_KJh-5KdJFfTrx9kKRU3TeKnMjH_hhFWwX60ECp6Mq065It5Fp_cJ9Lf3MbnpOyzFaepAY-OrUIEhojr1lG4vkvpK1Oz1CR5p77hQ/s1600/yp9ldpSd_400x400.jpg",Olympic vs Hassleholms IF
+http://193.47.62.44/hls/IFFFA.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
