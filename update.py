@@ -32,6 +32,9 @@ https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Star Sports 2 
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/LzX4ZGTH/images-1.jpg", Star Sports 1
+http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tbhHZDM/images.png" group-title="Sports Live" nexus-score="100",WWE 
 http://103.114.11.37:8081/WWE-24/7/index.m3u8
 
