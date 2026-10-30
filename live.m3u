@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-30 20:45:21 UTC
+# Auto-Updated via Actions at: 2026-10-30 20:50:20 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18442" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931021461020x576.jpg" group-title="Sports Live", Nice vs Rennes - MATCHDAY 9 - French Ligue 1 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
@@ -401,6 +401,12 @@ http://193.47.62.59/hls/7BBBA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Grenoble vs Dijon" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFbG7BB9j5oLQCQr85_f_cRBdAcgnBCjsF5PZ58XvtfnYW-_ORjXs0LQ1rxU99_JMoBsEQSsoVifPtGbTeJAtXVA4NWSzr7T8OZNIU2FwNGFezDR_IR1jEjl9HLdS8txsitXyFMDUb3tQ2YysD2S9k1ft4ZqjRu1VeHD2diIJ081ont21KKZ86AzT6Zv4/s1600/CPkmq-J4_400x400.jpg",Grenoble vs Dijon
 http://193.47.62.59/hls/7BBB.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="AIK vs Leksand" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJK8M-BLHCbSyvQEU8uLkfEvnO53j7eoG9X0FLBKL9bSCKE7zZB3fHDhYY1JtKvtOg9iYcc-nmJAY3R5E_GXy6hGaIK-ix9anvEfW2ZrVTFqaokvXrD3hClkE0upKmkRbAse_qhDhOCCLZd4nR2lgzwvWoVGBkiDCH0kA8L8pvWWN7JPNDuAzze7j48oM/s1600/yOMqfoLU_400x400.jpg",AIK vs Leksand
+http://193.47.62.41/hls/KBBB.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
