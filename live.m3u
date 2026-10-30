@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-30 10:10:19 UTC
+# Auto-Updated via Actions at: 2026-10-30 10:15:20 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19120" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17929999181020x576.jpg" group-title="Sports Live", Bangladesh vs West Indies - 1st Test - West indies Tour of Bangladesh 2026
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
@@ -29,6 +29,12 @@ https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1793386870~acl=/*~id=70497179819891694545583603923983~hmac=4351aa39dd808cf22ffb6de66769aa5c54f0ef13f95c5b0463486aa64f5f6ea6
 
 
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Thanh Hoa vs Hong Linh Ha Tinh" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpPu6u4eHMLai-BD_3ecbwFE5P5UNB-LbxRGsZ4zVN1vWnNxrgthe6syQq2QdiJIcWr3YARpr5atqQ-hHY3wvwjno0sm4hGZGU8a5a3kTnlP4GgTTbmhQVSGadi8z10ncondF4A-qDHPG67kC4QJ7EBqVBjmqrLe0CK-PbV53dP3mQPpUUdkpR4erw774/s1600/q0CEFj5f_400x400.jpg",Thanh Hoa vs Hong Linh Ha Tinh
+http://193.47.62.41/hls/VAVAVA.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
