@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-30 19:40:19 UTC
+# Auto-Updated via Actions at: 2026-10-30 19:45:20 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18442" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931021461020x576.jpg" group-title="Sports Live", Nice vs Rennes - MATCHDAY 9 - French Ligue 1 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
@@ -41,18 +41,6 @@ http://193.47.62.55/hls/KYYYA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Anadolu Efes vs Panathinaikos --- CH 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIBHqFk2HYttXFhIa7_7U2WPfdErokTy97L_DXvs-61zJcvJB00yKSSTLNpfO31ylETSSB2Cn1eajE0-5cuRdnLt4dcxVi7x1hV7xiWS8P3Nqtkb6Lzf2sNZxmp1AV4lo4vBPdmohTw2V-3WQOmiWwL9AuGLFbN4MQwb6CGYs3Eh1w9wd6i_KXX_kGGeI/s1600/wNoYio2o_400x400.jpg",Anadolu Efes vs Panathinaikos --- CH 2
 https://www.rtmpcdn.com/live/df445645-6f43-403a-9b84-bdf15d80e017.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Formula 1 GP Mexico --- CH 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha_rw2gT_SrEJoLFNfB6adycvmaji2XUYLNnTVSYv9Jn2YLoDz5C5gRPMt-vCbwxfJ6jjyfTNAJXyfICbDzj4i0hRfX_3mFAYe9guvSadKHnU79Mx6Z0fR8OhZiwB4qCXQNNeyzvTD0QJVDfC3pHIVSW4Yuu3VGjpgSNPfcxxzzYJGQ6ZIME8ivYdexlo/s1600/7f5XFklA_400x400.jpg",Formula 1 GP Mexico --- CH 1
-http://193.47.62.50/hls/KYYY.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Formula 1 GP Mexico --- CH 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha_rw2gT_SrEJoLFNfB6adycvmaji2XUYLNnTVSYv9Jn2YLoDz5C5gRPMt-vCbwxfJ6jjyfTNAJXyfICbDzj4i0hRfX_3mFAYe9guvSadKHnU79Mx6Z0fR8OhZiwB4qCXQNNeyzvTD0QJVDfC3pHIVSW4Yuu3VGjpgSNPfcxxzzYJGQ6ZIME8ivYdexlo/s1600/7f5XFklA_400x400.jpg",Formula 1 GP Mexico --- CH 2
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/58464152-0ce6-4e18-a3c1-393ba5669a09/master.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -513,20 +501,14 @@ http://193.47.62.41/hls/KBBB.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Lokomotiv Sofia vs Botev Plovdiv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQW3VzDYjUI_uXoThh_JGMyQ0XgkLaREnpPrE34vfJUCLVc1lW9Op31ot0CaIyUH87FO1-ACr4mOTyTrY9YlQhkdO98A6sEPG0k_Dqg-H4S6hy8bnhbmTyNv0Dh0ay9VIdhyNVtpJVloDo1jCo4EShTmqBXJWBNnZSweol6wFMkVrE8iLwH-OykZbihhY/s1600/nvSl0qsf_400x400.jpg",Lokomotiv Sofia vs Botev Plovdiv
-http://193.47.62.44/hls/RRRRQQQQQQA.m3u8
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Formula 1 GP Mexico --- CH 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha_rw2gT_SrEJoLFNfB6adycvmaji2XUYLNnTVSYv9Jn2YLoDz5C5gRPMt-vCbwxfJ6jjyfTNAJXyfICbDzj4i0hRfX_3mFAYe9guvSadKHnU79Mx6Z0fR8OhZiwB4qCXQNNeyzvTD0QJVDfC3pHIVSW4Yuu3VGjpgSNPfcxxzzYJGQ6ZIME8ivYdexlo/s1600/7f5XFklA_400x400.jpg",Formula 1 GP Mexico --- CH 1
+http://193.47.62.50/hls/KYYY.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Cottbus vs Bochum" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT5RHkMFjMDq4mDOhOO7arw-Uge0GJNcpMCwB71D-ueIv41y4vpmW5qKdNjOTYL3CXD8_2g9Xez6j6vGpMUZSj_FZX0Gl5nFKdQoeByZA2ckv7DqqEtSWOPQ-iJUC3ohVpr8te-9jGUd8e1uB8V632dFW-eXlVWiIDqyih3UOkO7eT_I87EJfHgDwZcsI/s1600/ECth5ahp_400x400.jpg",Cottbus vs Bochum
-http://193.47.62.41/hls/KYYYAAA.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Arminia Bielefeld vs Braunschweig" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT5RHkMFjMDq4mDOhOO7arw-Uge0GJNcpMCwB71D-ueIv41y4vpmW5qKdNjOTYL3CXD8_2g9Xez6j6vGpMUZSj_FZX0Gl5nFKdQoeByZA2ckv7DqqEtSWOPQ-iJUC3ohVpr8te-9jGUd8e1uB8V632dFW-eXlVWiIDqyih3UOkO7eT_I87EJfHgDwZcsI/s1600/ECth5ahp_400x400.jpg",Arminia Bielefeld vs Braunschweig
-http://193.47.62.41/hls/KYYYAA.m3u8
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Formula 1 GP Mexico --- CH 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha_rw2gT_SrEJoLFNfB6adycvmaji2XUYLNnTVSYv9Jn2YLoDz5C5gRPMt-vCbwxfJ6jjyfTNAJXyfICbDzj4i0hRfX_3mFAYe9guvSadKHnU79Mx6Z0fR8OhZiwB4qCXQNNeyzvTD0QJVDfC3pHIVSW4Yuu3VGjpgSNPfcxxzzYJGQ6ZIME8ivYdexlo/s1600/7f5XFklA_400x400.jpg",Formula 1 GP Mexico --- CH 2
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/58464152-0ce6-4e18-a3c1-393ba5669a09/master.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
