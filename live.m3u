@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-30 08:56:00 UTC
+# Auto-Updated via Actions at: 2026-10-30 09:00:27 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19120" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17929999181020x576.jpg" group-title="Sports Live", Bangladesh vs West Indies - 1st Test - West indies Tour of Bangladesh 2026
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
@@ -32,6 +32,18 @@ https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1793386870~acl=/*~id=70497179819891694545583603923983~hmac=4351aa39dd808cf22ffb6de66769aa5c54f0ef13f95c5b0463486aa64f5f6ea6
 
 
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Brisbane Roar vs Auckland FC" tvg-logo="https://pbs.twimg.com/profile_images/2085247700241633280/p6l1BFby_400x400.jpg",Brisbane Roar vs Auckland FC
+http://193.47.62.41/hls/MMMM.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Tasmania JackJumpers vs Sydney" tvg-logo="https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",Tasmania JackJumpers vs Sydney
+http://193.47.62.41/hls/MMMMA.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
