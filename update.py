@@ -167,10 +167,6 @@ https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C74OoNa.th.png", Jamuna TV
 https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
 
-# --- Channel One (1 Server) ---
-#EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co.com/VpJYNV3t/download.png", Channel One
-https://stream.ottplus.live/live/channel_1_hd_abr/live/channel_1_hd_720/chunks.m3u8
-
 #-------Thikana TV---------
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://tubextra.b-cdn.net/thikana.jpg",Thikana Tv
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
