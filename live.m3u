@@ -3,12 +3,56 @@
 # 🏆 Sports LIVE
 # ==========================================
 
+# Auto-Updated via Actions at: 2026-10-31 00:10:19 UTC
+
+#EXTINF:-1 tvg-id="tapmad-19337" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932644661020x576.jpg" group-title="Sports Live", Hong Kong Sixes - Day 2 - Group Stage / Knockout Stage - Hong Kong International Sixes 2026 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19337" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932644661020x576.jpg" group-title="Sports Live", Hong Kong Sixes - Day 2 - Group Stage / Knockout Stage - Hong Kong International Sixes 2026 - Server 2
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+
 
 
 #EXTINF:-1 tvg-id="sonyliv-1090551540" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027792/1793356107617263_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day1_landscape_thumb.jpg" group-title="Sports Live", 2nd Unofficial Test - Day 1 | India A Tour of New Zealand [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe3b6prod-PlaybackConfig/2120303/criclive3010/ENG/master.m3u8?hdnea=exp=1793440265~acl=/*~id=13097997116423724468958902004580~hmac=11ff662c23983b3af7ba1f038a623dcc837fcc13b1cd2a9822f89a369f03e3ca
 
 
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Minnesota Timberwolves vs Los Angeles Clippers --- CH 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0hp-BEs76uyjs4B0ucDF1bENnqCBNkz4bDaeiqeCAk6-2MwdBvWbDRrHChhqWZf2Psmte83sffwRU3etLg-sSfKJTY0AJD1dJ2IAy291sqfkGM3AK9GqhINclMA480yPAqe15fAFXvhHUbNFZaaNP1Ql_G82amKjdoE7mF-LLVzkeEKahREbEisF54Io/s1600/4J9sYoLE_400x400.jpg",Minnesota Timberwolves vs Los Angeles Clippers --- CH 1
+http://193.47.62.50/hls/8IIIAA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Minnesota Timberwolves vs Los Angeles Clippers --- CH 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0hp-BEs76uyjs4B0ucDF1bENnqCBNkz4bDaeiqeCAk6-2MwdBvWbDRrHChhqWZf2Psmte83sffwRU3etLg-sSfKJTY0AJD1dJ2IAy291sqfkGM3AK9GqhINclMA480yPAqe15fAFXvhHUbNFZaaNP1Ql_G82amKjdoE7mF-LLVzkeEKahREbEisF54Io/s1600/4J9sYoLE_400x400.jpg",Minnesota Timberwolves vs Los Angeles Clippers --- CH 2
+http://193.47.62.50/hls/c127a5f0-94e4-4ab1-abca-b595fb0ed078.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Miami Heat vs Indiana Pacers --- CH 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0hp-BEs76uyjs4B0ucDF1bENnqCBNkz4bDaeiqeCAk6-2MwdBvWbDRrHChhqWZf2Psmte83sffwRU3etLg-sSfKJTY0AJD1dJ2IAy291sqfkGM3AK9GqhINclMA480yPAqe15fAFXvhHUbNFZaaNP1Ql_G82amKjdoE7mF-LLVzkeEKahREbEisF54Io/s1600/4J9sYoLE_400x400.jpg",Miami Heat vs Indiana Pacers --- CH 1
+http://193.47.62.50/hls/8IIIA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Miami Heat vs Indiana Pacers --- CH 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0hp-BEs76uyjs4B0ucDF1bENnqCBNkz4bDaeiqeCAk6-2MwdBvWbDRrHChhqWZf2Psmte83sffwRU3etLg-sSfKJTY0AJD1dJ2IAy291sqfkGM3AK9GqhINclMA480yPAqe15fAFXvhHUbNFZaaNP1Ql_G82amKjdoE7mF-LLVzkeEKahREbEisF54Io/s1600/4J9sYoLE_400x400.jpg",Miami Heat vs Indiana Pacers --- CH 2
+https://www.rtmpcdn.com/live/0d0351a2-aded-44db-8d04-65d5e2f9f8f3.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Dallas Mavericks vs Houston Rockets --- CH 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0hp-BEs76uyjs4B0ucDF1bENnqCBNkz4bDaeiqeCAk6-2MwdBvWbDRrHChhqWZf2Psmte83sffwRU3etLg-sSfKJTY0AJD1dJ2IAy291sqfkGM3AK9GqhINclMA480yPAqe15fAFXvhHUbNFZaaNP1Ql_G82amKjdoE7mF-LLVzkeEKahREbEisF54Io/s1600/4J9sYoLE_400x400.jpg",Dallas Mavericks vs Houston Rockets --- CH 1
+http://193.47.62.50/hls/8III.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Dallas Mavericks vs Houston Rockets --- CH 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0hp-BEs76uyjs4B0ucDF1bENnqCBNkz4bDaeiqeCAk6-2MwdBvWbDRrHChhqWZf2Psmte83sffwRU3etLg-sSfKJTY0AJD1dJ2IAy291sqfkGM3AK9GqhINclMA480yPAqe15fAFXvhHUbNFZaaNP1Ql_G82amKjdoE7mF-LLVzkeEKahREbEisF54Io/s1600/4J9sYoLE_400x400.jpg",Dallas Mavericks vs Houston Rockets --- CH 2
+https://www.rtmpcdn.com/live/14923f79-9c44-496c-a02c-2900adad58f2.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -73,6 +117,18 @@ https://www.rtmpcdn.com/live/fe1fe5bf-2ded-4157-9f0d-9c04a6b690fa.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Phoenix Suns vs Denver Nuggets" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0hp-BEs76uyjs4B0ucDF1bENnqCBNkz4bDaeiqeCAk6-2MwdBvWbDRrHChhqWZf2Psmte83sffwRU3etLg-sSfKJTY0AJD1dJ2IAy291sqfkGM3AK9GqhINclMA480yPAqe15fAFXvhHUbNFZaaNP1Ql_G82amKjdoE7mF-LLVzkeEKahREbEisF54Io/s1600/4J9sYoLE_400x400.jpg",Phoenix Suns vs Denver Nuggets
+http://193.47.62.55/hls/8IIIAAAA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Golden State Warriors vs Los Angeles Lakers" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0hp-BEs76uyjs4B0ucDF1bENnqCBNkz4bDaeiqeCAk6-2MwdBvWbDRrHChhqWZf2Psmte83sffwRU3etLg-sSfKJTY0AJD1dJ2IAy291sqfkGM3AK9GqhINclMA480yPAqe15fAFXvhHUbNFZaaNP1Ql_G82amKjdoE7mF-LLVzkeEKahREbEisF54Io/s1600/4J9sYoLE_400x400.jpg",Golden State Warriors vs Los Angeles Lakers
+http://193.47.62.59/hls/8IIIAAA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Puebla vs UNAM Pumas" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",Puebla vs UNAM Pumas
 http://193.47.62.41/hls/K666AAA.m3u8
 
@@ -115,8 +171,14 @@ http://193.47.62.44/hls/8888AAAAQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="WWE Friday Night Smackdown" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",WWE Friday Night Smackdown
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="WWE Friday Night Smackdown --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",WWE Friday Night Smackdown --- CH 1
 http://193.47.62.41/hls/Y999AAAA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="WWE Friday Night Smackdown --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",WWE Friday Night Smackdown --- CH 2
+https://admin2.formaturamaxi.com.br/wwe.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
