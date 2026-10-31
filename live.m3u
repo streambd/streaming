@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-31 01:25:16 UTC
+# Auto-Updated via Actions at: 2026-10-31 01:30:21 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19337" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932644661020x576.jpg" group-title="Sports Live", Hong Kong Sixes - Day 2 - Group Stage / Knockout Stage - Hong Kong International Sixes 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
@@ -20,6 +20,18 @@ https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a154
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe3b6prod-PlaybackConfig/2120303/criclive3010/ENG/master.m3u8?hdnea=exp=1793440265~acl=/*~id=13097997116423724468958902004580~hmac=11ff662c23983b3af7ba1f038a623dcc837fcc13b1cd2a9822f89a369f03e3ca
 
 
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Golden State Warriors vs Los Angeles Lakers" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0hp-BEs76uyjs4B0ucDF1bENnqCBNkz4bDaeiqeCAk6-2MwdBvWbDRrHChhqWZf2Psmte83sffwRU3etLg-sSfKJTY0AJD1dJ2IAy291sqfkGM3AK9GqhINclMA480yPAqe15fAFXvhHUbNFZaaNP1Ql_G82amKjdoE7mF-LLVzkeEKahREbEisF54Io/s1600/4J9sYoLE_400x400.jpg",Golden State Warriors vs Los Angeles Lakers
+http://193.47.62.59/hls/8IIIAAA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Phoenix Suns vs Denver Nuggets" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0hp-BEs76uyjs4B0ucDF1bENnqCBNkz4bDaeiqeCAk6-2MwdBvWbDRrHChhqWZf2Psmte83sffwRU3etLg-sSfKJTY0AJD1dJ2IAy291sqfkGM3AK9GqhINclMA480yPAqe15fAFXvhHUbNFZaaNP1Ql_G82amKjdoE7mF-LLVzkeEKahREbEisF54Io/s1600/4J9sYoLE_400x400.jpg",Phoenix Suns vs Denver Nuggets
+http://193.47.62.55/hls/8IIIAAAA.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -116,18 +128,6 @@ http://193.47.62.55/hls/2HHH.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="Washington Wizards vs Charlotte Hornets --- CH 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0hp-BEs76uyjs4B0ucDF1bENnqCBNkz4bDaeiqeCAk6-2MwdBvWbDRrHChhqWZf2Psmte83sffwRU3etLg-sSfKJTY0AJD1dJ2IAy291sqfkGM3AK9GqhINclMA480yPAqe15fAFXvhHUbNFZaaNP1Ql_G82amKjdoE7mF-LLVzkeEKahREbEisF54Io/s1600/4J9sYoLE_400x400.jpg",Washington Wizards vs Charlotte Hornets --- CH 2
 https://www.rtmpcdn.com/live/fe1fe5bf-2ded-4157-9f0d-9c04a6b690fa.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Phoenix Suns vs Denver Nuggets" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0hp-BEs76uyjs4B0ucDF1bENnqCBNkz4bDaeiqeCAk6-2MwdBvWbDRrHChhqWZf2Psmte83sffwRU3etLg-sSfKJTY0AJD1dJ2IAy291sqfkGM3AK9GqhINclMA480yPAqe15fAFXvhHUbNFZaaNP1Ql_G82amKjdoE7mF-LLVzkeEKahREbEisF54Io/s1600/4J9sYoLE_400x400.jpg",Phoenix Suns vs Denver Nuggets
-http://193.47.62.55/hls/8IIIAAAA.m3u8
-
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="BDxTV Channels" tvg-name="Golden State Warriors vs Los Angeles Lakers" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0hp-BEs76uyjs4B0ucDF1bENnqCBNkz4bDaeiqeCAk6-2MwdBvWbDRrHChhqWZf2Psmte83sffwRU3etLg-sSfKJTY0AJD1dJ2IAy291sqfkGM3AK9GqhINclMA480yPAqe15fAFXvhHUbNFZaaNP1Ql_G82amKjdoE7mF-LLVzkeEKahREbEisF54Io/s1600/4J9sYoLE_400x400.jpg",Golden State Warriors vs Los Angeles Lakers
-http://193.47.62.59/hls/8IIIAAA.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
