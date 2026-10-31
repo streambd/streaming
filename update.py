@@ -28,7 +28,6 @@ http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 #EXTINF:-1 tvg-id="abfabaee-3898-4279-8645-3da5b0232867" tvg-name="Willow TV" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow TV
 https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
 
-
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" tvg-chno="579" tvg-language="hin" tvg-country="IN" ,Star Sports 2 
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
