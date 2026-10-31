@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-31 04:05:16 UTC
+# Auto-Updated via Actions at: 2026-10-31 04:10:18 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19120" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17929999181020x576.jpg" group-title="Sports Live", Bangladesh vs West Indies - 1st Test - West indies Tour of Bangladesh 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
@@ -62,6 +62,12 @@ http://193.47.62.44/hls/VVVVAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="BDxTV Channels" tvg-name="New Zealand W vs Papua New Guinea W" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAXCTZ5KrYRidlAky1KKXlO2QIGAqGGHEdd7vMcoF8pF_-8gavA1sYv_Ddhir1qgLRgtHO4t8mV92THNeSsptIgYboDU4tuUR4JNol-56v1qaIK6Mqjj2iocuygGMAeYz6zu7PQ-M9amFZZDFyPXXfO7Cht7yJ23El4NwU71LXZTOZa-43_5ybKUr2mzg/s1600/ZVwKqVO3.jpg",New Zealand W vs Papua New Guinea W
 http://193.47.62.50/hls/bbbbAA.m3u8
+
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BDxTV Channels" tvg-name="New Zealand W vs France W" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAXCTZ5KrYRidlAky1KKXlO2QIGAqGGHEdd7vMcoF8pF_-8gavA1sYv_Ddhir1qgLRgtHO4t8mV92THNeSsptIgYboDU4tuUR4JNol-56v1qaIK6Mqjj2iocuygGMAeYz6zu7PQ-M9amFZZDFyPXXfO7Cht7yJ23El4NwU71LXZTOZa-43_5ybKUr2mzg/s1600/ZVwKqVO3.jpg",New Zealand W vs France W
+http://193.47.62.44/hls/VVVVAaA.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
