@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-31 06:55:16 UTC
+# Auto-Updated via Actions at: 2026-10-31 07:00:28 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19120" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17929999181020x576.jpg" group-title="Sports Live", Bangladesh vs West Indies - 1st Test - West indies Tour of Bangladesh 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
@@ -171,10 +171,6 @@ https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
 # --- Jamuna TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C74OoNa.th.png", Jamuna TV
 https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
-
-# --- Channel One (1 Server) ---
-#EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co.com/VpJYNV3t/download.png", Channel One
-https://stream.ottplus.live/live/channel_1_hd_abr/live/channel_1_hd_720/chunks.m3u8
 
 #-------Thikana TV---------
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://tubextra.b-cdn.net/thikana.jpg",Thikana Tv
