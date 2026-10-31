@@ -29,7 +29,7 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" tvg-chno="579" tvg-language="hin" tvg-country="IN" group-title="Sports" nexus-score="100",Star Sports 2 
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" tvg-chno="579" tvg-language="hin" tvg-country="IN" ,Star Sports 2 
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/LzX4ZGTH/images-1.jpg", Star Sports 1
@@ -195,7 +195,7 @@ https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CEtU2af.th.jpg", Colors Bangla Cenema
-https://tv.moviemasti.net:8443/COLORS.BANGLA.CINEMA/tracks-v1a1/mono.m3u8?token=e0899382142a13e61ba6d8a83ea8274bff6188c9-6656f28f90766cbd9894d35eb4df6cc9-1791741201-1791697701
+http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=sboxcast
 
 # --- Star Jalsa (1 Server) ---
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CE2C1G2.th.jpg", Star Jalsa
@@ -229,7 +229,7 @@ https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 
 # --- Sun Bangla (1 Server) ---
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/Ce1euqu.th.jpg", Sun Bangla
-https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://27.124.71.27/Sun_Bangla/tracks-v1a1/mono.m3u8
+http://27.124.71.27/Sun_Bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-39a3-74dd-8ef6-fbe0295e1222" tvg-name="kolkata TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_067234e427ca902620258631b762cea8_playmist_kolkata_tv_400x400.jpg" group-title="Indian Bangla",kolkata TV
 https://tvsen6.aynaott.com/kolkatatv/index.m3u8
