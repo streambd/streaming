@@ -35,18 +35,17 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/LzX4ZGTH/images-1.jpg", Star Sports 1
 http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tbhHZDM/images.png" group-title="Sports Live" nexus-score="100",WWE 
-http://103.114.11.37:8081/WWE-24/7/index.m3u8
-
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.postimg.cc/pXx765TQ/20240823_024350.png?ref=skym3u.dev",Euro Sports HD
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 
-
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/qGGjsFP/images.jpg", Ten Sports
 http://103.114.11.37:8081/TEN-SPORTS/index.m3u8?token=sboxcast
+
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/TFkR87R/images-1.png", Ten Cricket
+https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="019efa45-e8e5-7353-a606-b361cf5f42ce" tvg-name="Cricket Gold" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg" group-title="Cricket, Sports",Cricket Gold
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
