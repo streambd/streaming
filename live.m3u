@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-31 14:20:19 UTC
+# Auto-Updated via Actions at: 2026-10-31 14:22:35 UTC
 
 #EXTINF:-1 tvg-id="tapmad-18886" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933465791020x576.jpg" group-title="Sports Live", Pakistan vs Sri Lanka - Final - Pakistan ODI Tri-Series 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
@@ -346,6 +346,19 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 
 #EXTINF:-1 tvg-id="HumTV.pk" tvg-name="HUM TV" tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png" tvg-chno="298" group-title="Entertainment",HUM TV
 https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
+
+# ==========================================
+# 🏆 Islamic
+# ==========================================
+
+#EXTINF:-1  group-title="Islamic" tvg-logo="https://i.ibb.co.com/5gMzQmLm/Islamic.jpg", Islamic TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
+
+#EXTINF:-1  group-title="Islamic" tvg-logo="https://i.ibb.co.com/hJ332kvz/Madani-Tv.jpg", Madani TV
+https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
+
+#EXTINF:-1  group-title="Islamic" tvg-logo="https://i.ibb.co.com/84cYwzVL/Sunnah-Tv.png", Sunnah TV
+http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
 
 # ==========================================
 # 🏆 Infotainment
