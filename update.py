@@ -343,6 +343,19 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
 
 # ==========================================
+# 🏆 Islamic
+# ==========================================
+
+#EXTINF:-1  group-title="Islamic" tvg-logo="https://i.ibb.co.com/5gMzQmLm/Islamic.jpg", Islamic TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
+
+#EXTINF:-1  group-title="Islamic" tvg-logo="https://i.ibb.co.com/hJ332kvz/Madani-Tv.jpg", Madani TV
+https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
+
+#EXTINF:-1  group-title="Islamic" tvg-logo="https://i.ibb.co.com/84cYwzVL/Sunnah-Tv.png", Sunnah TV
+http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
+
+# ==========================================
 # 🏆 Infotainment
 # ==========================================
 
