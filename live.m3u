@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-10-31 07:05:14 UTC
+# Auto-Updated via Actions at: 2026-10-31 07:10:19 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19120" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17929999181020x576.jpg" group-title="Sports Live", Bangladesh vs West Indies - 1st Test - West indies Tour of Bangladesh 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
@@ -16,9 +16,6 @@ https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15f
 
 #EXTINF:-1 tvg-id="tapmad-19337" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932644661020x576.jpg" group-title="Sports Live", Hong Kong Sixes - Day 2 - Group Stage / Knockout Stage - Hong Kong International Sixes 2026 - Server 2
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-19477" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933641461020x576.jpg" group-title="Sports Live", GTWC Asia - Race 1 - Shanghai, China - Race 1 - GT World Challenge EU & Asia 2026
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-19181" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930881831020x576.jpg" group-title="Sports Live", Adelaide Strikers vs Melbourne Stars - Group Stage - Women's Big Bash League 2026
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
