@@ -168,13 +168,13 @@ https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
 https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
 
 #-------Thikana TV---------
-#EXTINF:-1 group-title="BD TV" tvg-logo="https://tubextra.b-cdn.net/thikana.jpg",Thikana Tv
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co.com/zh8zDdmp/5.jpg",Thikana Tv
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
 
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co/VWL70Dvx/logo.png" ,Me IPTV BD
 https://iptvbd.live/metv1080/1080.m3u8
 
-#EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" ,Sanonda TV
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co.com/21Jj6JyF/sanonda.jpg" ,Sanonda TV
 https://live.sanandatelevision.in/sananda/index.m3u8
 
 # --- Bangla Natok (1 Server) ---
