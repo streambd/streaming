@@ -8,7 +8,6 @@ M3U_FILE = "live.m3u"
 # External Playlist URLs
 SPORTS_URL = "https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u"
 SONYLIV_URL = "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u"
-BDXTV_URL = "https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/playlist_s.m3u"
 HINDI_MOVIES_URL = "https://raw.githubusercontent.com/streambd/streaming/refs/heads/main/hindimovies.m3u"
 BENGALI_MOVIES_URL = "https://raw.githubusercontent.com/streambd/streaming/refs/heads/main/banglamovies.m3u"
 ENGLISH_MOVIES_URL = "https://raw.githubusercontent.com/streambd/streaming/refs/heads/main/englishmovies.m3u"
@@ -22,8 +21,6 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 {DYNAMIC_CHANNELS}
 
 {DYNAMIC_SONYLIV}
-
-{DYNAMIC_BDXTV}
 
 #EXTINF:-1 tvg-id="abfabaee-3898-4279-8645-3da5b0232867" tvg-name="Willow TV" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow TV
 https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
@@ -481,9 +478,6 @@ def generate_m3u():
     print("Fetching English Movies...")
     english_movies_data = fetch_and_parse_m3u(ENGLISH_MOVIES_URL, "English Movies")
 
-    print("Fetching BDxTV Channels...")
-    bdxtv_data = fetch_and_parse_m3u(BDXTV_URL, "BDxTV Channels", skip_first=True) 
-
     timestamp = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
     timestamp_header = f"# Auto-Updated via Actions at: {timestamp} UTC\n\n"
     
@@ -495,7 +489,6 @@ def generate_m3u():
     final_m3u = final_m3u.replace("{DYNAMIC_HINDI_MOVIES}", movies_data)
     final_m3u = final_m3u.replace("{DYNAMIC_BENGALI_MOVIES}", bengali_movies_data)
     final_m3u = final_m3u.replace("{DYNAMIC_ENGLISH_MOVIES}", english_movies_data)
-    final_m3u = final_m3u.replace("{DYNAMIC_BDXTV}", bdxtv_data)
 
     with open(M3U_FILE, 'w', encoding='utf-8') as f:
         f.write(final_m3u)
