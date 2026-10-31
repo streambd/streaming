@@ -47,6 +47,12 @@ http://103.114.11.37:8081/TEN-SPORTS/index.m3u8?token=sboxcast
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/TFkR87R/images-1.png", Ten Cricket
 https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
 
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/2Yq7tQ3J/images-2.png", Bein Sports
+https://tvsen6.aynaott.com/beinsports/index.m3u8
+
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/ym83QZvd/download.png", Bein Sports Extra
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
 #EXTINF:-1 tvg-id="019efa45-e8e5-7353-a606-b361cf5f42ce" tvg-name="Cricket Gold" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg" group-title="Cricket, Sports",Cricket Gold
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
 
