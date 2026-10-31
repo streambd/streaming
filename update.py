@@ -18,6 +18,9 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 # 🏆 Sports LIVE
 # ==========================================
 
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
+http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
+
 {DYNAMIC_CHANNELS}
 
 {DYNAMIC_SONYLIV}
@@ -34,12 +37,6 @@ http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.postimg.cc/pXx765TQ/20240823_024350.png?ref=skym3u.dev",Euro Sports HD
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
-
-#EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
-http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
-
-#EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/qGGjsFP/images.jpg", Ten Sports
-http://103.114.11.37:8081/TEN-SPORTS/index.m3u8?token=sboxcast
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/TFkR87R/images-1.png", Ten Cricket
 https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
