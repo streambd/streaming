@@ -3,15 +3,15 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C5GXCHLp/images.png" group-title="Sports Live", Nepal Premier League
-https://live-ottint-fstream.nettv.com.np/npl/live_match/index.mpd
+# #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C5GXCHLp/images.png" group-title="Sports Live", Nepal Premier League
+# https://live-ottint-fstream.nettv.com.np/npl/live_match/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NgSwt5sX/images.jpg" group-title="Sports Live", Pakistan Vs India Saff Championship
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qFsk0bX7/Capture5.jpg" group-title="Sports Live", Bangladesh Vs Bhutan Saff Championship
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
 
 
-# Auto-Updated via Actions at: 2026-11-05 12:10:19 UTC
+# Auto-Updated via Actions at: 2026-11-05 12:15:22 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19114" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937879731020x576.jpg" group-title="Sports Live", Afghanistan vs Zimbabwe - 1st Test - Afghanistan vs Zimbabwe 2026
 https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
