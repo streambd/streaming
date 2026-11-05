@@ -6,7 +6,7 @@
 # #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C5GXCHLp/images.png" group-title="Sports Live", Nepal Premier League
 # https://live-ottint-fstream.nettv.com.np/npl/live_match/index.mpd
 
-# Auto-Updated via Actions at: 2026-11-05 20:05:21 UTC
+# Auto-Updated via Actions at: 2026-11-05 20:10:19 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19849" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937366941020x576.jpg" group-title="Sports Live", Levski Sofia vs Jagiellonia Bialystok - MATCHDAY 4 - UEFA Europa League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
@@ -34,6 +34,12 @@ https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15f
 
 #EXTINF:-1 tvg-id="tapmad-19858" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937387081020x576.jpg" group-title="Sports Live", Benfica vs Lech Poznan - MATCHDAY 4 - UEFA Europa League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19857" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937385471020x576.jpg" group-title="Sports Live", Leverkusen vs Marseille - MATCHDAY 4 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19856" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937382181020x576.jpg" group-title="Sports Live", AZ Alkmaar vs Juventus - MATCHDAY 4 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-19855" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937380011020x576.jpg" group-title="Sports Live", H. Beer-Sheva vs OFI - MATCHDAY 4 - UEFA Europa League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
