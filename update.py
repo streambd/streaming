@@ -18,6 +18,9 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 # 🏆 Sports LIVE
 # ==========================================
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C5GXCHLp/images.png" group-title="Sports Live", Nepal Premier League
+https://live-ottint-fstream.nettv.com.np/npl/live_match/index.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/NgSwt5sX/images.jpg" group-title="Sports Live", Pakistan Vs India Saff Championship
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
