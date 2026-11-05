@@ -22,7 +22,9 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 # https://live-ottint-fstream.nettv.com.np/npl/live_match/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qFsk0bX7/Capture5.jpg" group-title="Sports Live", Bangladesh Vs Bhutan Saff Championship
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
 https://live05.miekgo.app/live/33860426.m3u8
+https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1793894124-0-0-61522bb10ef9567af80fd1344e3d23b9
 http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
