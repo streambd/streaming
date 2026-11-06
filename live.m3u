@@ -6,7 +6,7 @@
 # #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C5GXCHLp/images.png" group-title="Sports Live", Nepal Premier League
 # https://live-ottint-fstream.nettv.com.np/npl/live_match/index.mpd
 
-# Auto-Updated via Actions at: 2026-11-06 20:00:29 UTC
+# Auto-Updated via Actions at: 2026-11-06 20:05:16 UTC
 
 #EXTINF:-1 tvg-id="tapmad-20115" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939607391020x576.jpg" group-title="Sports Live", Oxford City vs Leicester City - 1st Round - FA Cup 2026/27 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
@@ -19,6 +19,9 @@ https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc0642156
 
 #EXTINF:-1 tvg-id="tapmad-19959" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937913661020x576.jpg" group-title="Sports Live", Toulouse vs Strasbourg - MATCHDAY 10 - French Ligue 1 2026/27 - Server 2
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19457" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939664001020x576.jpg" group-title="Sports Live", Sevilla vs Alaves - MATCHDAY 12 - LaLiga 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 
 
 
