@@ -6,7 +6,7 @@
 # #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C5GXCHLp/images.png" group-title="Sports Live", Nepal Premier League
 # https://live-ottint-fstream.nettv.com.np/npl/live_match/index.mpd
 
-# Auto-Updated via Actions at: 2026-11-06 21:50:19 UTC
+# Auto-Updated via Actions at: 2026-11-06 21:55:18 UTC
 
 #EXTINF:-1 tvg-id="tapmad-20115" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939607391020x576.jpg" group-title="Sports Live", Oxford City vs Leicester City - 1st Round - FA Cup 2026/27 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
@@ -24,6 +24,9 @@ https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 
 
+
+#EXTINF:-1 tvg-id="sonyliv-1090552778" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793948514324809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day1_landscape_thumb.jpg" group-title="Sports Live", 3rd Unofficial Test - Day 1 | India A Tour of New Zealand [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT4379prod-PlaybackConfig/2120304/Criclive0611/ENG/master.m3u8?hdnea=exp=1794045047~acl=/*~id=83432594444243485960080045502631~hmac=804cb8b4df16a4eeea5d265b66449dc60c3198d484de245d26be1345a0d247c6
 
 
 
