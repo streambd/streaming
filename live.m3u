@@ -6,7 +6,7 @@
 # #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C5GXCHLp/images.png" group-title="Sports Live", Nepal Premier League
 # https://live-ottint-fstream.nettv.com.np/npl/live_match/index.mpd
 
-# Auto-Updated via Actions at: 2026-11-07 06:50:21 UTC
+# Auto-Updated via Actions at: 2026-11-07 06:55:15 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19121" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936115231020x576.jpg" group-title="Sports Live", Bangladesh vs West Indies - 2nd Test - West indies Tour of Bangladesh 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
@@ -33,6 +33,9 @@ https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea
 
 #EXTINF:-1 tvg-id="sonyliv-1090552837" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="Sports Live", 2nd ODI | India Tour of New Zealand 2026 [English]
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794059450~acl=/*~id=53641256541120658102129343195360~hmac=296fa2767c872cd2f7924a204638d277ec84c4fcd501289ddea5892a1a5066eb
+
+#EXTINF:-1 tvg-id="sonyliv-1090552844" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888653936682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day3_landscape_thumb.jpg" group-title="Sports Live", Abu Dhabi HSBC Championship - Day 3 | DP World Tour [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe52bprod-PlaybackConfig/2120300/Golf_Abu0711/ENG/master.m3u8?hdnea=exp=1794077444~acl=/*~id=01025300558010794039373680940066~hmac=df0fa100e197458a094d1394485e927caf4b54509982b49f1375cce0943ea1e5
 
 
 
