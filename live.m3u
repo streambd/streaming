@@ -6,7 +6,7 @@
 # #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C5GXCHLp/images.png" group-title="Sports Live", Nepal Premier League
 # https://live-ottint-fstream.nettv.com.np/npl/live_match/index.mpd
 
-# Auto-Updated via Actions at: 2026-11-07 10:15:18 UTC
+# Auto-Updated via Actions at: 2026-11-07 10:20:19 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19121" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936115231020x576.jpg" group-title="Sports Live", Bangladesh vs West Indies - 2nd Test - West indies Tour of Bangladesh 2026
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
@@ -31,6 +31,9 @@ https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154
 
 #EXTINF:-1 tvg-id="tapmad-19284" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938634021020x576.jpg" group-title="Sports Live", Naegohyang Women's FC (PRK) vs INAC Kobe Leonessa (JPN) - MATCHDAY 3 - AFC Women's Champions League 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19294" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938640411020x576.jpg" group-title="Sports Live", Melbourne City FC (AUS) vs Beijing Jingtan Football Club (CHN) - MATCHDAY 3 - AFC Women's Champions League 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
 
 
 
