@@ -6,7 +6,7 @@
 # #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C5GXCHLp/images.png" group-title="Sports Live", Nepal Premier League
 # https://live-ottint-fstream.nettv.com.np/npl/live_match/index.mpd
 
-# Auto-Updated via Actions at: 2026-11-07 21:25:13 UTC
+# Auto-Updated via Actions at: 2026-11-07 21:30:22 UTC
 
 #EXTINF:-1 tvg-id="tapmad-20117" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939712561020x576.jpg" group-title="Sports Live", Peterborough United vs Reading - 1st Round - FA Cup 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
@@ -18,6 +18,9 @@ https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115f
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 
 
+
+#EXTINF:-1 tvg-id="sonyliv-1090553101" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956010921809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day2_landscape_thumb.jpg" group-title="Sports Live", 3rd Unofficial Test - Day 2 | India A Tour of New Zealand [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2120302/Criclive0711/ENG/master.m3u8?hdnea=exp=1794129657~acl=/*~id=48638937852106590669208643803038~hmac=38dba76a2c9fe960899a477056fc26e59e52498ec86a0e20b62b2f0a1d5c8552
 
 
 
