@@ -18,9 +18,6 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 # 🏆 Sports LIVE
 # ==========================================
 
-# #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C5GXCHLp/images.png" group-title="Sports Live", Nepal Premier League
-# https://live-ottint-fstream.nettv.com.np/npl/live_match/index.mpd
-
 {DYNAMIC_CHANNELS}
 
 {DYNAMIC_SONYLIV}
@@ -78,6 +75,9 @@ https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-id="FightNetwork.ca" tvg-name="Fight Network" tvg-logo="https://i.imgur.com/vlKPZHR.png" tvg-chno="552",Fight Network
 https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C5GXCHLp/images.png" group-title="Sports Live", Nepal Premier League
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd
 
 # ==========================================
 # 📺 BD TV
