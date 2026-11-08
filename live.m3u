@@ -3,19 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-11-08 17:35:15 UTC
-
-#EXTINF:-1 tvg-id="tapmad-19990" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937907061020x576.jpg" group-title="Sports Live", Leg 3 - Verona (ITA) - Race - Longines FEI Jumping World Cup 2026
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-20119" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939715131020x576.jpg" group-title="Sports Live", Cray Wanderers vs Stockport County - 1st Round - FA Cup 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-20120" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939716421020x576.jpg" group-title="Sports Live", Wimborne Town vs Crawley Town - 1st Round - FA Cup 2026/27
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-19463" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939689621020x576.jpg" group-title="Sports Live", Real Sociedad vs Rayo Vallecano - MATCHDAY 12 - LaLiga 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
+# Auto-Updated via Actions at: 2026-11-08 17:40:19 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19966" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937926141020x576.jpg" group-title="Sports Live", Le Havre vs Lorient - MATCHDAY 10 - French Ligue 1 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
@@ -28,6 +16,15 @@ https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15f
 
 #EXTINF:-1 tvg-id="tapmad-19963" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937921711020x576.jpg" group-title="Sports Live", Angers vs Nice - MATCHDAY 10 - French Ligue 1 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-20121" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939717701020x576.jpg" group-title="Sports Live", Oldham Athletic vs Sheffield Wednesday - 1st Round - FA Cup 2026/27
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19465" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939691601020x576.jpg" group-title="Sports Live", Celta vs Levante - MATCHDAY 12 - LaLiga 2026/27
+https://tencent-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19464" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939690671020x576.jpg" group-title="Sports Live", Villarreal vs Getafe - MATCHDAY 12 - LaLiga 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
 
 
 
