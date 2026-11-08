@@ -3,16 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-11-08 15:35:20 UTC
-
-#EXTINF:-1 tvg-id="tapmad-20118" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939713931020x576.jpg" group-title="Sports Live", Stafford Rangers vs Grimsby Town - 1st Round - FA Cup 2026/27 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-20118" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939713931020x576.jpg" group-title="Sports Live", Stafford Rangers vs Grimsby Town - 1st Round - FA Cup 2026/27 - Server 2
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-19462" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939688681020x576.jpg" group-title="Sports Live", Elche vs Betis - MATCHDAY 12 - LaLiga 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+# Auto-Updated via Actions at: 2026-11-08 15:40:19 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19990" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937907061020x576.jpg" group-title="Sports Live", Leg 3 - Verona (ITA) - Race - Longines FEI Jumping World Cup 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
@@ -25,6 +16,9 @@ https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea
 
 #EXTINF:-1 tvg-id="tapmad-20120" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939716421020x576.jpg" group-title="Sports Live", Wimborne Town vs Crawley Town - 1st Round - FA Cup 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19463" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939689621020x576.jpg" group-title="Sports Live", Real Sociedad vs Rayo Vallecano - MATCHDAY 12 - LaLiga 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
 
 
 
