@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-11-08 16:50:17 UTC
+# Auto-Updated via Actions at: 2026-11-08 16:55:16 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19990" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937907061020x576.jpg" group-title="Sports Live", Leg 3 - Verona (ITA) - Race - Longines FEI Jumping World Cup 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
@@ -34,7 +34,6 @@ https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a576154156
 
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
-http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 
