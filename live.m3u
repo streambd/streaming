@@ -24,10 +24,11 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/LzX4ZGTH/images-1.jpg", Star Sports 1
 http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast
 
-#EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.postimg.cc/pXx765TQ/20240823_024350.png?ref=skym3u.dev",Euro Sports HD
-https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
+# #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.postimg.cc/pXx765TQ/20240823_024350.png?ref=skym3u.dev",Euro Sports HD
+# https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/TFkR87R/images-1.png", Ten Cricket
+https://drk6xq0vhn.gpcdn.net/hls/ten_cricket_hd_720/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/2Yq7tQ3J/images-2.png", Bein Sports
@@ -75,7 +76,7 @@ https://tvsen5.aynaott.com/banglavision/tracks-v1a1/mono.ts.m3u8
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://i.postimg.cc/Zqgx8hm1/20260430-184013.png?ref=skym3u.dev", Channel 1
-https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8
+https://drk6xq0vhn.gpcdn.net/hls/channel_1_hd_720/index.m3u8
 
 #EXTINF:-1 tvg-id="NagorikTV.bd" tvg-logo="https://i.postimg.cc/Z54fVGww/20240822_230947.png" tvg-chno="90" group-title="Bangladesh",Nagorik TV 
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
@@ -90,6 +91,7 @@ https://playztv-apps.pages.dev/atn-bangla/index.m3u8
 
 # --- Somoy TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUEHuV.th.jpg", Somoy TV
+https://s3.itcnbd.live/server-6/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0yMDU.m3u8
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/tracks-v1a1/mono.ts.m3u8
 
 # --- News 24 (1 Server) ---
