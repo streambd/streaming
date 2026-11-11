@@ -34,16 +34,13 @@ https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/Z6Y14TZ9/images-3.jpg",PTV Sports 
-https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8?nocache=1785582200018
+http://103.114.11.37:8081/PTV/tracks-v1a1/2026/11/10/22/11/06-06000.ts?token=sbox
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540",Star Sports 2 
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/LzX4ZGTH/images-1.jpg", Star Sports 1
 http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast
-
-# #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.postimg.cc/pXx765TQ/20240823_024350.png?ref=skym3u.dev",Euro Sports HD
-# https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/TFkR87R/images-1.png", Ten Cricket
 https://drk6xq0vhn.gpcdn.net/hls/ten_cricket_hd_720/index.m3u8
