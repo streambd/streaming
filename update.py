@@ -20,6 +20,7 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/svnV8nJL/images-8.jpg", India Vs Maldives Saff26
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
+https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=1a8c59952bca24f662cd67f4bd377882&txTime=6af48adf
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
 {DYNAMIC_CHANNELS}
