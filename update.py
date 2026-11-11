@@ -18,6 +18,9 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 # 🏆 Sports LIVE
 # ==========================================
 
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/svnV8nJL/images-8.jpg", India Vs Maldives Saff26
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
+
 {DYNAMIC_CHANNELS}
 
 {DYNAMIC_SONYLIV}
