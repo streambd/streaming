@@ -229,7 +229,7 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 
 # --- Akash Ath (1 Server) ---
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CjLENsf.th.jpg", Akash Ath
-https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_aath.m3u8
 
 # --- Sun Bangla (1 Server) ---
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/Ce1euqu.th.jpg", Sun Bangla
