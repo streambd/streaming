@@ -23,8 +23,8 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 {DYNAMIC_SONYLIV}
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
-https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Willow TV" tvg-logo="https://i.ibb.co.com/9HNtwDKJ/images-2.jpg" group-title="Sports",Willow TV
 https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
@@ -45,6 +45,7 @@ https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chu
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/2Yq7tQ3J/images-2.png", Bein Sports
 https://tvsen6.aynaott.com/beinsports/index.m3u8
+https://tinyurl.com/hmtk43up
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/ym83QZvd/download.png", Bein Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
@@ -55,11 +56,11 @@ https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
 # #EXTINF:-1 group-title="Sports Live" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png", Sony Sports 1
 # https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 
-# #EXTINF:-1 group-title="Sports Live" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png", Sony Sports 2
-# https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png", Sony Sports 2
+http://103.114.11.37:8081/Sony-sports-2/tracks-v1a1/mono.m3u8?token=sbox
 
-# #EXTINF:-1 group-title="Sports Live" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png", Sony Sports 5
-# https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png", Sony Sports 3
+http://103.114.11.37:8081/Sony-sports-3/tracks-v1a1/mono.m3u8?token=sbox
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" tvg-name="A Sports",A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
@@ -73,8 +74,6 @@ https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 #EXTINF:-1 group-title="Sports Live" tvg-id="FightNetwork.ca" tvg-name="Fight Network" tvg-logo="https://i.imgur.com/vlKPZHR.png" tvg-chno="552",Fight Network
 https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C5GXCHLp/images.png" group-title="Sports Live", Nepal Premier League
-https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd
 
 # ==========================================
 # 📺 BD TV
