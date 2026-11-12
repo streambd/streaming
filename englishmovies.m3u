@@ -12,8 +12,11 @@ https://flixhub.net/stream/movie/matchbox-the-movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg" group-title="english Movies", Runner
 https://flixhub.net/stream/movie/runner
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg" group-title="english Movies", Runner
-https://ftp.ctgfun.com/English/Runner%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Runner%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg" group-title="english Movies", Mad Max: Fury Road
 https://flixhub.net/stream/movie/mad-max-fury-road
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hba8zREJpP1AYhaXgb2oJLQeO0K.jpg" group-title="english Movies", xXx: Return of Xander Cage
+https://flixhub.net/stream/movie/xxx-return-of-xander-cage
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg" group-title="english Movies", The Terminator
+https://flixhub.net/stream/movie/the-terminator
