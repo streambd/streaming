@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-11-12 21:50:28 UTC
+# Auto-Updated via Actions at: 2026-11-12 21:55:17 UTC
 
 #EXTINF:-1 tvg-id="tapmad-20062" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17941492201020x576.jpg" group-title="Sports Live", Montenegro vs Latvia - MATCHDAY 5 - UEFA Nations League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
@@ -27,24 +27,6 @@ https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 
 
-
-#EXTINF:-1 tvg-id="sonyliv-1090553578" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793257198950508_UNL26_MD5_Italy-vs-France_live_landscape_thumb.jpg" group-title="Sports Live", Italy vs France | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa083prod-PlaybackConfig/2120306/Footlive1211/ENG/master.m3u8?hdnea=exp=1794556249~acl=/*~id=81716585149832399407756899124814~hmac=a29289a57db394e94b51daad778a82dc54545bf4ef8e3c313704d56e5aa97648
-
-#EXTINF:-1 tvg-id="sonyliv-1090553579" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793257674840871_UNL26_MD5_England-vs-Croatia_live_landscape_thumb.jpg" group-title="Sports Live", England vs Croatia | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf534prod-PlaybackConfig/2120307/Footlive1211/ENG/master.m3u8?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687
-
-#EXTINF:-1 tvg-id="sonyliv-1090553573" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793254891164508_UNL26_MD5_Czechia-vs-Spain_live_landscape_thumb.jpg" group-title="Sports Live", Czechia vs Spain | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5fecprod-PlaybackConfig/2120304/Footlive1211/ENG/master.m3u8?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687
-
-#EXTINF:-1 tvg-id="sonyliv-1090553576" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793255552146508_UNL26_MD5_Montenegro-vs-Latvia_live_landscape_thumb.jpg" group-title="Sports Live", Montenegro vs Latvia | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTaf23prod-PlaybackConfig/2120305/Footlive1211/ENG/master.m3u8?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687
-
-#EXTINF:-1 tvg-id="sonyliv-1090553575" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793255214156508_UNL26_MD5_Albania-vs-Finland_live_landscape_thumb.jpg" group-title="Sports Live", Albania vs Finland | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT1477prod-PlaybackConfig/2120308/Footlive1211/ENG/master.m3u8?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687
-
-#EXTINF:-1 tvg-id="sonyliv-1090553577" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793256942014508_UNL26_MD5_San-Marino-vs-Belarus_live_landscape_thumb.jpg" group-title="Sports Live", San Marino vs Belarus | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6d22prod-PlaybackConfig/2005444/Footlive1211/ENG/master.m3u8?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687
 
 
 
