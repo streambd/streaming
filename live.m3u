@@ -532,6 +532,9 @@ https://flixhub.net/stream/movie/xxx-return-of-xander-cage
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg" group-title="English Movies", The Terminator
 https://flixhub.net/stream/movie/the-terminator
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg" group-title="English Movies", Terminator 2: Judgment Day
+https://flixhub.net/stream/movie/terminator-2-judgment-day
+
 
 
 # ==========================================
