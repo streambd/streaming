@@ -8,8 +8,6 @@
 
 #EXTINF:-1 tvg-id="tapmad-20056" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17940871771020x576.jpg" group-title="Sports Live", Turkiye vs Belgium - MATCHDAY 5 - UEFA Nations League 2026/27 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-20056" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17940871771020x576.jpg" group-title="Sports Live", Turkiye vs Belgium - MATCHDAY 5 - UEFA Nations League 2026/27 - Server 2
 https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-20055" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17940869941020x576.jpg" group-title="Sports Live", Armenia vs Cyprus - MATCHDAY 5 - UEFA Nations League 2026/27
