@@ -5,6 +5,9 @@
 
 
 
+#EXTINF:-1 tvg-id="sonyliv-1090553571" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793254611850508_UNL26_MD5_Armenia-vs-Cyprus_live_landscape_thumb.jpg" group-title="Sports Live", Armenia vs Cyprus | UEFA Nations League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5181prod-PlaybackConfig/2120302/Footlive1211/ENG/master.m3u8?hdnea=exp=1794543668~acl=/*~id=69146673202856795240416329280514~hmac=053ac30c3b7fa84cdcf558f1222a50f4f53a0fa6f5360721092408ba778fab1e
+
 
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
@@ -214,7 +217,7 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 
 # --- Akash Ath (1 Server) ---
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CjLENsf.th.jpg", Akash Ath
-https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_aath.m3u8
 
 # --- Sun Bangla (1 Server) ---
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/Ce1euqu.th.jpg", Sun Bangla
