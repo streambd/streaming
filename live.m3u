@@ -505,6 +505,9 @@ https://fsldownload.com/p/dEnbqJf8moOk44sV.oq3kp5JRcAumidMFPxvdki2peeRYXX5gMV0Vh
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpQDACR0UmRo_doQhWSND9HJ-g9XrKULEOXqLwrLy84g&s=10" group-title="Bengali Movies",Projapoti 2
 https://flixhub.net/stream/movie/projapati-2
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rupbZs8tE5h8SyaUEMFJECkIXvF.jpg" group-title="Bengali Movies", Ultorath
+https://flixhub.net/stream/movie/ultorath
+
 
 
 # ==========================================
@@ -520,11 +523,14 @@ https://flixhub.net/stream/movie/matchbox-the-movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg" group-title="English Movies", Runner
 https://flixhub.net/stream/movie/runner
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg" group-title="English Movies", Runner
-https://ftp.ctgfun.com/English/Runner%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Runner%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg" group-title="English Movies", Mad Max: Fury Road
 https://flixhub.net/stream/movie/mad-max-fury-road
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hba8zREJpP1AYhaXgb2oJLQeO0K.jpg" group-title="English Movies", xXx: Return of Xander Cage
+https://flixhub.net/stream/movie/xxx-return-of-xander-cage
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg" group-title="English Movies", The Terminator
+https://flixhub.net/stream/movie/the-terminator
 
 
 
