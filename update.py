@@ -18,17 +18,16 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 # 🏆 Sports LIVE
 # ==========================================
 
-{DYNAMIC_CHANNELS}
-
 {DYNAMIC_SONYLIV}
+
+{DYNAMIC_CHANNELS}
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Willow TV" tvg-logo="https://i.ibb.co.com/9HNtwDKJ/images-2.jpg" group-title="Sports",Willow TV
-https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
-https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
+https://tvsen7.aynaott.com/Sports1/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/Z6Y14TZ9/images-3.jpg",PTV Sports 
 http://103.114.11.37:8081/PTV/index.m3u8?token=sbox
@@ -142,18 +141,18 @@ https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8?e=1784102570&u=ee5437
 http://103.114.11.37:8081/Duronto/tracks-v1a1/mono.m3u8?token=sbox
 
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co/jhPSkLR/Picsart-23-06-07-10-30-19-289.png",SA TV
-https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
+http://116.204.149.16/satv/index.m3u8
 
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co/LnTmZLD/Picsart-23-06-07-10-15-30-064.png",Bangla Tv
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 
-# --- Deshe Bideshe TV (1 Server) ---
-#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CwNl6Pe.th.jpg", Deshe Bideshe
-https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+# --- Deshe TV (1 Server) ---
+#EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co.com/cKwm7GSD/download-3.png", Deshe Tv
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 # --- Independent TV (1 Server) ---
-#EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C76RVR9.png", Independent TV
-https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
+# #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C76RVR9.png", Independent TV
+# https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
 
 #EXTINF:-1 group-title="BD TV" tvg-id="019de785-397a-7df0-b523-b00c861be256" tvg-name="Mohona TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1c2c83a36e990c46964ce6ef25528d84_playmist_mohona_tv400x400.jpg",Mohona TV
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
@@ -173,8 +172,8 @@ https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co.com/zh8zDdmp/5.jpg",Thikana Tv
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
 
-#EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co/VWL70Dvx/logo.png" ,Me IPTV BD
-https://iptvbd.live/metv1080/1080.m3u8
+# #EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co/VWL70Dvx/logo.png" ,Me IPTV BD
+# https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co.com/21Jj6JyF/sanonda.jpg" ,Sanonda TV
 https://live.sanandatelevision.in/sananda/index.m3u8
