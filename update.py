@@ -205,7 +205,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 
 # --- ZEE Bangla Sonar (1 Server) ---
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CwNMSCN.th.jpg", ZEE Bangla Sonar
-https://drk6xq0vhn.gpcdn.net/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0zMDU.m3u8
 
 #EXTINF:-1 tvg-id="019de785-399f-7d6a-9f41-dc7f834b3300" tvg-name="TV9 Bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c08302f7fbe506a998e74c89fcf08ac_playmist_tv9_bangla_400x400.jpg" group-title="Indian Bangla",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
@@ -226,8 +226,8 @@ https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 
 # --- Akash Ath (1 Server) ---
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CjLENsf.th.jpg", Akash Ath
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_aath.m3u8
+# #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CjLENsf.th.jpg", Akash Ath
+# https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_aath.m3u8
 
 # --- Sun Bangla (1 Server) ---
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/Ce1euqu.th.jpg", Sun Bangla
@@ -238,7 +238,7 @@ https://tvsen6.aynaott.com/kolkatatv/index.m3u8
 
 # --- Sony Ath (1 Server) ---
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CwOJwUx.th.jpg", Sony Ath
-https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
+http://103.114.11.37:8081/Sony-8/tracks-v1a1/mono.m3u8?token=sbox
 
 # --- Bangla Plus (1 Server) ---
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CwN0v0g.th.jpg", Bangla Plus
