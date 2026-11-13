@@ -3,7 +3,7 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-# Auto-Updated via Actions at: 2026-11-13 05:45:19 UTC
+# Auto-Updated via Actions at: 2026-11-13 05:50:19 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19996" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938582641020x576.jpg" group-title="Sports Live", Pakistan vs Sri Lanka - 1st Test - Sri Lanka Tour of Pakistan 2026
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
@@ -16,6 +16,9 @@ https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea
 
 #EXTINF:-1 tvg-id="tapmad-20131" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17943082361020x576.jpg" group-title="Sports Live", Australia vs England - 1st ODI - England Tour of Australia 2026 - Server 2
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19115" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938657031020x576.jpg" group-title="Sports Live", Afghanistan vs Zimbabwe - 2nd Test - Afghanistan vs Zimbabwe 2026
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 
 
 
