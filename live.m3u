@@ -8,10 +8,7 @@ https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf
 
 
 
-# Auto-Updated via Actions at: 2026-11-13 12:50:22 UTC
-
-#EXTINF:-1 tvg-id="tapmad-19996" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938582641020x576.jpg" group-title="Sports Live", Pakistan vs Sri Lanka - 1st Test - Sri Lanka Tour of Pakistan 2026
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+# Auto-Updated via Actions at: 2026-11-13 12:55:18 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19115" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938657031020x576.jpg" group-title="Sports Live", Afghanistan vs Zimbabwe - 2nd Test - Afghanistan vs Zimbabwe 2026
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
@@ -519,6 +516,9 @@ https://flixhub.net/stream/movie/ultorath
 # ==========================================
 # 🎬 English Movies
 # ==========================================
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg" group-title="English Movies", Godzilla Minus One
+https://flixhub.net/stream/movie/godzilla-minus-one
 
 #EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/d5/d5ca16e71db1eabd68d3198e527dbda554a0c321.webp" group-title="English Movies", SpiderMan-Brand New Day (2026)
 https://ftp.ctgfun.com/English/Spider-Man%20Brand%20New%20Day%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Spider-Man%20Brand%20New%20Day%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
