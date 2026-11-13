@@ -3,9 +3,12 @@
 # 🏆 Sports LIVE
 # ==========================================
 
+#EXTINF:-1 tvg-id="sonyliv-1090553651" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793258155606871_UNL26_MD5_Moldova-vs-Kazakhstan_live_landscape_thumb.jpg" group-title="Sports Live", Moldova vs Kazakhstan | UEFA Nations League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120299/Footlive1311/ENG/master.m3u8?hdnea=exp=1794630051~acl=/*~id=17706944214801836118993937716397~hmac=b15f8282f4b0ae2fc8e3a8b5b27018fb16b28d42efe12ca68067bf9961b7c8c2
 
 
-# Auto-Updated via Actions at: 2026-11-13 16:25:20 UTC
+
+# Auto-Updated via Actions at: 2026-11-13 16:30:24 UTC
 
 #EXTINF:-1 tvg-id="tapmad-20161" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17943044541020x576.jpg" group-title="Sports Live", Round  6 - Group Stages - Session 3 - E1 Series 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
