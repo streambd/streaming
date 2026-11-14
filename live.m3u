@@ -4,6 +4,7 @@
 # ==========================================
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/nNS4L61P/images-12.jpg", Bangladesh Vs Pakistan Saff Semifinal
+https://live05.wecile.app/live/18812304.m3u8
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-id="sonyliv-1090553933" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793268731743871_UNL26_MD5_Kosovo-vs-Israel_live_landscape_thumb.jpg" group-title="Sports Live", Kosovo vs Israel | UEFA Nations League 2026-27 [English]
@@ -11,7 +12,7 @@ https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf
 
 
 
-# Auto-Updated via Actions at: 2026-11-14 14:30:24 UTC
+# Auto-Updated via Actions at: 2026-11-14 14:35:14 UTC
 
 #EXTINF:-1 tvg-id="tapmad-20203" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945729661020x576.jpg" group-title="Sports Live", Nemkov vs Bilostenniy - Semi Finals - PFL 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
