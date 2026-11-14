@@ -3,10 +3,6 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-#EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/nNS4L61P/images-12.jpg", Bangladesh Vs Pakistan Saff Semifinal
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-https://live05.wecile.app/live/18812304.m3u8
-http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-id="sonyliv-1090553935" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027688/1793269515520450_UNL26_MD5_Norway-vs-Wales_live_landscape_thumb.jpg" group-title="Sports Live", Norway vs Wales | UEFA Nations League 2026-27 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT545eprod-PlaybackConfig/2094587/Footlive1411/ENG/master.m3u8?hdnea=exp=1794716455~acl=/*~id=13457047991325141932609389238619~hmac=21f22aa62e0cea64befad8f3aed6077b691d7f07be5a185859d9048f267741c7
@@ -16,12 +12,15 @@ https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf
 
 
 
-# Auto-Updated via Actions at: 2026-11-14 16:30:25 UTC
+# Auto-Updated via Actions at: 2026-11-14 16:35:14 UTC
 
 #EXTINF:-1 tvg-id="tapmad-20203" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945729661020x576.jpg" group-title="Sports Live", Nemkov vs Bilostenniy - Semi Finals - PFL 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-20176" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945510841020x576.jpg" group-title="Sports Live", Round 7 - Group Stages - Session 3 - E1 Series 2026
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-20181" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945514751020x576.jpg" group-title="Sports Live", Round 7 - Race Off - Session 4 - E1 Series 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
 
