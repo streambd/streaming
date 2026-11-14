@@ -18,10 +18,6 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 # 🏆 Sports LIVE
 # ==========================================
 
-#EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/nNS4L61P/images-12.jpg", Bangladesh Vs Pakistan Saff Semifinal
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-https://live05.wecile.app/live/18812304.m3u8
-http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 
 {DYNAMIC_SONYLIV}
 
