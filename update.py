@@ -18,10 +18,8 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 # 🏆 Sports LIVE
 # ==========================================
 
-#EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/7dFjVh9k/images-11.jpg", India Vs Bhutan Saff Semifinal
-https://live2.jorvakstreamcache.com/live/channel7.m3u8
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/nNS4L61P/images-12.jpg", Bangladesh Vs Pakistan Saff Semifinal
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
-https://live05.wecile.app/live/87547578.m3u8
 
 {DYNAMIC_SONYLIV}
 
