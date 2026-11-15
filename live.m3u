@@ -15,13 +15,19 @@ https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf
 
 
 
-# Auto-Updated via Actions at: 2026-11-15 03:15:24 UTC
+# Auto-Updated via Actions at: 2026-11-15 03:20:25 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19064" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937869581020x576.jpg" group-title="Sports Live", New Zealand vs India - 5th ODI - India Tour of New Zealand 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-19064" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937869581020x576.jpg" group-title="Sports Live", New Zealand vs India - 5th ODI - India Tour of New Zealand 2026 - Server 2
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-20132" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17944713191020x576.jpg" group-title="Sports Live", Australia vs England - 2nd ODI - England Tour of Australia 2026 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-20132" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17944713191020x576.jpg" group-title="Sports Live", Australia vs England - 2nd ODI - England Tour of Australia 2026 - Server 2
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-19200" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17944775261020x576.jpg" group-title="Sports Live", Sydney Sixers vs Melbourne Renegades - Group Stage - Women's Big Bash League 2026
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
