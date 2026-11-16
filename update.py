@@ -296,14 +296,14 @@ https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8#skym3u.dev
 # 📺 Entertainment
 # ==========================================
 
-#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg", group-title="Hindi",Sony Max
-https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8#skym3u.dev
+# #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg", group-title="Hindi",Sony Max
+# https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8#skym3u.dev
 
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://i.ibb.co.com/CKdjfpRG/download-2.png"", group-title="Hindi",Colors Cineplex
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
 
-#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://i.ibb.co.com/23pJ9NM8/download-1.jpg",  group-title="Hindi", Sony Max 2
-https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
+# #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://i.ibb.co.com/23pJ9NM8/download-1.jpg",  group-title="Hindi", Sony Max 2
+# https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
 
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://i.ibb.co.com/zkFHw9d/download-2.jpg",  group-title="Hindi", Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
