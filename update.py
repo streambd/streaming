@@ -43,6 +43,9 @@ http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast
 https://drk6xq0vhn.gpcdn.net/hls/ten_cricket_hd_720/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
 
+#EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/fhfW0rk/download-4.png", Fifa+
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/2Yq7tQ3J/images-2.png", Bein Sports
 https://tvsen6.aynaott.com/beinsports/index.m3u8
 https://tinyurl.com/hmtk43up
@@ -345,7 +348,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 
 
 #EXTINF:-1 tvg-id="HumTV.pk" tvg-name="HUM TV" tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png" tvg-chno="298" group-title="Entertainment",HUM TV
-https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
+https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8
 
 # ==========================================
 # 🏆 Islamic
