@@ -201,6 +201,7 @@ https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CEtU2af.th.jpg", Colors Bangla Cenema
+http://live.balajibroadband.com:3500/live/1657.m3u8
 http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=sboxcast
 
 # --- Star Jalsa (1 Server) ---
