@@ -21,7 +21,7 @@ https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf
 
 
 
-# Auto-Updated via Actions at: 2026-11-16 16:50:21 UTC
+# Auto-Updated via Actions at: 2026-11-16 16:55:20 UTC
 
 #EXTINF:-1 tvg-id="tapmad-20090" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945558681020x576.jpg" group-title="Sports Live", Faroe Islands vs Moldova - MATCHDAY 6 - UEFA Nations League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
@@ -313,14 +313,14 @@ https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8#skym3u.dev
 # 📺 Entertainment
 # ==========================================
 
-#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg", group-title="Hindi",Sony Max
-https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8#skym3u.dev
+# #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg", group-title="Hindi",Sony Max
+# https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8#skym3u.dev
 
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://i.ibb.co.com/CKdjfpRG/download-2.png"", group-title="Hindi",Colors Cineplex
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
 
-#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://i.ibb.co.com/23pJ9NM8/download-1.jpg",  group-title="Hindi", Sony Max 2
-https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
+# #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://i.ibb.co.com/23pJ9NM8/download-1.jpg",  group-title="Hindi", Sony Max 2
+# https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
 
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://i.ibb.co.com/zkFHw9d/download-2.jpg",  group-title="Hindi", Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
