@@ -285,6 +285,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Indian Music" tvg-logo="https://iili.io/Ck8EfSa.th.jpg" ,B4U Music
 https://cdn-2.pishow.tv/live/415/master.m3u8
 
+#EXTINF:-1 group-title="Indian Music" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-149.webp",Sangeet Bhojpuri
+https://cdn.pishow.tv/ott/live/1293/master.m3u8
+
 #EXTINF:-1 group-title="Indian Music" tvg-name="B4U Movies",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
