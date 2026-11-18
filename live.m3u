@@ -6,7 +6,7 @@
 
 
 
-# Auto-Updated via Actions at: 2026-11-18 11:15:21 UTC
+# Auto-Updated via Actions at: 2026-11-18 11:20:22 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19997" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17944756861020x576.jpg" group-title="Sports Live", Pakistan vs Sri Lanka - 2nd Test - Sri Lanka Tour of Pakistan 2026
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
@@ -16,6 +16,9 @@ https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea
 
 #EXTINF:-1 tvg-id="tapmad-20133" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17944714541020x576.jpg" group-title="Sports Live", Australia vs England - 3rd ODI - England Tour of Australia 2026 - Server 2
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-20342" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17949987161020x576.jpg" group-title="Sports Live", GTA VI - Watch Party - Day 1 - Show - GTA VI
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
 
 
