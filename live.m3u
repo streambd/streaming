@@ -26,7 +26,7 @@ http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/TFkR87R/images-1.png", Ten Cricket
 https://drk6xq0vhn.gpcdn.net/hls/ten_cricket_hd_720/index.m3u8
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/onhhok4gqg/out/v1/b286f1b90a364e10976bcc541a8d99c2/cenc.mpd
+https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/fhfW0rk/download-4.png", Fifa+
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
