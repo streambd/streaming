@@ -545,6 +545,12 @@ https://flixhub.net/stream/movie/the-terminator
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg" group-title="English Movies", Terminator 2: Judgment Day
 https://flixhub.net/stream/movie/terminator-2-judgment-day
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg" group-title="English Movies", Home Alone
+https://flixhub.net/stream/movie/home-alone
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg" group-title="English Movies", Home Alone 2
+https://flixhub.net/stream/movie/home-alone-2-lost-in-new-york
+
 
 
 # ==========================================
