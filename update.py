@@ -24,7 +24,7 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 {DYNAMIC_CHANNELS}
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
-http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
+http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sbox
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Willow TV" tvg-logo="https://i.ibb.co.com/9HNtwDKJ/images-2.jpg" group-title="Sports",Willow TV
