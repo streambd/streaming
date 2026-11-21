@@ -18,6 +18,9 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 # 🏆 Sports LIVE
 # ==========================================
 
+#EXTINF:-1 tvg-id="tapmad-20244" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951724751020x576.jpg" group-title="Sports Live", Real Madrid vs Celta - MATCHDAY 13 - LaLiga 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+
 
 {DYNAMIC_SONYLIV}
 
