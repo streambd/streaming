@@ -3,13 +3,16 @@
 # 🏆 Sports LIVE
 # ==========================================
 
+#EXTINF:-1 tvg-id="tapmad-20244" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951724751020x576.jpg" group-title="Sports Live", Real Madrid vs Celta - MATCHDAY 13 - LaLiga 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg" group-title="Sports Live",UFC Fight Night - Prochazka vs Stirling
 https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/master.m3u8?hdnea=exp=1795338730~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0e869234bcee0e5cb18ba1d821921e985620c8c2e186e439fc496dd170e42894
 
 
 
-# Auto-Updated via Actions at: 2026-11-21 19:50:21 UTC
+# Auto-Updated via Actions at: 2026-11-21 19:51:24 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19318" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948117991020x576.jpg" group-title="Sports Live", Prochazka vs Stirling - Fight Night - UFC 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
