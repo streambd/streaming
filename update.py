@@ -25,10 +25,11 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sbox
-https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
+https://playztv-apps.pages.dev/ptv-sports/index.m3u8
+https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8
 
 #EXTINF:-1 tvg-name="Willow TV" tvg-logo="https://i.ibb.co.com/9HNtwDKJ/images-2.jpg" group-title="Sports",Willow TV
-https://tvsen7.aynaott.com/Sports1/tracks-v1a1/index.m3u8
+https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/Z6Y14TZ9/images-3.jpg",PTV Sports 
 http://103.114.11.37:8081/PTV/index.m3u8?token=sbox
