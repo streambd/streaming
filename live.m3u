@@ -4,27 +4,34 @@
 # ==========================================
 
 
-#EXTINF:-1 tvg-id="sonyliv-1090555325" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Sports Live", 1st Test - Day 3 | India Tour of New Zealand 2026 [English]
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795256449~acl=/*~id=23774108095885234202984716157965~hmac=9d981f66eeadcadcb49e68ddc3656e6d86c540e0c6f4e8a34a98eb5a4611933f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg" group-title="Sports Live",UFC Fight Night - Prochazka vs Stirling
+https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/master.m3u8?hdnea=exp=1795335226~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=ccd1aeee83cfc0a968d7fb9faea977244e220ecf08fd8aa5870262a5a412eaa7
 
 
 
-# Auto-Updated via Actions at: 2026-11-21 00:15:19 UTC
+# Auto-Updated via Actions at: 2026-11-21 18:24:33 UTC
 
-#EXTINF:-1 tvg-id="tapmad-19065" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945538171020x576.jpg" group-title="Sports Live", New Zealand vs India - 1st Test - India Tour of New Zealand 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19969" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17949010511020x576.jpg" group-title="Sports Live", Nice vs PSG - MATCHDAY 11 - French Ligue 1 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-19065" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945538171020x576.jpg" group-title="Sports Live", New Zealand vs India - 1st Test - India Tour of New Zealand 2026 - Server 2
+#EXTINF:-1 tvg-id="tapmad-20243" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951723171020x576.jpg" group-title="Sports Live", Sevilla vs Betis - MATCHDAY 13 - LaLiga 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19318" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948117991020x576.jpg" group-title="Sports Live", Prochazka vs Stirling - Fight Night - UFC 2026 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19318" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948117991020x576.jpg" group-title="Sports Live", Prochazka vs Stirling - Fight Night - UFC 2026 - Server 2
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 
 
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sbox
-https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
+https://playztv-apps.pages.dev/ptv-sports/index.m3u8
+https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8
 
 #EXTINF:-1 tvg-name="Willow TV" tvg-logo="https://i.ibb.co.com/9HNtwDKJ/images-2.jpg" group-title="Sports",Willow TV
-https://tvsen7.aynaott.com/Sports1/tracks-v1a1/index.m3u8
+https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://i.ibb.co.com/Z6Y14TZ9/images-3.jpg",PTV Sports 
 http://103.114.11.37:8081/PTV/index.m3u8?token=sbox
@@ -507,6 +514,9 @@ https://flixhub.net/stream/movie/animal
 # ==========================================
 # 🎬 Bengali Movies
 # ==========================================
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mV3N83F2bTzbaOKF7HEHTeA6UcL.jpg" group-title="Bengali Movies",Raghu Dakat (2025)
+https://01b06fe43029ee6b13b5a05ef22.r2.dev/%5BMovieBaaz.com%5D%20-%20Raghu%20Dakat%20(2025)%20Bangla%20AMZN%20WEB-DL%20720p%20-%20%5BCineBari.com%5D.mkv
 
 #EXTINF:-1 tvg-logo="https://www.ftpbd.net/wp-content/uploads/2026/10/3fRSYc87x4y85Qmt5yDXFVGTPMc.webp" group-title="Bengali Movies",Aajo Ardhangini (2026)
 https://fsldownload.com/p/xwtXmhpEFLklpivp._3KJ10jGLjz7oVaNKyIu_RwUqVKk59Ze-F3Nimo9VWLjbbtdOY_7bV7Si5Xf2fNQm_Db4FM-HbK7Qaekfgpyi7v4vDEpPhrFo64sqVVv6aO1xWKTwoDOHBxp98C5U8jmKS8FqEmn1Z1taeoVt1I2UNKqsJ9KxHajKqksozMUi_OlLFrNinT1jtxB3gCITKf-wbZDWUoYgAWQMc0E4hdIWihUFaqfUoCPxcPcO0hZdpsEsT4TxdOYxlLU6dZb6pLpV4wCY_EoDAO1fPPybRjPysWwFrum7ERv.vZ9C-7KxiFFvylb6y2OX2Q
