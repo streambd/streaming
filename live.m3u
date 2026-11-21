@@ -12,13 +12,13 @@ https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?
 
 
 
-# Auto-Updated via Actions at: 2026-11-21 22:00:31 UTC
+# Auto-Updated via Actions at: 2026-11-21 22:05:18 UTC
 
-#EXTINF:-1 tvg-id="tapmad-19318" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948117991020x576.jpg" group-title="Sports Live", Prochazka vs Stirling - Fight Night - UFC 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19065" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945538171020x576.jpg" group-title="Sports Live", New Zealand vs India - 1st Test - India Tour of New Zealand 2026 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-19318" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948117991020x576.jpg" group-title="Sports Live", Prochazka vs Stirling - Fight Night - UFC 2026 - Server 2
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19065" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945538171020x576.jpg" group-title="Sports Live", New Zealand vs India - 1st Test - India Tour of New Zealand 2026 - Server 2
+https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-19973" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17949025601020x576.jpg" group-title="Sports Live", Monaco vs Auxerre - MATCHDAY 11 - French Ligue 1 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
