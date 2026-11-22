@@ -8,19 +8,13 @@ https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?
 
 
 
-# Auto-Updated via Actions at: 2026-11-22 05:00:28 UTC
+# Auto-Updated via Actions at: 2026-11-22 05:05:19 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19065" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945538171020x576.jpg" group-title="Sports Live", New Zealand vs India - 1st Test - India Tour of New Zealand 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-19065" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945538171020x576.jpg" group-title="Sports Live", New Zealand vs India - 1st Test - India Tour of New Zealand 2026 - Server 2
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-20338" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17949057851020x576.jpg" group-title="Sports Live", FEI NAL - LA Arcadia / USA - Race - Longines FEI Jumping World Cup 2026
-https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-20232" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948200831020x576.jpg" group-title="Sports Live", Round 20 - Race 2 - Race 2 - Kumho FIA TCR World Tour Euro Series 2026
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-20326" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17949963911020x576.jpg" group-title="Sports Live", FIA GT World Cup - Day 2 - Race - Macau Grand Prix 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
