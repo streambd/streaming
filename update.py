@@ -195,7 +195,7 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://alvetv.com/moviebang
 
 # --- ZEE Bangla (1 Server) ---
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CEtU2af.th.jpg", ZEE Bangla
-https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/lLhY3yS.jpeg", Jalsha Movies
 https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
@@ -281,12 +281,14 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:-1 group-title="Indian Music" tvg-name="Baallee" ,Music India
+https://streams.tangotv.in/MUSICINDIA/ORIGIN/tracks-v1a1/mono.m3u8
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
 #EXTINF:-1 group-title="Indian Music" tvg-logo="https://imgur.com/79g2kMA.png",Music Masti
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Indian Music" tvg-logo="https://iili.io/Ck8EfSa.th.jpg" ,B4U Music
+https://streams.tangotv.in/B4UMUSIC/ORIGIN/tracks-v1a1/mono.m3u8
 https://cdn-2.pishow.tv/live/415/master.m3u8
 
 #EXTINF:-1 group-title="Indian Music" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/channel-149.webp",Sangeet Bhojpuri
@@ -303,8 +305,8 @@ https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8#skym3u.dev
 # 📺 Entertainment
 # ==========================================
 
-# #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg", group-title="Hindi",Sony Max
-# https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8#skym3u.dev
+#EXTINF:-1 tvg-name="Hindi" tvg-logo="https://iili.io/CeW7rwG.th.jpg", group-title="Hindi",Sony Max
+https://rangdhonulive.samiulislamabhi.workers.dev/sonyMAXhd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Hindi" tvg-logo="https://i.ibb.co.com/CKdjfpRG/download-2.png"", group-title="Hindi",Colors Cineplex
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
