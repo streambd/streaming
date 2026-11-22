@@ -108,6 +108,7 @@ https://playztv-apps.pages.dev/atn-bangla/index.m3u8
 
 # --- Somoy TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/CjUEHuV.th.jpg", Somoy TV
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/38.m3u8
 https://s3.itcnbd.live/server-6/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0yMDU.m3u8
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/tracks-v1a1/mono.ts.m3u8
 
