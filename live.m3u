@@ -8,7 +8,7 @@ https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?
 
 
 
-# Auto-Updated via Actions at: 2026-11-23 03:05:21 UTC
+# Auto-Updated via Actions at: 2026-11-23 03:10:30 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19065" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945538171020x576.jpg" group-title="Sports Live", New Zealand vs India - 1st Test - India Tour of New Zealand 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
@@ -412,11 +412,125 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 # 🎬 Hindi Movies
 # ==========================================
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/18Lhkc3nf92bY1cacQomXIqihhN.jpg" group-title="Hindi Movies", Sigma
+https://flixhub.net/stream/movie/sigma
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qrDFJdUBAqdiwcd0e0ajGpWtUPo.jpg" group-title="Hindi Movies", Sumo Didi
+https://flixhub.net/stream/movie/sumo-didi
+
+#EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/9e/9e9de1112c6a9068067be2c51ec9476f8cd41003.webp" group-title="Hindi Movies", Little Thomas
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Little%20Thomas%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Little%20Thomas%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg" group-title="Hindi Movies",Awarapan 2 (2026)
+https://flixhub.net/stream/movie/awarapan-2
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u12uWdDqpN64oLyM7ylcBhzpo1c.jpg" group-title="Hindi Movies",Vishwanath & Sons
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Vishwanath%20and%20Sons%20(2026)%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Vishwanath%20and%20Sons%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yyWYi1VDg15mk9JlWldmmR7yf9C.jpg" group-title="Hindi Movies",Drishyam: The Conclusion (2026)
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Drishyam%20The%20Conclusion%20(2026)%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Drishyam%20The%20Conclusion%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zqFuriKJ6pYDvf72kXNLONnuE8k.jpg" group-title="Hindi Movies",Fighter
+https://flixhub.net/stream/movie/fighter
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gIClWRv5OSe8rl5Koi0AeUcCZ9Z.jpg" group-title="Hindi Movies",Drishyam
+https://flixhub.net/stream/movie/drishyam
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q1wkN4VQuBTj1AeyTLLz2w6awMA.jpg" group-title="Hindi Movies",Sanju
+https://flixhub.net/stream/movie/sanju
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg" group-title="Hindi Movies",Cocktail 2 (2026)
+https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Cocktail-2%20(2026)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Cocktail-2%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/4b/4b6d2abd2f25cc6f8bf98efdd30c0253a8559288.webp" group-title="Hindi Movies", Toxic : A Fairy Tale for Grown-ups (2026)
+https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Toxic%20%282026%29%20Hindi%20Kannada%201080p%20HDRip%20x264%20ESub%20%5BDDN%5D/Toxic%20%282026%29%20Hindi%20Kannada%201080p%20HDRip%20x264%20ESub%20%5BDDN%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nh2UoBEmP00qQKb1b9pIrLcGIsT.jpg" group-title="Hindi Movies", Pooja Meri Jaan (2026)
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Pooja%20Meri%20Jaan%20(2026)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pooja%20Meri%20Jaan%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://iili.io/noSf8Kv.th.jpg" group-title="Hindi Movies", Last Man in Tower (2026)
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Last%20Man%20In%20Tower%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Last%20Man%20In%20Tower%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://ctgmovies.com/imgcache/78/78d8c25996765722a1d53b836d81370191eed42e.webp" group-title="Hindi Movies", Sardar 2 (2026)
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Sardar-2%20(2026)%20Tamil%20Telugu%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Sardar-2%20%282026%29%20Tamil%20Telugu%20720p%20HDTS%20x264%20ESub%20%5BDDN
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2mLyHeWwU0Ocv9Jvk72IDqZqT7G.jpg" group-title="Hindi Movies", The Family Star
+https://flixhub.net/stream/movie/the-family-star
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ptTwQES14pr5c3aZvJg56YlYgb1.jpg" group-title="Hindi Movies", Dhurandhar: The Revenge (2026)
+https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Dhurandhar%20the%20Revenge%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Dhurandhar%20the%20Revenge%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/llWz6LbVpGPChnNnhAiGJyPMDwP.jpg" group-title="Hindi Movies",Gunjan Saxena: The Kargil Girl
+https://flixhub.net/stream/movie/gunjan-saxena-the-kargil-girl
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yHKCsn5FteTI4UyHPvFE64ua6BT.jpg" group-title="Hindi Movies",Main Ladega
+https://flixhub.net/stream/movie/main-ladega
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/riEnSoGJ1WubamfrNpj4N0wVdoW.jpg" group-title="Hindi Movies", Ittefaq
+https://flixhub.net/stream/movie/ittefaq
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vhlliI7HZZlWfo5d6CiyfBAGLrW.jpg" group-title="Hindi Movies",Bajrangi Bhaijaan
+https://flixhub.net/stream/movie/bajrangi-bhaijaan
+
+#EXTINF:-1 tvg-logo="https://www.ftpbd.net/wp-content/uploads/2024/12/uYQxDrMGPjn7nicdgkwGUQBioLF.webp" group-title="Hindi Movies", Jailer (2023) Hindi Dubbed
+https://flixhub.net/stream/movie/jailer-2
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ngDEH7YqVaMCAD4LpNxRl6ScJnw.jpg" group-title="Hindi Movies", Meiyazhagan
+https://flixhub.net/stream/movie/meiyazhagan
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1_T0UL_6Se2RavH3ulleUD8E3Ubwr6yzzw7-x3wbQuw&s=10" group-title="Hindi Movies", Kabhi Khushi Kabhie Gham
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/2001/Kabhi-Khushi-Kabhie-Gham--%282001%29-1080p-BluRay/Kabhi.Khushi.Kabhie.Gham....2001.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D_reencoded.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8S-5i4wL7PVHZrmFcab27Q0jaM2zVPfXCcOOOWu8HmQ&s=10" group-title="Hindi Movies", Hum Dil De Chuke Sanam
+https://fsldownload.com/p/VfhcJzN5mZZGg40w.KZdq9CTs5QJxir-ebI5z4G20FSXmAHGgBIwgl7drTgdie0TV7JgQ_DAfQFeCe4Z5d9RcOUO6c7dsnv1l3Bxdv4BZ-NLKk_zCv8nOFbescfvM57FE27Cm254DLcOQNZWImkg4qQB5nE9KFxLtCblig24G8cot9Lb3fJItY5dC0xNiVfwChMyOu_7Y7oo4qS5MkhYLvr0dc-g75aQuVy8qLClBD1PKvISXx17riKhtB_PAGWiZldaVKD7QaClJtiLUqfqhU_CnUtXrcqmn5cmnayPFXSgk.Zpms82KKzZfPYHsKcRMKuA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwknTty0Jpl5V4wQmKnVNuuwZgdrcH5nfoxlrn2zp5g&s=10" group-title="Hindi Movies", 3 idiots
+https://flixhub.net/stream/movie/3-idiots
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAxp7zi6TKNvrY48-HC8I4ggfEk5BDRvb7EA0XLbXpuw&s=10" group-title="Hindi Movies", Dangal
+https://media.ctgfun.com/disk3/Hindi%20Movies/2016/Dangal.2017.Hindi.1080p.BRRiP.6CH.ShAaNiG/Dangal.2017.Hindi.1080p.BRRiP.6CH.ShAaNiG.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFyLHJT8lyQBiNupyMyOGNj83cFowiqJiGjDgv-syc7nPXGRidjdYEp2H7d4UPVMRG6u76hMBmiE5S3FEUpPgh-QNmAFP17ea0TnXGNFgKA&s=10" group-title="Hindi Movies",PK
+https://flixhub.net/stream/movie/pk
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bPtZ7Zr6o6ERGAkbLdFo8Yu5cx1XAkRPNCiD5srHuQ&s=10" group-title="Hindi Movies",Swades
+https://fsldownload.com/p/7wtedBn4zwwdY8MF.Rk2uWwiRKexciYh1UYV8C7GTym-ZS2UfKImHWU4ey9WdSnAxH8_SDk_rNKiV1lOik9uECoHnFWAWgFqdpHfNh6uZzrNkLv5F6soQ7nJjyaL5YSblpgpDK9zMIWXydDjPJ0tGMwEB0DCTFD150fCXqV1FZ04gOSUa9GT8ZaqsMudRD5ttkzXg6PMpGnUJFcUQ2jQ9MJMJzK1RKpu_PRqu2xnUK5cfpvKQh45LxdyJMuuFc1pvQUxulhDFkEM-yi4osCoZlV3iLykguwyV2Q.Bs5jBpa1NF5b62wByNe7gg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7E4Xbp-lAPpKPAo6Skg78Vsrj2zIVe2CgurT7ZbmtXw&s=10" group-title="Hindi Movies", Main Hoon Na
+https://flixhub.net/stream/movie/main-hoon-na
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5FmtHHDGPofW5Zjns1EM1D8503c.jpg" group-title="Hindi Movies", kuch kuch hota hai
+https://flixhub.net/stream/movie/kuch-kuch-hota-hai
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQANAZkIaaAmnr589rWcsUHKcbKQb-qRNpgNmAtY1t6LA&s=10" group-title="Hindi Movies", Animal 2023
+https://flixhub.net/stream/movie/animal
+
 
 
 # ==========================================
 # 🎬 Bengali Movies
 # ==========================================
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mV3N83F2bTzbaOKF7HEHTeA6UcL.jpg" group-title="Bengali Movies",Raghu Dakat (2025)
+https://pub-fd72f01b06fe43029ee6b13b5a05ef22.r2.dev/%5BMovieBaaz.com%5D%20-%20Raghu%20Dakat%20(2025)%20Bangla%20AMZN%20WEB-DL%20720p%20-%20%5BCineBari.com%5D.mkv
+
+#EXTINF:-1 tvg-logo="https://www.ftpbd.net/wp-content/uploads/2026/10/3fRSYc87x4y85Qmt5yDXFVGTPMc.webp" group-title="Bengali Movies",Aajo Ardhangini (2026)
+https://fsldownload.com/p/xwtXmhpEFLklpivp._3KJ10jGLjz7oVaNKyIu_RwUqVKk59Ze-F3Nimo9VWLjbbtdOY_7bV7Si5Xf2fNQm_Db4FM-HbK7Qaekfgpyi7v4vDEpPhrFo64sqVVv6aO1xWKTwoDOHBxp98C5U8jmKS8FqEmn1Z1taeoVt1I2UNKqsJ9KxHajKqksozMUi_OlLFrNinT1jtxB3gCITKf-wbZDWUoYgAWQMc0E4hdIWihUFaqfUoCPxcPcO0hZdpsEsT4TxdOYxlLU6dZb6pLpV4wCY_EoDAO1fPPybRjPysWwFrum7ERv.vZ9C-7KxiFFvylb6y2OX2Q
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7UkHJogQ1QOihEwmK67-zQz9Pk3ie1408anxnX7aekiaWq9VhpJV1MiW2&s=10" group-title="Bengali Movies" , Surongo (2023)
+https://pixeldrain.dev/api/file/XLydnsWL?download
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gasVnEUAFByENiAMUOdiI5CyH4Z.jpg" group-title="Bengali Movies",Vijaynagar'er Hirey
+https://flixhub.net/stream/movie/vijaynagarer-hirey
+
+#EXTINF:-1 tvg-logo="https://www.ftpbd.net/wp-content/uploads/2026/07/l3lcofmg6YoDOPCR0peenvJbPVO-scaled-288x400.jpg" group-title="Bengali Movies",Nari Choritro Bejay Jotil (2026) Bengali I WEBDL
+https://fsldownload.com/p/dEnbqJf8moOk44sV.oq3kp5JRcAumidMFPxvdki2peeRYXX5gMV0VhzIao2--qrQtQHtfh0kOM1jeHyA2Fm9Uldfgo68Vh55tOtFXD2tiaH3DabY1EQ1By80TpEFy2Bnk0DPl8cCSMJ9OthLeJ2UZAPVxRBvwaF2tdnaVG27cTl4lsOJcI7syAavMYvOKjLH-Nr24v9k-FHdAQVwSYabTsA22Y_WYIFYh34RMHwHProl96oWnTGMc4Q9THiDOXc3zCvXQZ7G9gJAkrin5BeiAfCDVyxvH0sp7EFaALy2CWqUdS6go4ZjY8LT6SXe6DA.xMImr_522OD8Cex9FYWYSg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpQDACR0UmRo_doQhWSND9HJ-g9XrKULEOXqLwrLy84g&s=10" group-title="Bengali Movies",Projapoti 2
+https://flixhub.net/stream/movie/projapati-2
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rupbZs8tE5h8SyaUEMFJECkIXvF.jpg" group-title="Bengali Movies", Ultorath
+https://flixhub.net/stream/movie/ultorath
 
 
 
