@@ -4,11 +4,11 @@
 # ==========================================
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="Sports Live",1st Test - Day 5 - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795455833~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=3139b9e63a1dabe8e3e92ab2f1f56bee66fa2f0f4b86c7c4ca07d2e363c1eff3
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795457628~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=532390ba574a24b0aafcaaeda774b0812470798d9f6f1e05e289b5f5d74bd91c
 
 
 
-# Auto-Updated via Actions at: 2026-11-23 04:20:26 UTC
+# Auto-Updated via Actions at: 2026-11-23 04:25:19 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19065" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945538171020x576.jpg" group-title="Sports Live", New Zealand vs India - 1st Test - India Tour of New Zealand 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
