@@ -11,7 +11,7 @@ https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2411/ENG/master.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-11-24 17:55:18 UTC
+# Auto-Updated via Actions at: 2026-11-24 18:00:38 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19788" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951666271020x576.jpg" group-title="Sports Live", Shabab Al Ahli (UAE) vs Al Qadsiah Club (KSA) - MATCHDAY 5 - AFC Champions League Elite 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
@@ -24,6 +24,9 @@ https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115f
 
 #EXTINF:-1 tvg-id="tapmad-19393" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17954253561020x576.jpg" group-title="Sports Live", Bodo/Glimt vs LASK - MATCHDAY 5 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19793" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951672201020x576.jpg" group-title="Sports Live", Al Nassr Club (KSA) vs Al Sadd SC (QAT) - MATCHDAY 5 - AFC Champions League Elite 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
 
 
