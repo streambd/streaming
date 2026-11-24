@@ -4,20 +4,17 @@
 # ==========================================
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029724/1795410670843751_ACRS26_PAK_A_vs_NEPAL_live_landscape_thumb.jpg" group-title="Sports Live",Pakistan A vs Nepal - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2411/ENG/master.m3u8?hdnea=exp=1795558557~acl=/*~id=24665056345704341744899527848013~hmac=273b4134a813f9aae8272b7a24ae55853640164522b157bc19d4db6ab7e2732b
+https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2411/ENG/master.m3u8?hdnea=exp=1795560620~acl=/*~id=61377060537421798650858729800481~hmac=c6750fca9e52cb70f5394fd3df1522fb7b1106f05a23d1ff46a123288204fe99
 
 
 
-# Auto-Updated via Actions at: 2026-11-24 10:50:25 UTC
+# Auto-Updated via Actions at: 2026-11-24 10:55:16 UTC
 
 #EXTINF:-1 tvg-id="tapmad-20135" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948130081020x576.jpg" group-title="Sports Live", Australia vs England - 2nd T20I - England Tour of Australia 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-20135" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948130081020x576.jpg" group-title="Sports Live", Australia vs England - 2nd T20I - England Tour of Australia 2026 - Server 2
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-19758" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951617411020x576.jpg" group-title="Sports Live", Newcastle Jets FC (AUS) vs Kashiwa Reysol (JPN) - MATCHDAY 5 - AFC Champions League Elite 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-20366" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955019471020x576.jpg" group-title="Sports Live", Chattogram City FC Brothers Union Ltd - MATCHDAY 5 - Federation Cup 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
