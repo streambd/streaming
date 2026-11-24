@@ -3,9 +3,15 @@
 # 🏆 Sports LIVE
 # ==========================================
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795314761395444_UCL26_MD5_Galatasaray_vs_Aston_Villa_landscape_thumb.jpg" group-title="Sports Live",Galatasaray vs Aston Villa - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2411/ENG/master.m3u8?hdnea=exp=1795590827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=3765817a4ec77831b1e0d96752eb486c9e4b8fa92fa5252e776105bc08ce260c
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795313030813444_UCL26_MD5_Bodo_vs_LASK_landscape_thumb.jpg" group-title="Sports Live",Bodø/Glimt vs LASK - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2411/ENG/master.m3u8?hdnea=exp=1795590827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=3765817a4ec77831b1e0d96752eb486c9e4b8fa92fa5252e776105bc08ce260c
 
 
-# Auto-Updated via Actions at: 2026-11-24 17:25:23 UTC
+
+# Auto-Updated via Actions at: 2026-11-24 17:30:35 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19788" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951666271020x576.jpg" group-title="Sports Live", Shabab Al Ahli (UAE) vs Al Qadsiah Club (KSA) - MATCHDAY 5 - AFC Champions League Elite 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
