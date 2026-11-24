@@ -3,30 +3,9 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795326333966198_UCL26_MD5_RB_Leipzig_vs_RC_Lens_landscape_thumb.jpg" group-title="Sports Live",RB Leipzig vs RC Lens - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive2411/ENG/master.m3u8?hdnea=exp=1795607033~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=56a552e8bc0b3867d6ca3e3be3835c88f34bc214a440e20adaabac4b33febff9
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795330176307198_UCL26_MD5_Bratislava_vs_Real_Betis_landscape_thumb.jpg" group-title="Sports Live",Slovan Bratislava vs Real Betis - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive2411/ENG/master.m3u8?hdnea=exp=1795607033~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=56a552e8bc0b3867d6ca3e3be3835c88f34bc214a440e20adaabac4b33febff9
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795318910325444_UCL26_MD5_Man_City_vs_Napoli_landscape_thumb.jpg" group-title="Sports Live",Manchester City vs Napoli - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive2411/ENG/master.m3u8?hdnea=exp=1795607033~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=56a552e8bc0b3867d6ca3e3be3835c88f34bc214a440e20adaabac4b33febff9
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg" group-title="Sports Live",Arsenal vs Borussia Dortmund - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive2411/ENG/master.m3u8?hdnea=exp=1795607033~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=56a552e8bc0b3867d6ca3e3be3835c88f34bc214a440e20adaabac4b33febff9
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795330600882198_UCL26_MD5_Como_vs_Athens_landscape_thumb.jpg" group-title="Sports Live",Como 1907 vs AEK Athens - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive2411/ENG/master.m3u8?hdnea=exp=1795607033~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=56a552e8bc0b3867d6ca3e3be3835c88f34bc214a440e20adaabac4b33febff9
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795315004894444_UCL26_MD5_Real_Madrid_vs_PSV_landscape_thumb.jpg" group-title="Sports Live",Real Madrid vs PSV Eindhoven - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2411/ENG/master.m3u8?hdnea=exp=1795607033~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=56a552e8bc0b3867d6ca3e3be3835c88f34bc214a440e20adaabac4b33febff9
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320669674444_UCL26_MD5_Feyenoord_vs_Porto_landscape_thumb.jpg" group-title="Sports Live",Feyenoord vs FC Porto - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2411/ENG/master.m3u8?hdnea=exp=1795607034~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=21bdadd80300825715477ed9a483d9e7b5c2bace4d375e526acda2fa65549480
 
 
-
-# Auto-Updated via Actions at: 2026-11-24 22:25:21 UTC
+# Auto-Updated via Actions at: 2026-11-24 22:30:25 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19401" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955043021020x576.jpg" group-title="Sports Live", Slovan Bratislava vs Real Betis - MATCHDAY 5 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
