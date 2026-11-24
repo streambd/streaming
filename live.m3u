@@ -8,7 +8,7 @@ https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2411/ENG/master.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-11-24 10:05:16 UTC
+# Auto-Updated via Actions at: 2026-11-24 10:10:21 UTC
 
 #EXTINF:-1 tvg-id="tapmad-20135" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948130081020x576.jpg" group-title="Sports Live", Australia vs England - 2nd T20I - England Tour of Australia 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
@@ -27,6 +27,9 @@ https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15f
 
 #EXTINF:-1 tvg-id="tapmad-20364" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955016991020x576.jpg" group-title="Sports Live", Fortis FC Ltd vs Rahamatgonj MFS - MATCHDAY 5 - Federation Cup 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19768" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951652401020x576.jpg" group-title="Sports Live", Kyoto Sanga F.C. (JPN) vs FC Pohang Steelers (KOR) - MATCHDAY 5 - AFC Champions League Elite 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-19763" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951645181020x576.jpg" group-title="Sports Live", Daejeon Hana Citizen FC (KOR) vs Beijing FC (CHN) - MATCHDAY 5 - AFC Champions League Elite 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
