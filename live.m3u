@@ -4,11 +4,11 @@
 # ==========================================
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029562/1795243533319330_UYL26_MD5_PSG_vs_roma_landscape_thumb.jpg" group-title="Sports Live",Paris Saint-German vs AS Roma - UEFA Youth League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120304/footlive2511/ENG/master.m3u8?hdnea=exp=1795673630~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=08ae794aaf98cfdd4e31639c83c6803747b5edf2e53313676eccb2d720b10288
+https://sonydaimenew.akamaized.net/hls/live/2120304/footlive2511/ENG/master.m3u8?hdnea=exp=1795675430~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=e90199fe6e9ced619a2eb47e75fb384f8323b7ad32c998a22977ad88fe723aa1
 
 
 
-# Auto-Updated via Actions at: 2026-11-25 16:50:27 UTC
+# Auto-Updated via Actions at: 2026-11-25 16:55:19 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19603" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955121951020x576.jpg" group-title="Sports Live", Kuwait SC (KUW) vs Al Wahda FC (UAE) - MATCHDAY 5 - AFC Champions League Two 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
@@ -26,6 +26,7 @@ https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sbox
+http://103.209.196.22:84/feed1001/index.m3u8
 https://playztv-apps.pages.dev/ptv-sports/index.m3u8
 https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8
 
@@ -517,6 +518,9 @@ https://flixhub.net/stream/movie/animal
 # 🎬 Bengali Movies
 # ==========================================
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dL1FQKH/921130404-3515598678602251-1458064149089497174-n.png" group-title="Bengali Movies",Kunsuti
+https://pub-fd72f01b06fe43029ee6b13b5a05ef22.r2.dev/%5BMovieBaaz.com%5D%20-%20Khunsuti%20(2026)%20Bangla%20BongoBD%20WEB%20DL%20720p%20-%20%5BCineBari.com%5D.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mV3N83F2bTzbaOKF7HEHTeA6UcL.jpg" group-title="Bengali Movies",Raghu Dakat (2025)
 https://pub-fd72f01b06fe43029ee6b13b5a05ef22.r2.dev/%5BMovieBaaz.com%5D%20-%20Raghu%20Dakat%20(2025)%20Bangla%20AMZN%20WEB-DL%20720p%20-%20%5BCineBari.com%5D.mkv
 
@@ -524,7 +528,7 @@ https://pub-fd72f01b06fe43029ee6b13b5a05ef22.r2.dev/%5BMovieBaaz.com%5D%20-%20Ra
 https://fsldownload.com/p/xwtXmhpEFLklpivp._3KJ10jGLjz7oVaNKyIu_RwUqVKk59Ze-F3Nimo9VWLjbbtdOY_7bV7Si5Xf2fNQm_Db4FM-HbK7Qaekfgpyi7v4vDEpPhrFo64sqVVv6aO1xWKTwoDOHBxp98C5U8jmKS8FqEmn1Z1taeoVt1I2UNKqsJ9KxHajKqksozMUi_OlLFrNinT1jtxB3gCITKf-wbZDWUoYgAWQMc0E4hdIWihUFaqfUoCPxcPcO0hZdpsEsT4TxdOYxlLU6dZb6pLpV4wCY_EoDAO1fPPybRjPysWwFrum7ERv.vZ9C-7KxiFFvylb6y2OX2Q
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7UkHJogQ1QOihEwmK67-zQz9Pk3ie1408anxnX7aekiaWq9VhpJV1MiW2&s=10" group-title="Bengali Movies" , Surongo (2023)
-https://pixeldrain.dev/api/file/XLydnsWL?download
+https://pub-fd72f01b06fe43029ee6b13b5a05ef22.r2.dev/%5BMovieBaaz.com%5D%20-%20Surongo%20(2023)%20Bangla%20Chorki%20WEB-DL%20720p%20-%20%5BCineBari.com%5D.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gasVnEUAFByENiAMUOdiI5CyH4Z.jpg" group-title="Bengali Movies",Vijaynagar'er Hirey
 https://flixhub.net/stream/movie/vijaynagarer-hirey
