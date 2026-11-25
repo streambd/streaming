@@ -169,17 +169,18 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://210.4.72.204/hls-liv
 # --- Ekattor TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C5X9K1j.md.png", Ekattor TV
 https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
+https://nkafmbewiff.gpcdn.net/tile_1/master.m3u8
 
 # --- Jamuna TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C74OoNa.th.png", Jamuna TV
 https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
 
+# #EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co.com/zD6f8mT/images-3.pn" ,Channel 9
+https://nkafmbewiff.gpcdn.net/tile_7/master.m3u8
+
 #-------Thikana TV---------
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co.com/zh8zDdmp/5.jpg",Thikana Tv
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
-
-# #EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co/VWL70Dvx/logo.png" ,Me IPTV BD
-# https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co.com/21Jj6JyF/sanonda.jpg" ,Sanonda TV
 https://live.sanandatelevision.in/sananda/index.m3u8
