@@ -3,15 +3,12 @@
 # 🏆 Sports LIVE
 # ==========================================
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029562/1795243348812330_UYL26_MD5_Sporting_CP_vs_ManUnited_landscape_thumb.jpg" group-title="Sports Live",Sporting CP vs Manchester United - UEFA Youth League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120303/footlive2511/ENG/master.m3u8?hdnea=exp=1795668133~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=12c3b637e1daed478f23cc39908452ebd34c70485f3d67af0b4b8e54e1f3e8dc
-
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029562/1795243533319330_UYL26_MD5_PSG_vs_roma_landscape_thumb.jpg" group-title="Sports Live",Paris Saint-German vs AS Roma - UEFA Youth League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120304/footlive2511/ENG/master.m3u8?hdnea=exp=1795668133~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=12c3b637e1daed478f23cc39908452ebd34c70485f3d67af0b4b8e54e1f3e8dc
+https://sonydaimenew.akamaized.net/hls/live/2120304/footlive2511/ENG/master.m3u8?hdnea=exp=1795670037~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=4af6755d4cf3d6718559856a6f156a2415cc3a4b13c122b4652733e4faca23ab
 
 
 
-# Auto-Updated via Actions at: 2026-11-25 15:25:20 UTC
+# Auto-Updated via Actions at: 2026-11-25 15:30:35 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19583" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955106821020x576.jpg" group-title="Sports Live", PFC Nasaf (UZB) vs Al Khaldiya SC (BHR) - MATCHDAY 5 - AFC Champions League Two 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
