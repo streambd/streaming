@@ -11,7 +11,7 @@ https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2511/ENG/master.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-11-25 17:30:27 UTC
+# Auto-Updated via Actions at: 2026-11-25 17:35:17 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19603" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955121951020x576.jpg" group-title="Sports Live", Kuwait SC (KUW) vs Al Wahda FC (UAE) - MATCHDAY 5 - AFC Champions League Two 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
@@ -24,6 +24,12 @@ https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154
 
 #EXTINF:-1 tvg-id="tapmad-19588" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955110281020x576.jpg" group-title="Sports Live", Al Faisaly (JOR) vs Al Rayyan SC (QAT) - MATCHDAY 5 - AFC Champions League Two 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19403" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955045671020x576.jpg" group-title="Sports Live", Slavia Praha vs Villarreal - MATCHDAY 5 - UEFA Champions League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19402" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955044351020x576.jpg" group-title="Sports Live", Sabah vs Barcelona - MATCHDAY 5 - UEFA Champions League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 
 
 
