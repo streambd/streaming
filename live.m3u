@@ -8,7 +8,7 @@ https://sonydaimenew.akamaized.net/hls/live/2120304/footlive2511/ENG/master.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-11-25 17:15:27 UTC
+# Auto-Updated via Actions at: 2026-11-25 17:20:23 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19603" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955121951020x576.jpg" group-title="Sports Live", Kuwait SC (KUW) vs Al Wahda FC (UAE) - MATCHDAY 5 - AFC Champions League Two 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
@@ -171,17 +171,18 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://210.4.72.204/hls-liv
 # --- Ekattor TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C5X9K1j.md.png", Ekattor TV
 https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
+https://nkafmbewiff.gpcdn.net/tile_1/master.m3u8
 
 # --- Jamuna TV (1 Server) ---
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://iili.io/C74OoNa.th.png", Jamuna TV
 https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
 
+# #EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co.com/zD6f8mT/images-3.pn" ,Channel 9
+https://nkafmbewiff.gpcdn.net/tile_7/master.m3u8
+
 #-------Thikana TV---------
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co.com/zh8zDdmp/5.jpg",Thikana Tv
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
-
-# #EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co/VWL70Dvx/logo.png" ,Me IPTV BD
-# https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 group-title="BD TV" tvg-logo="https://i.ibb.co.com/21Jj6JyF/sanonda.jpg" ,Sanonda TV
 https://live.sanandatelevision.in/sananda/index.m3u8
