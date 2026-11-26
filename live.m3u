@@ -50,7 +50,7 @@ https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2611/ENG/master.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-11-26 19:30:30 UTC
+# Auto-Updated via Actions at: 2026-11-26 19:35:18 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19866" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953681111020x576.jpg" group-title="Sports Live", Celta vs Bournemouth - MATCHDAY 5 - UEFA Europa League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
@@ -75,6 +75,12 @@ https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115f
 
 #EXTINF:-1 tvg-id="tapmad-19859" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953661291020x576.jpg" group-title="Sports Live", Marseille vs Levski Sofia - MATCHDAY 5 - UEFA Europa League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19876" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953706231020x576.jpg" group-title="Sports Live", Ferencvaros vs Celje - MATCHDAY 5 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19875" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953703811020x576.jpg" group-title="Sports Live", OFI vs Anderlecht - MATCHDAY 5 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 
 
 
