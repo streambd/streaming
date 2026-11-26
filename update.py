@@ -384,13 +384,10 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
 # ==========================================
 
 #EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-chno="429" group-title="Documentary & Wildlife",Animal Planet 
-https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
+https://drk6xq0vhn.gpcdn.net/hls/animal_plnet_sd_720/index.m3u8
 
 #EXTINF:-1 group-title="Documentary & Wildlife" tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",Discovery
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-
-#EXTINF:-1 group-title="Documentary & Wildlife" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYi8fTRD2JvQusZi21I6hvtmjCEoRKlDx2APFYaWgrWg&s=10",Love Nature
-https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary & Wildlife" tvg-logo="https://i.ibb.co.com/yF8cbnXj/images-4.jpg",Wild Fox Hindi
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
@@ -399,7 +396,7 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
 #EXTINF:-1 group-title="Science Fiction" tvg-logo="https://assets-prod.services.toffeelive.com/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp",Discovery Science
-http://103.151.60.188:12345/hls/tab_l9gqwqb/index.m3u8?t=1791653473234
+https://drk6xq0vhn.gpcdn.net/hls/discovery_science_720/index.m3u8
 
 #EXTINF:-1 group-title="Adventure" tvg-logo="https://assets-prod.services.toffeelive.com/Ay6s-JQBv9knK3AHJTY1/posters/e8f65578-e82d-4e4a-a1ff-073becc5bd71.webp",Discovery Turbo
 https://prod-linear-media.toffeelive.com/cdn/live/discovery_turbo/playlist.m3u8?edge-cache-token=Expires=1790362930~Starts=1790359330~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=8YkWpeeYWvfEyXJpK0HwkzUXN8X9VFgvolQCiBbMmf3UwCBnrN8RewpjE6NfdnnV20SRSQnvWruk0PoYltYOAQ
@@ -409,7 +406,7 @@ https://prod-linear-media.toffeelive.com/cdn/live/discovery_turbo/playlist.m3u8?
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery.in" tvg-name="Investigation Discovery" tvg-logo="https://dtil.tmsimg.com/assets/s157811_ld_h15_aa.png?lock=720x540" tvg-chno="439" group-title="Documentary & Wildlife",Investigation Discovery
-https://stream.ottplus.live/live/id_hd_abr/index.m3u8
+https://drk6xq0vhn.gpcdn.net/hls/id_hd_720/index.m3u8
 
 #EXTINF:-1 tvg-id="local.bc3ae4d983e661a3" tvg-name="Love Nature" tvg-logo="https://i.postimg.cc/MZR248Yw/20240823-024104.png" tvg-chno="440" group-title="Documentary & Wildlife",Love Nature
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
