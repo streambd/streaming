@@ -5,7 +5,7 @@
 
 
 
-# Auto-Updated via Actions at: 2026-11-26 12:25:23 UTC
+# Auto-Updated via Actions at: 2026-11-26 12:30:27 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19628" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955964391020x576.jpg" group-title="Sports Live", Tampines Rovers FC (SGP) vs Shanghai Shenhua FC (CHN) - MATCHDAY 5 - AFC Champions League Two 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
@@ -206,7 +206,7 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://alvetv.com/moviebang
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/lLhY3yS.jpeg", Jalsha Movies
-https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
+https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0zMDM.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CEtU2af.th.jpg", Colors Bangla Cenema
 http://live.balajibroadband.com:3500/live/1657.m3u8
