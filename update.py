@@ -201,7 +201,7 @@ https://m.mxonlive.xyz/proxy-5441/auto_proxy.php?url=http://alvetv.com/moviebang
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/lLhY3yS.jpeg", Jalsha Movies
-https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
+https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0zMDM.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://iili.io/CEtU2af.th.jpg", Colors Bangla Cenema
 http://live.balajibroadband.com:3500/live/1657.m3u8
