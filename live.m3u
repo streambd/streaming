@@ -5,10 +5,19 @@
 
 
 
-# Auto-Updated via Actions at: 2026-11-26 09:45:21 UTC
+# Auto-Updated via Actions at: 2026-11-26 09:50:24 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19212" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17954150991020x576.jpg" group-title="Sports Live", Sydney Sixers vs Melbourne Stars - Group Stage - Women's Big Bash League 2026
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19628" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955964391020x576.jpg" group-title="Sports Live", Tampines Rovers FC (SGP) vs Shanghai Shenhua FC (CHN) - MATCHDAY 5 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19623" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955961061020x576.jpg" group-title="Sports Live", Kuching City FC (MAS) vs Phnom Penh Crown FC (CAM) - MATCHDAY 5 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19618" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955956851020x576.jpg" group-title="Sports Live", Gangwon FC (KOR) vs Kitchee SC (HKG) - MATCHDAY 5 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
 
 
