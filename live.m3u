@@ -4,17 +4,23 @@
 # ==========================================
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg" group-title="Sports Live",KSHI vs Churchill Brothers FC - MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795837430~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=eb6ea9538dc65aa3d196fdb3a08a6ef0544c1843f1b647d5fb464c1bd6b45631
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795839233~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=718cd853a3e3c52dcc9af94feb20dfe0d3841d8d5ab95242a2c71984f4c224d3
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg" group-title="Sports Live",Pakistan A vs Bangladesh A - Semi-Final - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795830630~acl=/*~id=20578819920586301480310219131986~hmac=b5af4b8a651f24b2048e79aa92a73527da43ba96ded05607543db03ad43294c5
+https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795832434~acl=/*~id=85611268412120145769673892908002~hmac=a681d81fa6f51deacf99ff0c207cc6b6bae851640f8c312eff2f02c93aefabe7
 
 
 
-# Auto-Updated via Actions at: 2026-11-27 14:20:21 UTC
+# Auto-Updated via Actions at: 2026-11-27 14:25:20 UTC
 
 #EXTINF:-1 tvg-id="tapmad-20368" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956793291020x576.jpg" group-title="Sports Live", Bashundhara Kings vs Fortis FC Ltd. - Round 6 - Bangladesh Football League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-20263" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956775371020x576.jpg" group-title="Sports Live", Al Qadsiah vs Al-Fayha - MATCHDAY 13 - Saudi Pro League 2026/27 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-20263" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956775371020x576.jpg" group-title="Sports Live", Al Qadsiah vs Al-Fayha - MATCHDAY 13 - Saudi Pro League 2026/27 - Server 2
+https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
 
 
 
