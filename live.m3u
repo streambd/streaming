@@ -4,11 +4,14 @@
 # ==========================================
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sports Live",2nd Test - Day 1 - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795788829~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a3a1ec6c629ae870ed080559a6508df65d8137a5b13aa06f3ff465f499083ced
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795790633~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=151aec3b4cb1ba2fb3174fed29391de44676331df71bfc3425566ffa4e7e2df9
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029986/1795622243895554_DP_World_Tour_BMW_PGA_day2_landscape_thumb.jpg" group-title="Sports Live",BMW Australian PGA Championship - Day 2 - DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795790633~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=151aec3b4cb1ba2fb3174fed29391de44676331df71bfc3425566ffa4e7e2df9
 
 
 
-# Auto-Updated via Actions at: 2026-11-27 00:50:20 UTC
+# Auto-Updated via Actions at: 2026-11-27 00:55:16 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19066" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948150491020x576.jpg" group-title="Sports Live", New Zealand vs India - 2nd Test - India Tour of New Zealand 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
@@ -16,7 +19,7 @@ https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115f
 #EXTINF:-1 tvg-id="tapmad-19066" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948150491020x576.jpg" group-title="Sports Live", New Zealand vs India - 2nd Test - India Tour of New Zealand 2026 - Server 2
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-20518" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17957201741020-23andlast.jpg" group-title="Sports Live", GT1 Race Club - Qualifying Round - Adelaide, Australia - Qualifying Race - GT World Challenge EU & Asia 2026
+#EXTINF:-1 tvg-id="tapmad-20521" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17957207731020-23andlast.jpg" group-title="Sports Live", GTWCA - Qualifying Round - Part 1 - Adelaide, Australia - Qualifying Race - GT World Challenge EU & Asia 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
 
