@@ -23,8 +23,8 @@ PLAYLIST_TEMPLATE = """#EXTM3U
 {DYNAMIC_CHANNELS}
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
-http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sbox
 http://103.209.196.22:84/feed1001/index.m3u8
+http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sbox
 https://playztv-apps.pages.dev/ptv-sports/index.m3u8
 https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8
 
