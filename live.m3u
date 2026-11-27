@@ -8,13 +8,7 @@ https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-11-27 12:45:21 UTC
-
-#EXTINF:-1 tvg-id="tapmad-20136" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948132271020x576.jpg" group-title="Sports Live", Australia vs England - 3rd T20I - England Tour of Australia 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-20136" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948132271020x576.jpg" group-title="Sports Live", Australia vs England - 3rd T20I - England Tour of Australia 2026 - Server 2
-https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
+# Auto-Updated via Actions at: 2026-11-27 12:50:21 UTC
 
 #EXTINF:-1 tvg-id="tapmad-19213" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17954152531020x576.jpg" group-title="Sports Live", Perth Scorchers vs Hobart Hurricanes - Group Stage - Women's Big Bash League 2026
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
@@ -25,8 +19,8 @@ https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15f
 
 
 #EXTINF:-1 group-title="Sports Live" tvg-logo="https://iili.io/CjUgT6G.th.jpg", T Sports
-http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sbox
 http://103.209.196.22:84/feed1001/index.m3u8
+http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sbox
 https://playztv-apps.pages.dev/ptv-sports/index.m3u8
 https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8
 
