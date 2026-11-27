@@ -11,7 +11,7 @@ https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-11-27 16:05:27 UTC
+# Auto-Updated via Actions at: 2026-11-27 16:15:20 UTC
 
 #EXTINF:-1 tvg-id="tapmad-20263" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956775371020x576.jpg" group-title="Sports Live", Al Qadsiah vs Al-Fayha - MATCHDAY 13 - Saudi Pro League 2026/27 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
@@ -512,6 +512,30 @@ https://flixhub.net/stream/movie/animal
 # ==========================================
 # 🎬 Bengali Movies
 # ==========================================
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d0VWrPBX/921130404-3515598678602251-1458064149089497174-n.png" group-title="Bengali Movies",Kunsuti
+https://pub-fd72f01b06fe43029ee6b13b5a05ef22.r2.dev/%5BMovieBaaz.com%5D%20-%20Khunsuti%20(2026)%20Bangla%20BongoBD%20WEB%20DL%20720p%20-%20%5BCineBari.com%5D.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mV3N83F2bTzbaOKF7HEHTeA6UcL.jpg" group-title="Bengali Movies",Raghu Dakat (2025)
+https://pub-fd72f01b06fe43029ee6b13b5a05ef22.r2.dev/%5BMovieBaaz.com%5D%20-%20Raghu%20Dakat%20(2025)%20Bangla%20AMZN%20WEB-DL%20720p%20-%20%5BCineBari.com%5D.mkv
+
+#EXTINF:-1 tvg-logo="https://www.ftpbd.net/wp-content/uploads/2026/10/3fRSYc87x4y85Qmt5yDXFVGTPMc.webp" group-title="Bengali Movies",Aajo Ardhangini (2026)
+https://fsldownload.com/p/xwtXmhpEFLklpivp._3KJ10jGLjz7oVaNKyIu_RwUqVKk59Ze-F3Nimo9VWLjbbtdOY_7bV7Si5Xf2fNQm_Db4FM-HbK7Qaekfgpyi7v4vDEpPhrFo64sqVVv6aO1xWKTwoDOHBxp98C5U8jmKS8FqEmn1Z1taeoVt1I2UNKqsJ9KxHajKqksozMUi_OlLFrNinT1jtxB3gCITKf-wbZDWUoYgAWQMc0E4hdIWihUFaqfUoCPxcPcO0hZdpsEsT4TxdOYxlLU6dZb6pLpV4wCY_EoDAO1fPPybRjPysWwFrum7ERv.vZ9C-7KxiFFvylb6y2OX2Q
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hF6Vygs8/q5-Osh-R7-S6-ZKWv-Pr5lq-Ih5hf-Uxo2-1.webp" group-title="Bengali Movies" , Surongo (2023)
+https://pub-fd72f01b06fe43029ee6b13b5a05ef22.r2.dev/%5BMovieBaaz.com%5D%20-%20Surongo%20(2023)%20Bangla%20Chorki%20WEB-DL%20720p%20-%20%5BCineBari.com%5D.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gasVnEUAFByENiAMUOdiI5CyH4Z.jpg" group-title="Bengali Movies",Vijaynagar'er Hirey
+https://flixhub.net/stream/movie/vijaynagarer-hirey
+
+#EXTINF:-1 tvg-logo="https://www.ftpbd.net/wp-content/uploads/2026/07/l3lcofmg6YoDOPCR0peenvJbPVO-scaled-288x400.jpg" group-title="Bengali Movies",Nari Choritro Bejay Jotil (2026) Bengali I WEBDL
+https://fsldownload.com/p/dEnbqJf8moOk44sV.oq3kp5JRcAumidMFPxvdki2peeRYXX5gMV0VhzIao2--qrQtQHtfh0kOM1jeHyA2Fm9Uldfgo68Vh55tOtFXD2tiaH3DabY1EQ1By80TpEFy2Bnk0DPl8cCSMJ9OthLeJ2UZAPVxRBvwaF2tdnaVG27cTl4lsOJcI7syAavMYvOKjLH-Nr24v9k-FHdAQVwSYabTsA22Y_WYIFYh34RMHwHProl96oWnTGMc4Q9THiDOXc3zCvXQZ7G9gJAkrin5BeiAfCDVyxvH0sp7EFaALy2CWqUdS6go4ZjY8LT6SXe6DA.xMImr_522OD8Cex9FYWYSg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpQDACR0UmRo_doQhWSND9HJ-g9XrKULEOXqLwrLy84g&s=10" group-title="Bengali Movies",Projapoti 2
+https://flixhub.net/stream/movie/projapati-2
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rupbZs8tE5h8SyaUEMFJECkIXvF.jpg" group-title="Bengali Movies", Ultorath
+https://flixhub.net/stream/movie/ultorath
 
 
 
