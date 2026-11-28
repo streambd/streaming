@@ -5,13 +5,25 @@
 
 
 
-# Auto-Updated via Actions at: 2026-11-28 19:45:19 UTC
+# Auto-Updated via Actions at: 2026-11-28 19:55:15 UTC
 
 #EXTINF:-1 tvg-id="tapmad-20267" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956780201020x576.jpg" group-title="Sports Live", Al-Ahli vs Al-Taawoun - MATCHDAY 13 - Saudi Pro League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-20253" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956806011020x576.jpg" group-title="Sports Live", Elche vs Atletico Madrid - MATCHDAY 14 - LaLiga 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19982" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956019711020x576.jpg" group-title="Sports Live", Le Havre vs Strasbourg - MATCHDAY 12 - French Ligue 1 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19981" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956017261020x576.jpg" group-title="Sports Live", Nice vs Troyes - MATCHDAY 12 - French Ligue 1 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19980" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955989301020x576.jpg" group-title="Sports Live", Le Mans vs LOSC - MATCHDAY 12 - French Ligue 1 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19979" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955987941020x576.jpg" group-title="Sports Live", PSG vs Lorient - MATCHDAY 12 - French Ligue 1 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 
 
 
