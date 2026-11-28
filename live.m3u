@@ -14,16 +14,16 @@ https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2811/ENG/master.m3u8
 
 
 
-# Auto-Updated via Actions at: 2026-11-28 16:05:15 UTC
-
-#EXTINF:-1 tvg-id="tapmad-20251" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956804561020x576.jpg" group-title="Sports Live", Betis vs Rayo Vallecano - MATCHDAY 14 - LaLiga 2026/27
-https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+# Auto-Updated via Actions at: 2026-11-28 16:10:23 UTC
 
 #EXTINF:-1 tvg-id="tapmad-20266" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956779141020x576.jpg" group-title="Sports Live", Al-Ettifaq vs Al-Hilal - MATCHDAY 13 - Saudi Pro League 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-20252" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956805301020x576.jpg" group-title="Sports Live", Malaga vs Athletic - MATCHDAY 14 - LaLiga 2026/27
 https://t-prod-bd.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19978" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955984841020x576.jpg" group-title="Sports Live", Angers vs Lens - MATCHDAY 12 - French Ligue 1 2026/27
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 
 
 
@@ -420,6 +420,9 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 # 🎬 Hindi Movies
 # ==========================================
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9m9v7NKW/images-14.jpg" group-title="Hindi Movies", Scene 2026
+https://pub-fd72f01b06fe43029ee6b13b5a05ef22.r2.dev/%5BMovieBaaz.com%5D%20-%20Scene%20(2026)%20Hindi%20Dubbed%20HQ%20720p%20-%20%5BCineBari.com%5D.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/18Lhkc3nf92bY1cacQomXIqihhN.jpg" group-title="Hindi Movies", Sigma
 https://flixhub.net/stream/movie/sigma
 
@@ -518,6 +521,9 @@ https://flixhub.net/stream/movie/animal
 # ==========================================
 # 🎬 Bengali Movies
 # ==========================================
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9mB474Dd/download-4.jpg" group-title="Bengali Movies",Bomkesh Baksi 2026
+https://pub-fd72f01b06fe43029ee6b13b5a05ef22.r2.dev/%5BMovieBaaz.com%5D%20-Byomkesh%20Bakshi%20(2026)%20S01%20Complete%20Bengali%20AT%20WEB-DL%20720p-%20%5BCineBari.com%5D.mkv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d0VWrPBX/921130404-3515598678602251-1458064149089497174-n.png" group-title="Bengali Movies",Kunsuti
 https://pub-fd72f01b06fe43029ee6b13b5a05ef22.r2.dev/%5BMovieBaaz.com%5D%20-%20Khunsuti%20(2026)%20Bangla%20BongoBD%20WEB%20DL%20720p%20-%20%5BCineBari.com%5D.mkv
